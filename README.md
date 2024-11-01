@@ -14,7 +14,7 @@ The repo contains:
 - The code for Visualizing Gradient Statistics.
 - The Gradient Statistics within our experimental scope.
 
-(Feel free to email Ming ([Homepage](https://mingliiii.github.io/), [Email](minglii@umd.edu)) for any questions or feedback.)
+(Feel free to email Ming ([Email](minglii@umd.edu)) for any questions or feedback.)
 
 ## News
 - [2024/10] We released the Layer_Gradient paper!
