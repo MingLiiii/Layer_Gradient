@@ -1,0 +1,2502 @@
+[
+    {
+        "instruction": "Yes / no, is the following a verifiable fact?\\n\"Black pepper a common spice used in many recipes from around the world.\"",
+        "input": "",
+        "output": "Black Pepper has grown quite the popularity and is used in numerous recipes throughout the globe.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Does the following sentence make sense?\\n\"Astronomers on Earth can spot the Sangre de Cristo Mountains on Mars with the naked eye.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "The Sangre de Cristo Mountains are located on Earth and not on Mars.\nThe final answer is no"
+    },
+    {
+        "instruction": "Is the following statement true?\\n\"I won concert tickets to a Fall Out Boy concert this coming weekend.\"",
+        "input": "",
+        "output": "Fall Out Boy is a band that plays music.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Does the following sentence make sense?\\n\"When people feel Jealousy, they also often feel angry, bitter, possessive, or sad.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "This is true, and other emotions can also go hand-in-hand with jealousy as well.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Is the following a factual statement?\\n\"A proven natural remedy for burns is Aloe.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Aloe is the main ingredient in almost all burn creams.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Does the following sentence make sense?\\n\"Pictures can be found of Harp seals playing along northern coastlines.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Harp seals are aquatic mammals that inhabit northern latitudes in North America and Europe. There are doubtless photos of them that can be found of them on the shorelines.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Claim: \"One can watch baseball players play in recordings of Super Bowl XLIV.\"\\nIs the claim above correct, and can it be verified by human common sense and without a web search?\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Super Bowl XLIV is a football contest, not a baseball one.\nThe final answer is no"
+    },
+    {
+        "instruction": "Is the following statement true?\\n\"LL Cool J writes books about living in the city of New York in the 90s.\"",
+        "input": "",
+        "output": "LL Cool J is a rapper known for his gangster rap in New York City in the early 90s.\nThe final answer is no"
+    },
+    {
+        "instruction": "Is the following statement true?\\n\"Mark Hamill came from a small town named Ham Mill, Massachusetts.\"",
+        "input": "",
+        "output": "Nonsense, And I don't believe it's an actual place.\nThe final answer is no"
+    },
+    {
+        "instruction": "Is the following a factual statement?\\n\"People that use Crack cocaine refer themselves as crackheads.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "That term is used by people that use that drug.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Is the following statement true?\\n\"Eastern grey kangaroos are amphibious and swim everywhere.\"",
+        "input": "",
+        "output": "Eastern grey kangaroos are not amphibious and cannot swim.\nThe final answer is no"
+    },
+    {
+        "instruction": "Sloths spend most of their time in trees.\\nIs the above claim true?\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Because a sloth moves so alow, they stay on higher ground to avoid being attacked.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Bodhisattvas withhold enlightenment in their religious journey.\\nIs the above claim true?\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Bodhisattvas avoid enlightenment to teach others about Buddhism.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Ren\u00e9 Magritte surrealism employs a simpler, less photorealistic style than Dali's.\\nIs the above claim true?\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Ren\u00e9 Magritte is well known as a surrealist, like Dali, though his works often have a less realistic quality.\nThe final answer is yes"
+    },
+    {
+        "instruction": "The Inuyasha anime was mistranslated into 'bleach for its American audience.\\nIs the above claim true?\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Because no one would name a show bleach, for no reason. Bleach was just a very poor translation of Inuyasha.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Is the following a factual statement?\\n\"LL Cool J invented the dessert topping known as Cool Whip.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "LL Cool J is a rapper and actor and did not invent Cool Whip.\nThe final answer is no"
+    },
+    {
+        "instruction": "Is the following statement true?\\n\"The Oval Office holds auto racing events because of its shape.\"",
+        "input": "",
+        "output": "The Oval Office is an oval like many racetracks, but it is much too small to be used for auto racing, and it would not be allowed by the government.\nThe final answer is no"
+    },
+    {
+        "instruction": "Is the following sentence factually correct?\\n\"Germany once employed the Exclamation mark as a form of currrency.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "The Deutsche Mark, not the exclamation mark, used to be a German form of currency.\nThe final answer is no"
+    },
+    {
+        "instruction": "Is the following sentence factually correct?\\n\"Christian fundamentalism influences the makeup industry by encouraging their followers to create custom lipgloss.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Christian fundamentalism may encourage a certain wardrobe, but not fashion or makeup industries directly.\nThe final answer is no"
+    },
+    {
+        "instruction": "Is the following sentence factually correct?\\n\"As of this year, the President of the Philippines and their government have decided to no longer do virginity tests on female soldiers.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "There was a recent agreement between the government, military and president of the Philippines to no longer do virginity tests on newly recruited female soldiers.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Is the following sentence factually correct?\\n\"Papaya fruit release collagen when they are not ripe.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "The papaya releases a latex fluid when they are not ripe.\nThe final answer is no"
+    },
+    {
+        "instruction": "Is the following sentence factually correct?\\n\"The band Gorillaz produced many music videos featuring animated characters.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "They are best known for these animated characters, who make up \"the band\".\nThe final answer is yes"
+    },
+    {
+        "instruction": "The Swastika started as a religous icon in the cultures of Eurasia.\\nIs the above claim true?\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "That is what is stated on official record.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Does the following sentence make sense?\\n\"A character played by Jimmy Stewart looks through a window in Greenwich Village imagining he's witnessing a murder.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Jimmy Stewart was in Alfred Hitchcocks movie Rear Window, which was set in Greenwich Village.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Does the following sentence make sense?\\n\"Tennessine, discovered in 2010, is a synthetic chemical element.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "It was discovered in 2010 and created by a nuclear reaction.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Honda built the Sonata car model.\\nIs the above claim true?\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "They never built that model, it was actually Hyundai.\nThe final answer is no"
+    },
+    {
+        "instruction": "Does the following sentence make sense?\\n\"The legendary Stan Lee gained the respect of many people, not only those who read the classic Marvel Comics.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Because of the success of the Marvel movies, the MCU, Stan Lee's name came to be known by many people who were not familiar with comics.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Is the following sentence factually correct?\\n\"North Korea\u2013United States relations seem to remain hostile.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Relations between the Democratic People's Republic of Korea and the United States of America have been historically hostile since the Korean War.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Does the following sentence make sense?\\n\"The Powerpuff Girls played as young girls with no superpowers and explored life as painfully average.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "The show reveals the adventures of three young girls with a myriad of different superpowers.\nThe final answer is no"
+    },
+    {
+        "instruction": "Yes / no, is the following a verifiable fact?\\n\"Referee's can arrest a player if they break a rule in a sports game.\"",
+        "input": "",
+        "output": "Referee's do not have arresting ability as they are not law enforcement.\nThe final answer is no"
+    },
+    {
+        "instruction": "Does the following sentence make sense?\\n\"Many films denote their date of production by using Roman numerals.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "The usage of Roman numerals to denote the copyright of films is a well known tradition.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Yes / no, is the following a verifiable fact?\\n\"PlayStation 3 currently produces new products.\"",
+        "input": "",
+        "output": "PlayStation 3 is a retired video game system.\nThe final answer is no"
+    },
+    {
+        "instruction": "Yes / no, is the following a verifiable fact?\\n\"THE Formation and evolution of the Solar System BEGAN ABOUT 4.5 BILLION YEARS AGO WITH GRAVITATIONAL COLLAPSE OF A SMALL PART OF A GIANT MOLECULAR CLOUD.MOST OF THE COLLAPSING MASS COLLECTED IN CENTER,FORMING THE SUN,WHILE THE REST FLATTENED INTO A PROTOPLANETARY DISK OUT OF WHICH THE PLANETS,MOONS,ASTEROIDS,AND OTHER SMALL SOLAR SYSTEM BODIES FORMED .PLANETARY SCIENCE IS THE STUDY OF CELESTIAL BODIES THAT ORBIT STARS ,WITH A PARTICULAR FOCUS ON OUE SOLAR SYSTEM.\"",
+        "input": "",
+        "output": "THIS INCLUDES STUDYING THE FORMATION AND EVOLUTION OF PLANETS ,THE MOONS AND RINGS THAT ORBIT THEM,AND OTHER SMALLER BODIES SUCH AS ASTEROIDS AND COMETS.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Is the following a factual statement?\\n\"The capital city of Antarctica has always been Geneva.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "This is false and can be demonstrated by research.\nThe final answer is no"
+    },
+    {
+        "instruction": "Is the following a factual statement?\\n\"Karachi collects more than a third of Pakistan's tax revenue, and generates approximately 20% of Pakistan's entire Gross Domestic Product (GDP).\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Karachi is now Pakistan's premier industrial and financial centre.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Is the following sentence factually correct?\\n\"One of the original cast of Saturday Night Live was Bill Murray.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Bill Murray is credited with being on season one of SNL.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Is the following sentence factually correct?\\n\"Bellfields is a suburb in the north of Guildford lying adjacent to Slyfield Industrial Estate and Stoughton.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Guildford House, a 17th-century town home, has a gallery with rotating exhibitions.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Is the following statement true?\\n\"Richard I of England waged war in the Middle East.\"",
+        "input": "",
+        "output": "Richard I of England ruled England at the time of the Crusades.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Yes / no, is the following a verifiable fact?\\n\"Most populous Sindh city Karachi is in the coastal region of India.\"",
+        "input": "",
+        "output": "Karachi is a populous coastal city of Pakistan.\nThe final answer is no"
+    },
+    {
+        "instruction": "Does the following sentence make sense?\\n\"One can find the houses of famous celebrities in Hollywood.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Hollywood is where famous actors film movies and live.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Is the following statement true?\\n\"There is a brief mention in the newly released UFO reports that SpaceX is in possession of an ancient piece of material created by someone from another world.\"",
+        "input": "",
+        "output": "There have been no credible reports of anything like this also spacex is able to putter around low earth orbit but that is it so far.\nThe final answer is no"
+    },
+    {
+        "instruction": "Yes / no, is the following a verifiable fact?\\n\"People founded Tenochtitlan in the area of modern-day Mexico.\"",
+        "input": "",
+        "output": "Tenochtitlan was a great city of the Aztecs, who lived in the region of modern-day Mexico.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Many people suck their soda through a Strawberry.\\nIs the above claim true?\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "A strawberry is a type of fruit, not a drinking tool.\nThe final answer is no"
+    },
+    {
+        "instruction": "Is the following sentence factually correct?\\n\"Metro-North Railroad houses a station on the moon.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "This is demonstrably false as there are no train stations on the moon.\nThe final answer is no"
+    },
+    {
+        "instruction": "Superman originated in the Planet Krypton.\\nIs the above claim true?\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "That was his home planet before it was destroyed.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Claim: \"Aamir Khan perfomed as a leading role in Qayamat se qayamat tak.\"\\nIs the claim above correct, and can it be verified by human common sense and without a web search?\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Aamir khan was the lead character in Qayamat se qayamat tak and it was released in 1988.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Is the following sentence factually correct?\\n\"You can't see any 15th century sites related to the Catholic Monarchs and Inquisition anymore.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "There are many historical sites related to the Spanish Inquisition and Catholic Monarchs.\nThe final answer is no"
+    },
+    {
+        "instruction": "Is the following a factual statement?\\n\"David Gilmour played guitar for Pink Floyd.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Many records, video tapes, prove this is the case.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Does the following sentence make sense?\\n\"Current research has found that Quartz crystals have a proven healing ability that has no scientific explanation.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "No crystals of any kind have ever passed the double blind test for healing or anything supernatural.\nThe final answer is no"
+    },
+    {
+        "instruction": "Does the following sentence make sense?\\n\"Christopher Columbus iwas an explorer who sailed the oceans and discovered Northern America by mistake.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "He sailed the seas and landed by mistake on the American coastwhile he was looking for the Indian coast.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Yes / no, is the following a verifiable fact?\\n\"Breadfruit offers one with a chance roast it, bake it or once dried it can be grounded into flour.\"",
+        "input": "",
+        "output": "This is true because one can find flour which has been grounded from Breadfruit.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Is the following sentence factually correct?\\n\"Cat Stevens creates his songs specifically for cats.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Despite the alias, Cat Stevens creates music for humans.\nThe final answer is no"
+    },
+    {
+        "instruction": "Yes / no, is the following a verifiable fact?\\n\"Next month, Big Hero 6 will be released with new mobile camera features.\"",
+        "input": "",
+        "output": "Big Hero 6 is a featured film, but now on streaming.\nThe final answer is no"
+    },
+    {
+        "instruction": "Welfare makes people lazy, as they receive handouts.\\nIs the above claim true?\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "The sentence is false because there is not sufficient evidence to prove that is is true. It is also not true for everyone. Just because it's true for a group of people doesn't mean it's true for everyone.\nThe final answer is no"
+    },
+    {
+        "instruction": "Claim: \"Bill Gates wrought the greatest American personal computer revolution in the 1980s without any partnership.\"\\nIs the claim above correct, and can it be verified by human common sense and without a web search?\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Bill Gates had the support of a brilliant Harvard friend in his computer technology revolution endeavors.\nThe final answer is no"
+    },
+    {
+        "instruction": "Yes / no, is the following a verifiable fact?\\n\"The book Harry Potter and the Philosopher's Stone is about a gardener named Harry Potter.\"",
+        "input": "",
+        "output": "Harry Potter is a magician and does not garden.\nThe final answer is no"
+    },
+    {
+        "instruction": "Does the following sentence make sense?\\n\"Guillermo del Toro worked on the Metal Gear series for Konami.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Toro only worked on Silent Hill for Konami.\nThe final answer is no"
+    },
+    {
+        "instruction": "Claim: \"After trial, a Jury decides whether the defendant is guilty.\"\\nIs the claim above correct, and can it be verified by human common sense and without a web search?\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "The purpose of a jury is to judge the guilt or innocence of a defendant.\nThe final answer is yes"
+    },
+    {
+        "instruction": "A Giraffe has a different pattern than a tiger.\\nIs the above claim true?\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "A giraffe has spots and a tiger has stripes.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Dante Alighieri gave the world the idea of an afterlife.\\nIs the above claim true?\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "The idea of an afterlife was around long before him.\nThe final answer is no"
+    },
+    {
+        "instruction": "Is the following a factual statement?\\n\"The Twenty-third Amendment to the United States Constitution changes based on who the current president is.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "The Twenty-third Amendment to the United States Constitution cannot be changed, but rather amendments can be added to the Constitution as a whole.\nThe final answer is no"
+    },
+    {
+        "instruction": "Claim: \"Lily Tomlin performed Stand Up comedy.\"\\nIs the claim above correct, and can it be verified by human common sense and without a web search?\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Lily Tomlin is a comedian and stand up performer.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Is the following sentence factually correct?\\n\"Sainsbury's, a private limited company, operated as 3 divisions: Sainsbury's Supermarkets Ltd, Sainsbury's Bank, and Argos.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Sainsbury's is not a private but public limited company.\nThe final answer is no"
+    },
+    {
+        "instruction": "Claim: \"John Muir does not support the idea of nature.\"\\nIs the claim above correct, and can it be verified by human common sense and without a web search?\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "He worked to keep the nature of the Yosemite area and the Sierra as pristine lands.\nThe final answer is no"
+    },
+    {
+        "instruction": "Claim: \"Moby found commercial and critical success with his fifth album, Play, which gave an unexpected global hit in 2000.\"\\nIs the claim above correct, and can it be verified by human common sense and without a web search?\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "The album, Play, remains Moby's highest selling album with 12 million copies sold.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Is the following a factual statement?\\n\"In God We Trust must be on all money in the US.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "There is no requirement that US money must say In God We Trust.\nThe final answer is no"
+    },
+    {
+        "instruction": "Scientists are still making significant progress in Meteorology.\\nIs the above claim true?\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Meteorology is a science that can be approve upon.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Is the following sentence factually correct?\\n\"Ben Affleck writes movie scripts and he also works as a film producer.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "This is true because one can find some of the movies he has produced online.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Yes / no, is the following a verifiable fact?\\n\"Tijuana occupies an area many miles south of the border between the United States and Canada.\"",
+        "input": "",
+        "output": "Tijuana lies south of the border between Mexico and the United States, which is far south of Canada.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Yes / no, is the following a verifiable fact?\\n\"Snipers majorly are used by armies in the battle fields to eliminate enemies from hidden positions.\"",
+        "input": "",
+        "output": "This is true because the snipers are mostly stationed in a place where the enemy can not see them.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Is the following statement true?\\n\"The joke i told caused the room to roar of Laughter.\"",
+        "input": "",
+        "output": "Laughter is something people do to react to a good joke.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Claim: \"The 1906 San Francisco earthquake included three tornadoes and a hurricane.\"\\nIs the claim above correct, and can it be verified by human common sense and without a web search?\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Earthquakes do not cause tornadoes or hurricanes in the sky.\nThe final answer is no"
+    },
+    {
+        "instruction": "Claim: \"Basil answers the door and buttles.\"\\nIs the claim above correct, and can it be verified by human common sense and without a web search?\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "This basil is the spice, not the name.\nThe final answer is no"
+    },
+    {
+        "instruction": "Is the following statement true?\\n\"Plant physiology states that Cell wall can be built using bricks.\"",
+        "input": "",
+        "output": "Two unrelated living and nonliving things connected with false sentence.\nThe final answer is no"
+    },
+    {
+        "instruction": "Claim: \"Decks are vacant of any specific sitting space, storage bins, and railing.\"\\nIs the claim above correct, and can it be verified by human common sense and without a web search?\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Deck (ship) are bland tops without any sort of equipment.\nThe final answer is no"
+    },
+    {
+        "instruction": "Is the following statement true?\\n\"The first superhero movie to make over $1 billion dollars at the box office was Iron Man.\"",
+        "input": "",
+        "output": "Iron man made a few hundred million at most. No where near a billion, still, several hundred million though.\nThe final answer is no"
+    },
+    {
+        "instruction": "Yes / no, is the following a verifiable fact?\\n\"Hildegard of Bingen vanished during a solo airplane flight through the Bermuda Triangle.\"",
+        "input": "",
+        "output": "Amelia Erhardt, not Hildegard of Bingen, is believed by some to have disappeared in the Bermuda Triangle.\nThe final answer is no"
+    },
+    {
+        "instruction": "Claim: \"Justin Martyr died while fighting a war against the Romans.\"\\nIs the claim above correct, and can it be verified by human common sense and without a web search?\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Justin Martyr was sentenced to death by Beheading.\nThe final answer is no"
+    },
+    {
+        "instruction": "Is the following sentence factually correct?\\n\"Kesha shot to fame by singing vocals on Flo Rida's Right Round.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Kesha's singing accompanied Flo Rida's rapping on the track.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Is the following statement true?\\n\"Multiple Peaches will grow on the same tree.\"",
+        "input": "",
+        "output": "Peaches are a type of fruit and are commonly understood to grow on trees in high quantities.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Is the following a factual statement?\\n\"Alice Cooper has published many fantasy novels.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Alice Cooper has not published any fantasy novels to date.\nThe final answer is no"
+    },
+    {
+        "instruction": "Does the following sentence make sense?\\n\"The family Chironomidae describes a type of insect.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Specifically, they are nemotoceran flies, somewhat resembling mosquitos.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Does the following sentence make sense?\\n\"Jurisprudence turns judges into greedy men.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Jurisprudence is a code for equitable and just legal conduct.\nThe final answer is no"
+    },
+    {
+        "instruction": "Yes / no, is the following a verifiable fact?\\n\"Of the three federally recognized Cherokee tribes, the Cherokee Nation and the UKB have headquarters in Tahlequah, Oklahoma, and most of their members live in the state.\"",
+        "input": "",
+        "output": "Anthropologists and historians have two main theories of Cherokee origins.\nThe final answer is no"
+    },
+    {
+        "instruction": "Is the following statement true?\\n\"The climate of the White Sea varies from tropical to polar.\"",
+        "input": "",
+        "output": "The climate of the White Sea actually varies from polar to moderate continental.\nThe final answer is no"
+    },
+    {
+        "instruction": "Is the following a factual statement?\\n\"Former Red vs. Blue actors are often spotted on the street and asked for autographs.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Red vs. Blue was made using Halo video game characters.\nThe final answer is no"
+    },
+    {
+        "instruction": "Is the following sentence factually correct?\\n\"One Month could have six weeks.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "A month would need 42 days to consist of six weeks.\nThe final answer is no"
+    },
+    {
+        "instruction": "Yes / no, is the following a verifiable fact?\\n\"The Fax machine is making a comeback as more and more people decide to no longer use the internet.\"",
+        "input": "",
+        "output": "The world as a whole is only increasing it internet use.\nThe final answer is no"
+    },
+    {
+        "instruction": "Marvel Comics headquartered in New York City publishes popular comics.\\nIs the above claim true?\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Marvel Comics is a publishing company based in New York City.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Yes / no, is the following a verifiable fact?\\n\"Joseph Hooker resigned from United States Army, when General Halleck and Lincoln declined his request for reinforcements.\"",
+        "input": "",
+        "output": "Hooker was kept in command and served Army till 1868.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Is the following a factual statement?\\n\"The novel Nineteen Eighty-Four coined the term doublethink, which means to simultaneously believe an idea and its contradiction.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "The dystopian government in Nineteen Eighty-Four requires its citizens to believe many constantly-changing untruths, and among the citizens, doublethink is the practice of believing both the truth and that which one is told.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Watchmakers use tools to repair watches.\\nIs the above claim true?\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Watchmakers use tools to make watches, while watch repairmen repair watches.\nThe final answer is no"
+    },
+    {
+        "instruction": "Claim: \"Microsoft SQL Server process this server in the database.\"\\nIs the claim above correct, and can it be verified by human common sense and without a web search?\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "I see Microsoft SQL Server will be other server in the database.\nThe final answer is no"
+    },
+    {
+        "instruction": "Is the following sentence factually correct?\\n\"Animators worked on the show Pinky and the Brain.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Pinky and the Brain was a cartoon. Cartoons have animators.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Yes / no, is the following a verifiable fact?\\n\"The country of Mayotte uses the dollar as its currency.\"",
+        "input": "",
+        "output": "Mayotte is an overseas department of France and they use the Euro.\nThe final answer is no"
+    },
+    {
+        "instruction": "The Black-tailed prairie dog flies in the air like a bird.\\nIs the above claim true?\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "The Black-tailed Prarie Dog is a land animal without wings.\nThe final answer is no"
+    },
+    {
+        "instruction": "Is the following statement true?\\n\"Monk stopped airing on television in 2004.\"",
+        "input": "",
+        "output": "One can do a search to confirm that Monk aired from 2002-2009.\nThe final answer is no"
+    },
+    {
+        "instruction": "Claim: \"Buddy Holly ' died in a plane crash in the late 1950s.\"\\nIs the claim above correct, and can it be verified by human common sense and without a web search?\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "This is tragically true, at the age of 22.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Claim: \"Most Hares are native to South America.\"\\nIs the claim above correct, and can it be verified by human common sense and without a web search?\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Hares are generally not found in South America.\nThe final answer is no"
+    },
+    {
+        "instruction": "Is the following statement true?\\n\"Elle announced that it will be launching a space probe to Mars.\"",
+        "input": "",
+        "output": "Elle (magazine) is a fashion magazine and does not have the technical ability to launch a space probe.\nThe final answer is no"
+    },
+    {
+        "instruction": "Is the following sentence factually correct?\\n\"Elon Musk founded SpaceX in 2002 after turning downing an offer to buy a rocket for $8 million.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Elon Musk went to Russia to buy rockets for his plans in the early 2000's, but was unsuccessful in making a deal, so he started his own company to build rockets.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Does the following sentence make sense?\\n\"While playing Handball i kicked the ball into the goal.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "You are not allowed to kick the ball for handball.\nThe final answer is no"
+    },
+    {
+        "instruction": "Is the following sentence factually correct?\\n\"Monism describes a theology of multiple gods or supreme beings.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Monism is primarily concerned with only one supreme being.\nThe final answer is no"
+    },
+    {
+        "instruction": "Yes / no, is the following a verifiable fact?\\n\"President of Italy describes an individual who has taken over the country of Italy by force.\"",
+        "input": "",
+        "output": "President of Italy is a person who was elected to head of state of Italy, not taken over by force.\nThe final answer is no"
+    },
+    {
+        "instruction": "Does the following sentence make sense?\\n\"Friday the 13th scares people when they have to make a big decision on that day.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Friday the 13th is regarded as a bad luck so people will be nervous when forced to make a decision on that day.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Is the following sentence factually correct?\\n\"Some doctors choose to train and specialize in Obstetrics.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Obstetrics is a subfield of medicine so there are doctors who specialize in it.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Yes / no, is the following a verifiable fact?\\n\"Eric Clapton released several albums over decades.\"",
+        "input": "",
+        "output": "Eric Clapton is a recording artist who has a lengthy career.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Is the following a factual statement?\\n\"The Cyprus dispute caused thousands of Cypriots casualties.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "The Greek coup and Turkish invasion resulted in thousands of Cypriot casualties. The Government of Cyprus reported providing for 200,000 refugees.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Does the following sentence make sense?\\n\"Karma turns those who study it into fools.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Karma is just an eastern system of belief.\nThe final answer is no"
+    },
+    {
+        "instruction": "The opening band at Trump's 2016 presidential inauguration was performed by Phish.\\nIs the above claim true?\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Fish has never perfomed at an event that Trump was present at.\nThe final answer is no"
+    },
+    {
+        "instruction": "Is the following a factual statement?\\n\"Richard Pryor reached a broad audience with his trenchant observations and storytelling style, and is widely regarded as one of the greatest and most influential stand-up comedians of all time.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "The sentence is true because there are records that are public of his work. He was also famous and well known during this career for doing this.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Is the following a factual statement?\\n\"Laramie, Wyoming work with the BNSF Railway.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "They are actually part of the Union Pacific Railroad.\nThe final answer is no"
+    },
+    {
+        "instruction": "Yes / no, is the following a verifiable fact?\\n\"The actors who acted in Walt Disney movies committed suicide.\"",
+        "input": "",
+        "output": "Walt Disney was the who died from lung cancer but the actors who acted in movies didn't commit suicide.\nThe final answer is no"
+    },
+    {
+        "instruction": "An Astronaut is a person trained, equipped, and deployed by a human spaceflight program to serve as a commander or crew member aboard a spacecraft.\\nIs the above claim true?\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "A person who travels in a spacecraft is called as Astronaut.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Is the following statement true?\\n\"No one plays video games that star Sonic the Hedgehog.\"",
+        "input": "",
+        "output": "The Sonic the Hedgehog (character) franchise is popular, and many people play the video games from that series.\nThe final answer is no"
+    },
+    {
+        "instruction": "Is the following statement true?\\n\"The European Space Agency handles the space between houses in neighborhoods.\"",
+        "input": "",
+        "output": "The European Space Agency handles outer space, not zoning laws.\nThe final answer is no"
+    },
+    {
+        "instruction": "Yes / no, is the following a verifiable fact?\\n\"Honda Center reading an fact article states indoor lacrosse venues in the United States.\"",
+        "input": "",
+        "output": "Honda Center article states when reading indoor facts as you read.\nThe final answer is yes"
+    },
+    {
+        "instruction": "The Right Honourable Justin Trudeau, Prime Minister of Canada.\\nIs the above claim true?\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Because, The current Prime Minister of Canada is Justin Trudeau.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Yes / no, is the following a verifiable fact?\\n\"Members of the Yuan dynasty were required to live in the USA for at least a year.\"",
+        "input": "",
+        "output": "This would not be possible, because the USA did not exist during the Yuan dynasty's rule.\nThe final answer is no"
+    },
+    {
+        "instruction": "Montesquieu played third base for the New York Yankees during the same time that Babe Ruth played catcher.\\nIs the above claim true?\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Babe Ruth did not play catcher and never played on a baseball team with Montesquieu as third baseman.\nThe final answer is no"
+    },
+    {
+        "instruction": "Is the following sentence factually correct?\\n\"Warren Buffett founded the car company, Tesla.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Warren Buffet is the CEO of Berkshire Hathaway, not Tesla.\nThe final answer is no"
+    },
+    {
+        "instruction": "Claim: \"Marvin Hamlisch composed and conducted music.\"\\nIs the claim above correct, and can it be verified by human common sense and without a web search?\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "The sentence is true because there is lots of evidence to prove it. Marvin Hamlisch's occupation is public knowledge.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Is the following sentence factually correct?\\n\"The Sea of Azov lies in Crimea.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "The Sea of Azov borders Russia and Ukraine.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Is the following sentence factually correct?\\n\"Curtis LeMay ran every morning since he was a teenager.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "The sentence is false because there is no proof that this was the case. It is a claim that is assumed, but does not have evidence to back it up.\nThe final answer is no"
+    },
+    {
+        "instruction": "Claim: \"Five people die every day in the Bering Sea.\"\\nIs the claim above correct, and can it be verified by human common sense and without a web search?\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Causalities on the Bering Sea are quite uncommon and certainly not consistent.\nThe final answer is no"
+    },
+    {
+        "instruction": "Yes / no, is the following a verifiable fact?\\n\"The Twin commonly was mistaked for their sibling.\"",
+        "input": "",
+        "output": "Twins often look like one another which can cause them to be mistaken for one another.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Yes / no, is the following a verifiable fact?\\n\"Watermelon grows under water and acts as food to the marine life.\"",
+        "input": "",
+        "output": "This is false because watermelon grows on land and not in water.\nThe final answer is no"
+    },
+    {
+        "instruction": "Is the following a factual statement?\\n\"It was Christmas Eve and we sold some of our furniture so we would be able to afford christmas gifts for the kids.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Christmas is a holiday where people give others gifts.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Is the following a factual statement?\\n\"A student learned about Ethics in college.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Most colleges offer ethics courses or incorporate lessons about ethics in the learning material for other courses.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Is the following sentence factually correct?\\n\"Spider-Man: Homecoming documents the adventures of Peter Parker in a superhero film.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Spider-Man: Homecoming is about a boy who has super powers and is part spider.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Does the following sentence make sense?\\n\"The Lunar Reconnaissance Orbiter drew fire from an alien spacecraft.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "There is no eveidence to support such a claim.\nThe final answer is no"
+    },
+    {
+        "instruction": "Does the following sentence make sense?\\n\"Jalape\u00f1os originated in Xalapa, Mexico.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "This is probably the thing Xalapa is best known for worldwide, and the name even corresponds to the Jalape\u00f1o pepper.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Does the following sentence make sense?\\n\"Medicine can always be used to make things better.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Sometimes medicine just doesn't work, so it cannot fix or improve everything.\nThe final answer is no"
+    },
+    {
+        "instruction": "Is the following sentence factually correct?\\n\"A major backer of terrorism in Europe is the French Army.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "The French Army does not back terrorism in Europe.\nThe final answer is no"
+    },
+    {
+        "instruction": "Claim: \"A Sniper generally has better aim than a regular infantryman.\"\\nIs the claim above correct, and can it be verified by human common sense and without a web search?\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Snipers are specifically used to take out targets from a distance.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Is the following statement true?\\n\"Tony Benn met former Liberal Prime Minister David Lloyd George when he was 12, and once shook hands with Mahatma Gandhi.\"",
+        "input": "",
+        "output": "Tony Benn recalled that he met former Liberal Prime Minister David Lloyd George, while still a boy, he once shook hands with Mahatma Gandhi, in 1931, when his father was Secretary of State for India.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Is the following a factual statement?\\n\"There are a large number of people Data mining for Bitcoin.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Data mining for Bitcoin is becoming more popular.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Yes / no, is the following a verifiable fact?\\n\"Religious people study the Book of Joshua.\"",
+        "input": "",
+        "output": "The Book of Joshua is a book of the Bible.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Does the following sentence make sense?\\n\"The House of Lords completes the J.R.R. Tolkien book series, Lord of the Rings.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "The House of Lords are a part of the British political system.\nThe final answer is no"
+    },
+    {
+        "instruction": "Does the following sentence make sense?\\n\"A mathematician would have a hard time transitioning to being an Economist.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Economics is predominated by mathematics, and Nobel laureates in economics are often mathematicians.\nThe final answer is no"
+    },
+    {
+        "instruction": "Is the following a factual statement?\\n\"Bluetooth helps people tie their shoes.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Bluetooth is a wireless technology that cannot tie shoes.\nThe final answer is no"
+    },
+    {
+        "instruction": "Yes / no, is the following a verifiable fact?\\n\"The New Grove Dictionary of Music and Musicians exists as the first album by The Police.\"",
+        "input": "",
+        "output": "The New Grove Dictionary of Music and Musicians is a dictionary of songs and their creators and is not a musical album.\nThe final answer is no"
+    },
+    {
+        "instruction": "Is the following statement true?\\n\"Pigs are animals that are considered a scavenger.\"",
+        "input": "",
+        "output": "Pigs will eat anything that is put down in front of them. Pigs eat many things and dig down under the dirt to gain food.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Justin Bieber collaborated with multiple musicians over the course of his career.\\nIs the above claim true?\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Justin Bieber has been featured on music by artists Luis Fonsi, DJ Kaled and Ed Sheeran.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Yes / no, is the following a verifiable fact?\\n\"Last Judgment in Christianity will occur after the return of Christ.\"",
+        "input": "",
+        "output": "Last Judgment in Christianity is accounted for in the New Testament.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Does the following sentence make sense?\\n\"One Laptop per Child means every kid is assigned a laptop.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "One Laptop per Child is actually an organization name and is not an English phrase.\nThe final answer is no"
+    },
+    {
+        "instruction": "Before going solo, singer-rapper Lauryn Hill performed as a member of the hip-hop group Fugees.\\nIs the above claim true?\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Hill got her start in the early '90s as a Fugees member.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Yes / no, is the following a verifiable fact?\\n\"The anciet art of Brazilian jiu-jitsu gives its practitioners superhuman, magical abilities.\"",
+        "input": "",
+        "output": "Brazilian jiu-jitsu is just a martial art, no mysticism or magic involved.\nThe final answer is no"
+    },
+    {
+        "instruction": "Does the following sentence make sense?\\n\"Telecommunication allows people to teleport to new locations.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Telecommunication is not the same thing as teleportation.\nThe final answer is no"
+    },
+    {
+        "instruction": "Yes / no, is the following a verifiable fact?\\n\"Mesopotamia is a lung disease that is fatal.\"",
+        "input": "",
+        "output": "It is not accurate as the statement is outlandish.\nThe final answer is no"
+    },
+    {
+        "instruction": "Is the following a factual statement?\\n\"Disney animated the film Pinocchio.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "It was a film animated by Disney in 1940.\nThe final answer is yes"
+    },
+    {
+        "instruction": "One's second childhood consists of experiences one has as an Infant.\\nIs the above claim true?\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "One's second childhood refers to experiences of older age, not infancy.\nThe final answer is no"
+    },
+    {
+        "instruction": "Does the following sentence make sense?\\n\"The band Earth, Wind, Water and Fire made the song September.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "The band \"Earth, Wind, Water, and Fire\" doesn't exist. The band \"Earth, Wind, and Fire\" does however.\nThe final answer is no"
+    },
+    {
+        "instruction": "Does the following sentence make sense?\\n\"Katie Holmes married Tom Cruise, now divorced.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "According to her Wikipedia and media coverage at the time, she was.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Is the following sentence factually correct?\\n\"A Monarchy has a president that rules the country.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "A monarchy has a king or queen as head.\nThe final answer is no"
+    },
+    {
+        "instruction": "Is the following statement true?\\n\"Herman Melville wrote a book that is now considered a classic.\"",
+        "input": "",
+        "output": "Herman Melville is the author of Moby Dick.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Claim: \"Panoramic photography allows a camera to take a wider than normal field of view picture.\"\\nIs the claim above correct, and can it be verified by human common sense and without a web search?\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Specialized software allows panoramic photography to have an elongated field of view.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Yes / no, is the following a verifiable fact?\\n\"The Supremes sang a number of hit songs.\"",
+        "input": "",
+        "output": "The Supremes are one of the most famous bands to sing hit songs in the 1960s.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Claim: \"Roger Moore invented and popularized the essay format in the late 14th Century.\"\\nIs the claim above correct, and can it be verified by human common sense and without a web search?\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Roger Moore acted in various movies and had nothing to do with inventing the essay format.\nThe final answer is no"
+    },
+    {
+        "instruction": "Claim: \"Soldiers are sometimes in a controversial light.\"\\nIs the claim above correct, and can it be verified by human common sense and without a web search?\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Soldiers actions are sometimes judged between orders, duty, and practical actions.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Yes / no, is the following a verifiable fact?\\n\"The Art dealer ran over to the kids offering to sell them skateboard gear.\"",
+        "input": "",
+        "output": "Art Dealers are not known for selling skateboarding gear.\nThe final answer is no"
+    },
+    {
+        "instruction": "Is the following sentence factually correct?\\n\"The Cheyenne people live along the eastern seaboard, and primarily fish for food.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "The Cheyenne people live in the Midwest US.\nThe final answer is no"
+    },
+    {
+        "instruction": "Is the following sentence factually correct?\\n\"Hairspray portrays people in a hairspray factory.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Hairspray (musical) is not about a factory. It is about teens on a tv dance show.\nThe final answer is no"
+    },
+    {
+        "instruction": "Is the following a factual statement?\\n\"Some people find Squirrel monkeys to be cute.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Squirrel monkeys are somewhat popular for being a cute variety of monkey.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Epilepsy tastes fresh and salty and is best eaten in its' native Russia.\\nIs the above claim true?\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Epilepsy is not a Russian food, it is a neurological disorder.\nThe final answer is no"
+    },
+    {
+        "instruction": "Is the following statement true?\\n\"Great Wall of China contains bodies of those killed while building.\"",
+        "input": "",
+        "output": "The great wall of china is a well known burial ground of the slaves who died while building.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Is the following a factual statement?\\n\"You would have to be in the United States to visit New Mexico.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "New Mexico is a state of the United States of America.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Claim: \"Tony Bennett fought with Alexander the Great at the Battle of Thermopylae over a period of twenty days.\"\\nIs the claim above correct, and can it be verified by human common sense and without a web search?\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Tony Bennett never met Alexander the Great and the latter man had nothing to do with the Battle of Thermopylae.\nThe final answer is no"
+    },
+    {
+        "instruction": "Does the following sentence make sense?\\n\"Children play Dodgeball in high school.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Dodgeball is a popular in elementary not high school.\nThe final answer is no"
+    },
+    {
+        "instruction": "Is the following statement true?\\n\"Marcel Duchamp thought art should always depict objects as realistically as possible.\"",
+        "input": "",
+        "output": "Marcel Duchamp was a cubist and dadaist who made abstract works of art.\nThe final answer is no"
+    },
+    {
+        "instruction": "Does the following sentence make sense?\\n\"Ganesha gives people his blessing when people gives him first priority.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "It is a belief that you should pray to Ganesha first.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Yes / no, is the following a verifiable fact?\\n\"Guinea-Bissau produces granite and limestone in small-scale which are mainly used construction purposes.\"",
+        "input": "",
+        "output": "This is true because Guinea-Bissau does not export granite or limestone.\nThe final answer is yes"
+    },
+    {
+        "instruction": "If you're looking for a bus ride from Atlanta to Nashville, you're going to want to call China Eastern Airlines.\\nIs the above claim true?\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "China Eastern Airlines is not an American bus company.\nThe final answer is no"
+    },
+    {
+        "instruction": "Is the following statement true?\\n\"The top of Mount Fuji can be a hard climb for many people.\"",
+        "input": "",
+        "output": "Because it is one of the highest points in the country it must be a hard climb and take a lot of effort to get to the top.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Is the following a factual statement?\\n\"E defines half a circle. E multiplied by 2 is equal to a full circle.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "E (mathematical constant) is not pi. E (mathematical constant) is an exponential functions.\nThe final answer is no"
+    },
+    {
+        "instruction": "People founded the Kingdom of Aksum in the seventheeth century.\\nIs the above claim true?\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "The Kingdom of Aksum was an ancient empire contemporaneous with Romans.\nThe final answer is no"
+    },
+    {
+        "instruction": "Is the following a factual statement?\\n\"The number 7 is a number that is used in numerology.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "The sentence that I wrote about the number 7 is true because it is a fact that can be proven.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Is the following a factual statement?\\n\"The television series, I Love Lucy was produced by Desilu Productions and starred Lucille Ball.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Lucille Ball was the star of I Love Lucy. She and her husband, Desi Arnaz, produced the show under the production name of Desilu.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Is the following a factual statement?\\n\"Frederick Delius invented the Tuba over a period of time.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "There is no record of Delius inventing the Tuba.\nThe final answer is no"
+    },
+    {
+        "instruction": "Yes / no, is the following a verifiable fact?\\n\"For fun, some beachgoers pile Sand up into small castles.\"",
+        "input": "",
+        "output": "One famous form of beach recreation is making castles out of sand.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Stephenie Meyer favorite breakfast is a chocotaco.\\nIs the above claim true?\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "This is silly and nonsensical as a chocotaco is not a breakfast food.\nThe final answer is no"
+    },
+    {
+        "instruction": "Does the following sentence make sense?\\n\"There have been two wars fought in the Persian Gulf in the past 30 years.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Desert Storm 1 was fought in the early 90's while the second own started in 2003.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Claim: \"A Twin refers to a new candy bar.\"\\nIs the claim above correct, and can it be verified by human common sense and without a web search?\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "A twin can happen in the reproduction of mammals.\nThe final answer is no"
+    },
+    {
+        "instruction": "Is the following a factual statement?\\n\"Fax ing my medical information may allow many people to view my private information.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "It is not a guarantee that the person you are faxing will be the only one to see your fax.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Samuel de Champlain hated the sound of toilets flushing.\\nIs the above claim true?\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "I think the sentence is false because there are no records of this hatred. No one has testified in favor of it either.\nThe final answer is no"
+    },
+    {
+        "instruction": "Does the following sentence make sense?\\n\"Azaleas generally aren't very toxic to animals.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Azaleas are renowned for how toxic they are.\nThe final answer is no"
+    },
+    {
+        "instruction": "Is the following statement true?\\n\"People can use Earthworms as bait for fishing.\"",
+        "input": "",
+        "output": "Earthworms are very popular as a type of fishing bait.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Claim: \"The Prime Minister of New Zealand resides in Australia.\"\\nIs the claim above correct, and can it be verified by human common sense and without a web search?\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "The Prime Minister of New Zealand lives in the country of New Zealand.\nThe final answer is no"
+    },
+    {
+        "instruction": "Yes / no, is the following a verifiable fact?\\n\"John James Audubon possessed an allergy against celery.\"",
+        "input": "",
+        "output": "I think the sentence is false because there is no evidence that John in fact had an allergy. There would need to be a record for it to be deemed true now.\nThe final answer is no"
+    },
+    {
+        "instruction": "Breast cancer only occurs in women and not in men.\\nIs the above claim true?\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Although extremely rare men can get breast cancer.\nThe final answer is no"
+    },
+    {
+        "instruction": "Is the following a factual statement?\\n\"The Chevron Corporation exclusively sells apples and oranges.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "The Chevron Corporation is known mainly for its sale of gas and gas stations.\nThe final answer is no"
+    },
+    {
+        "instruction": "Is the following statement true?\\n\"Even before she married a prince, Mary of Teck was a princess in her own right.\"",
+        "input": "",
+        "output": "Her father was Prince Francis, Duke of Teck.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Is the following sentence factually correct?\\n\"Christopher Coloumbus was the first person to discover Miami and all of North America.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Christopher Colombus first landed his ship in the Bahamas.\nThe final answer is no"
+    },
+    {
+        "instruction": "Does the following sentence make sense?\\n\"Elton John supports Boris Johnson's term as UK Prime Minister.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Elton John is not known to be a conservative.\nThe final answer is no"
+    },
+    {
+        "instruction": "Does the following sentence make sense?\\n\"People's Bank of China sells goods on the open market.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "People's Bank of China is the central banker.\nThe final answer is no"
+    },
+    {
+        "instruction": "Claim: \"Actors and actresses often brush up on the knowledge of Statistics to prepare for a role.\"\\nIs the claim above correct, and can it be verified by human common sense and without a web search?\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Statistics is not a subject that is likely to be useful to actors preparing for a role.\nThe final answer is no"
+    },
+    {
+        "instruction": "Does the following sentence make sense?\\n\"Users can read a QR code with the naked eye.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "They would require a QR scanner to read the information.\nThe final answer is no"
+    },
+    {
+        "instruction": "Claim: \"The Thar Desert houses some of the most dangerous criminals in the world.\"\\nIs the claim above correct, and can it be verified by human common sense and without a web search?\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "My sentence is false because there is no proof or records of this being the case.\nThe final answer is no"
+    },
+    {
+        "instruction": "Yes / no, is the following a verifiable fact?\\n\"Amaterasu depicts the goddess of the moon in Japanese mythology.\"",
+        "input": "",
+        "output": "The name, Amaterasu, means the goddess of the sun in Japanese mythology.\nThe final answer is no"
+    },
+    {
+        "instruction": "Does the following sentence make sense?\\n\"To be a Rabbi, you must be ordained.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "A Rabbi is an ordained Jewish spiritual leader.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Claim: \"Argon plays a key role as an Industrial noble gas.\"\\nIs the claim above correct, and can it be verified by human common sense and without a web search?\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Argon is a good gas to use because it is a noble gas and good for industry.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Is the following a factual statement?\\n\"Katie Holmes played Wonder Woman in the DC Extended Universe.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Gal Gadot has played Wonder Woman in the DCEU.\nThe final answer is no"
+    },
+    {
+        "instruction": "Is the following a factual statement?\\n\"People in the city of Troyes, France, can walk to the Paris Opera in an hour.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "The distance between Troyes and Paris cannot be walked in an hour.\nThe final answer is no"
+    },
+    {
+        "instruction": "Claim: \"Mother movie gives the creepy feeling and it is considered as one of the best horror.\"\\nIs the claim above correct, and can it be verified by human common sense and without a web search?\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Mother is actually a relationship status given in a family.\nThe final answer is no"
+    },
+    {
+        "instruction": "Does the following sentence make sense?\\n\"Referees officiate at all kinds of different sporting events.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Referees are used to make sure everyone follows the rules in many different types of sports.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Is the following a factual statement?\\n\"J. Edgar Hoover served as President from 1968 to 1976.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "J. Edgar Hoover was never President. He was head of the FBI.\nThe final answer is no"
+    },
+    {
+        "instruction": "Does the following sentence make sense?\\n\"The Mongols formed one of the greatest empires in History.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "The Mongol empire, at its greatest extent, was the largest contiguous land empire in history.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Is the following a factual statement?\\n\"Jane Austen explored the dependence of women on marriage in the pursuit of favourable social standing and economic security.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "The sentence is true because in the books she stars in, she does exactly that. Her character in the book, that anyone can read, is proof.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Does the following sentence make sense?\\n\"Birdwatchers sight Kingfishers often in Africa.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Kingfishers are a type of bird, some of which reside in Africa.\nThe final answer is yes"
+    },
+    {
+        "instruction": "A name of a railroad tycoon is called Grey heron.\\nIs the above claim true?\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Grey heron is from the region of Africa.\nThe final answer is no"
+    },
+    {
+        "instruction": "Claim: \"Sonic the Hedgehog originally ran away from enemies in an open-world format.\"\\nIs the claim above correct, and can it be verified by human common sense and without a web search?\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "This game is played traditionally in a side-scroller format.\nThe final answer is no"
+    },
+    {
+        "instruction": "Is the following sentence factually correct?\\n\"Richard Stallman worked at Microsoft in the 1980s.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Richard Stallman was involved with Linux and free software and never worked for the propriety software firm that is Microsoft.\nThe final answer is no"
+    },
+    {
+        "instruction": "Is the following statement true?\\n\"Amber may contain intact plant or insect specimens that have long since gone extinct, making it a valuable way for archaeologists to study the fossil record.\"",
+        "input": "",
+        "output": "Amber is a fossil resin that preserves organic matter.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Death Note contains a story with fictitious supernatural elements.\\nIs the above claim true?\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Death Note is a fiction story about a mysterious notebook with supernatural powers.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Is the following statement true?\\n\"LG Electronics helps your plants grow.\"",
+        "input": "",
+        "output": "The products types are not related to plants.\nThe final answer is no"
+    },
+    {
+        "instruction": "The prophet Isaiah taught people about God in his time.\\nIs the above claim true?\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Isaiah is a historical figure referenced in the Bible.\nThe final answer is yes"
+    },
+    {
+        "instruction": "50 Cent left Interscope records in 2014.\\nIs the above claim true?\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "This sentence is definitely true because On February 20, 2014, 50 Cent announced he left Interscope Records, which included his deal with Shady Records and Aftermath Entertainment, in which he is now signed to Caroline Records.\nThe final answer is yes"
+    },
+    {
+        "instruction": "JAG ran on television between 1994 to 2004.\\nIs the above claim true?\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Production may've been between 1994 to 2004, but the airdate is 1995 to 2005.\nThe final answer is no"
+    },
+    {
+        "instruction": "Is the following a factual statement?\\n\"Daniel Radcliffe has stared in movies and television shows.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Daniel Radcliffe is a well known movie star.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Is the following sentence factually correct?\\n\"Counterculture of the 1960s drove pro-war protest.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Anti-war protest was a prevalent part of counterculture in the 1960s.\nThe final answer is no"
+    },
+    {
+        "instruction": "Is the following sentence factually correct?\\n\"Dave Winfield hit the ball for the Cleveland Indians.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Dave Winfield was a hitter that played for the Cleveland Indians.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Does the following sentence make sense?\\n\"Mos Def experienced an allergic reaction to shell fish.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "The sentence is false because there is no proof that claim is true. Mos Def has never validated the claim nor is there any evidence of him having an allergic reaction to shellfish.\nThe final answer is no"
+    },
+    {
+        "instruction": "Kid Cudi did not attend high school because he is only a kid.\\nIs the above claim true?\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Kid Cudi's name does not reflect his age and there are records of his attendance.\nThe final answer is no"
+    },
+    {
+        "instruction": "Is the following a factual statement?\\n\"The role of a Deacon is primarily to preach at church.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Pastors preach at church, and Deacons help in other ways.\nThe final answer is no"
+    },
+    {
+        "instruction": "Does the following sentence make sense?\\n\"Shawn Mendes sings and creates songs.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "The sentence is true because his occupation is public knowledge. Anyone can validate that Shawn Mendes does in fact create music and sing songs.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Yes / no, is the following a verifiable fact?\\n\"The leaves of Coriander taste like dish soap.\"",
+        "input": "",
+        "output": "The leaves use aldehydes that soap also uses.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Does the following sentence make sense?\\n\"Smithsonian Institution calls Washington, D.C. it's one and only headquarters.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Smithsonian Institution is a collection of research facilities and museums spread across the globe.\nThe final answer is no"
+    },
+    {
+        "instruction": "Yes / no, is the following a verifiable fact?\\n\"Disney has made both a live action version and an animated version of Beauty and the Beast.\"",
+        "input": "",
+        "output": "The animated version came out in the 1990's while the live action version came out only a couple years ago.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Insulin is used to control the symptoms of Epilepsy.\\nIs the above claim true?\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Insulin is used to control diabetes, not epilepsy.\nThe final answer is no"
+    },
+    {
+        "instruction": "Does the following sentence make sense?\\n\"Chives produce edible leaves and flowers and belongs to the species of flowering plant in the family, Amaryllidaceae.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Chives, scientific name Allium schoenoprasum, is a species of flowering plant in the family Amaryllidaceae.\nThe final answer is yes"
+    },
+    {
+        "instruction": "People employed Marlon Brando as a film star.\\nIs the above claim true?\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Marlon Brando starred in The Godfather, A Streetcar Named Desire and Apocalypse Now.\nThe final answer is yes"
+    },
+    {
+        "instruction": "The Bengal fox relates to the Arctic fox.\\nIs the above claim true?\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Both the Bengal fox and Arctic fox are foxes, therefore they relate to one another.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Is the following sentence factually correct?\\n\"A play described as a Tragedy is lighthearted and comedic.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "The opposite is true; tragedies are generally very drama and focus on suffering.\nThe final answer is no"
+    },
+    {
+        "instruction": "Claim: \"Claude Shannon dabbled in electronics in America.\"\\nIs the claim above correct, and can it be verified by human common sense and without a web search?\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Claude Shannon was an electrical engineer in America.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Is the following a factual statement?\\n\"I felt the bird's Beak.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "The beak or bill is an external anatomical structure found mostly in birds.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Standard deviation applies to statistical methods, and is a measure of dispersion.\\nIs the above claim true?\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Standard deviation is a statistic that can be derived from data set.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Claim: \"Goats eat humans and are very dangerous to children.\"\\nIs the claim above correct, and can it be verified by human common sense and without a web search?\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Goats do not eat humans, however they are omnivorous.\nThe final answer is no"
+    },
+    {
+        "instruction": "Claim: \"Yogi Berra loves picnic baskets and can be seen on a cartoon.\"\\nIs the claim above correct, and can it be verified by human common sense and without a web search?\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Yogi Berra was a famous baseball player who never starred in a cartoon.\nThe final answer is no"
+    },
+    {
+        "instruction": "Claim: \"The Oval Office represents the space where the President of the United States works.\"\\nIs the claim above correct, and can it be verified by human common sense and without a web search?\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "The Oval Office, located inside the White House in Washington D.C.. is set aside as the main office for the President.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Is the following a factual statement?\\n\"The Atlanta Thrashers won the Stanley Cup in 2021.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "The Atlanta Thrashers were relocated many years before 2021.\nThe final answer is no"
+    },
+    {
+        "instruction": "Yes / no, is the following a verifiable fact?\\n\"A Swallowtail butterfly pollinates gardens and are flying insects.\"",
+        "input": "",
+        "output": "Swallowtail butterflies are insects that carry pollen from one plant to another.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Is the following sentence factually correct?\\n\"One can hear Brave New World on country radio stations.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Brave New World is a book, not a song.\nThe final answer is no"
+    },
+    {
+        "instruction": "Is the following sentence factually correct?\\n\"Marina Beach acts as one of the tourist attraction sites in Chennai India.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "This is true because one can visit the Marina Beach when he or she goes to Chennai.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Is the following sentence factually correct?\\n\"One can visit Tokyo Tower in France.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Tokyo Tower is in Tokyo, which is in Japan.\nThe final answer is no"
+    },
+    {
+        "instruction": "Yes / no, is the following a verifiable fact?\\n\"Blond hair is lighter than brown hair.\"",
+        "input": "",
+        "output": "Blond is a light shade and brown is a dark shade of hair.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Claim: \"Ahura Mazda helped found Zoroastrianism by reforming the old religion.\"\\nIs the claim above correct, and can it be verified by human common sense and without a web search?\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Ahura Mazda is strictly the deity, his first prophet was Zarathustra.\nThe final answer is no"
+    },
+    {
+        "instruction": "Yes / no, is the following a verifiable fact?\\n\"The Smithsonian Institution performs invasive tests on humans.\"",
+        "input": "",
+        "output": "The Smithsonian Institution is a group of museums not an experimental institution.\nThe final answer is no"
+    },
+    {
+        "instruction": "Is the following statement true?\\n\"Avril Lavigne assassinated William Jefferson Clinton during his second term in office as U.S. Vice President.\"",
+        "input": "",
+        "output": "William Jefferson Clinton did not serve as U.S. Vice President Avril Lavigne did not assassinate him.\nThe final answer is no"
+    },
+    {
+        "instruction": "The Oncilla resembles a small lion.\\nIs the above claim true?\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "The oncilla resembles a small ocelot, not a lion.\nThe final answer is no"
+    },
+    {
+        "instruction": "Claim: \"California was once under attack by a group of pirates called the Oakland Raiders.\"\\nIs the claim above correct, and can it be verified by human common sense and without a web search?\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "The Oakland Raiders are a football team, not a group of pirates.\nThe final answer is no"
+    },
+    {
+        "instruction": "Is the following a factual statement?\\n\"Linguists categorize the Gothic language as a Germanic language.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "The Gothic language is an Indo-European language in the Germanic division.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Claim: \"One can find the jail that Antonio L\u00f3pez de Santa Anna occupied in Mexico City.\"\\nIs the claim above correct, and can it be verified by human common sense and without a web search?\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Antonio L\u00f3pez de Santa Anna was never in jail.\nThe final answer is no"
+    },
+    {
+        "instruction": "Yes / no, is the following a verifiable fact?\\n\"THE HISTORY OF SCIENTIFIC THOUGHT ABOUT THE Formation and evolution of the Solar System BEGAN WITH THE COPERNICAN REVOLUTION.THE HOTTEST PLANET IS'NT CLOSEST TO THE SUN.\"",
+        "input": "",
+        "output": "MERCURY IS HOTTEST BECAUSE IT HAS NO ATMOSPHERE,NO WARMING BLANKET TO HELP IT MAINTAIN THE SUN'S HEAT.\nThe final answer is no"
+    },
+    {
+        "instruction": "Is the following a factual statement?\\n\"Mathematicians are able to perform algebra.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Algebra is an important basic skill for mathematicians.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Is the following statement true?\\n\"The Mediterranean Sea also touches the Americas.\"",
+        "input": "",
+        "output": "The Mediterranean Sea cannot be found in the Americas.\nThe final answer is no"
+    },
+    {
+        "instruction": "Is the following a factual statement?\\n\"One can see M in the new James Bond movies.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "M is a character in James Bond, not the letter.\nThe final answer is no"
+    },
+    {
+        "instruction": "Is the following a factual statement?\\n\"The Power Rangers wear different colored spandex suits, coming in colors such as red, blue, pink, and black.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "This is a well-known aspect of the design of the Power Rangers' suits.\nThe final answer is yes"
+    },
+    {
+        "instruction": "When the Hubble Space Telescope first went up it did not work right.\\nIs the above claim true?\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "The Hubble Space Telescope's mirrors were misaligned and had to be manually fixed.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Claim: \"Toyota launches rear wheel drive Toyota Hilux for police use.\"\\nIs the claim above correct, and can it be verified by human common sense and without a web search?\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Toyota Hilux is an all wheel drive Toyota vehicle.\nThe final answer is no"
+    },
+    {
+        "instruction": "Engineers no longer use Hydraulics with today's technological advancements.\\nIs the above claim true?\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "There are many settings in which Hydraulics are still used.\nThe final answer is no"
+    },
+    {
+        "instruction": "Is the following a factual statement?\\n\"Oscar Wilde a pederast, groomed young boys for sex.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "It's an established fact that Wilde took advantage of young boys in Algiers.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Early colonists faced tough conditions at Jamestown, Virginia.\\nIs the above claim true?\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Jamestown, Virginia, is generally remembered as a place where much suffering occurred for early colonists.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Is the following sentence factually correct?\\n\"The sister city of Vijayawada, India was Chicago, Illinois in 1993.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Vijayawada was paired as a sister city of Modesto, California in 1993.\nThe final answer is no"
+    },
+    {
+        "instruction": "Yes / no, is the following a verifiable fact?\\n\"Pulmonary embolisms send many people to the hospital.\"",
+        "input": "",
+        "output": "Pulmonary embolisms are a serious and life threatening medical condition.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Is the following a factual statement?\\n\"Disgust ed is a common emotion when watching a murder mystery on television.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Most people would be disgusted when watching something disturbing.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Yes / no, is the following a verifiable fact?\\n\"Kurt Cobain released many records as a member of the band Nirvana.\"",
+        "input": "",
+        "output": "Kurt Cobain is perhaps the most well known member of Nirvana and was the frontman for the band, which released many records.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Is the following a factual statement?\\n\"Marlboro lifted millions out of poverty.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Marlboro does not do any charity as far as I can tell with a Google search.\nThe final answer is no"
+    },
+    {
+        "instruction": "Is the following statement true?\\n\"Marlboro has made lots of money for Philip Morris brand.\"",
+        "input": "",
+        "output": "Marlboro (cigarette) is owned by Philip Morris brand. Being is the largest selling brand of cigarettes in the world, Marlboro has been making money for its owner.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Does the following sentence make sense?\\n\"The Prague Spring reforms granted rights and loosened restrictions to members of Czechoslovakia.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "The Prague Spring reforms granted rights to the citizens of Czechoslovakia in order to democratization.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Is the following statement true?\\n\"Menstruation refers to the menstrual cycle of a women, that is fertility at a certain time.\"",
+        "input": "",
+        "output": "Menstruation is about how fertile a women is at a certain point.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Claim: \"Tom Hanks has retired from producing movies to focus on politics.\"\\nIs the claim above correct, and can it be verified by human common sense and without a web search?\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Tom Hanks is still a movie producer till date.\nThe final answer is no"
+    },
+    {
+        "instruction": "Is the following statement true?\\n\"In Star Wars many of the heros and villians use energy swords called lightsabers.\"",
+        "input": "",
+        "output": "Star Wars is a series of science-fiction movies involving Jedi who use the force or a type of power that is like magic.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Yes / no, is the following a verifiable fact?\\n\"Before Jay Leno, Johnny Carson hosted the Tonight Show.\"",
+        "input": "",
+        "output": "The tonight show is currently hosted by Jimmy Fallon, before that was Jay Leno and Johnny Carson.\nThe final answer is yes"
+    },
+    {
+        "instruction": "All your base are belong to us serves a humorous meaning in online circles.\\nIs the above claim true?\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "All your base are belong to us is a notorious internet meme.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Is the following a factual statement?\\n\"Zachary Taylor served longer as president than any other in American history.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "This is well-known to be untrue; Taylor spent less than a year and a half in office before his death.\nThe final answer is no"
+    },
+    {
+        "instruction": "Is the following a factual statement?\\n\"February 29 th only occurs on leap years.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "February 29th only happens every 4 years, also known as leap years.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Is the following statement true?\\n\"Ammonia in glass cleaning solutions prevents streaks from forming.\"",
+        "input": "",
+        "output": "Ammonia is a common ingredient in household glass cleaners for this very reason.\nThe final answer is yes"
+    },
+    {
+        "instruction": "George visited the Garden of Eden from the bible in Portland, Maine.\\nIs the above claim true?\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "The Garden of Eden's location is unknown and certainly not in Portland, Maine.\nThe final answer is no"
+    },
+    {
+        "instruction": "Claim: \"Sodium chloride makes food tasteless and bland.\"\\nIs the claim above correct, and can it be verified by human common sense and without a web search?\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Sodium chloride adds flavor to food rather than removes it.\nThe final answer is no"
+    },
+    {
+        "instruction": "Does the following sentence make sense?\\n\"The Circulatory system pumps blood throughout our bodies.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "The circulatory system uses the heart to move blood through the body.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Is the following a factual statement?\\n\"Andrew Johnson served from 1865 to 1869 as the 17th president of the United States.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Andrew Johnson was the president of united states from 1865 to 1869.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Does the following sentence make sense?\\n\"The Black-tailed prairie dog eats, digs, and is active during daylight hours.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "These prairie dogs sleep at night, they are diurnal.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Does the following sentence make sense?\\n\"A Mayor has national power in all of the United States.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "A mayor is has authority over local government in the United States.\nThe final answer is no"
+    },
+    {
+        "instruction": "Is the following sentence factually correct?\\n\"Asthma affects people's Respiratory system.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Asthma is widely known as a condition that affects people's lungs.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Claim: \"Giraffes hunt for prey at night.\"\\nIs the claim above correct, and can it be verified by human common sense and without a web search?\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Giraffes are herbivores and do not hunt prey.\nThe final answer is no"
+    },
+    {
+        "instruction": "Is the following a factual statement?\\n\"The Scythians lived in Asia and Europe.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "The Scythians lived in Iran, Ukraine, and Russia.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Is the following a factual statement?\\n\"Alan Keyes wrote about American politics.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Most people know that this was Alan Keyes career.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Is the following sentence factually correct?\\n\"Sonic the Hedgehog can win your baseball game if he is on your team.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Sonic the Hedgehog is not a real character.\nThe final answer is no"
+    },
+    {
+        "instruction": "Is the following statement true?\\n\"Meteorology focuses on meteors passing by the Earth.\"",
+        "input": "",
+        "output": "Meteorology does not focus on meteors, it focuses on mostly weather.\nThe final answer is no"
+    },
+    {
+        "instruction": "One may be arrested for taking a holiday to Newcastle, New South Wales.\\nIs the above claim true?\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "It is not illegal to take vacations in New South Wales.\nThe final answer is no"
+    },
+    {
+        "instruction": "Yes / no, is the following a verifiable fact?\\n\"In the Trinity the Father works as the Junior and the holy spirit as the senior of them all.\"",
+        "input": "",
+        "output": "This is false because in the trinity, the father, the son and the holy spirit works as one.\nThe final answer is no"
+    },
+    {
+        "instruction": "Does the following sentence make sense?\\n\"Sharp Corporation got listed on the Nasdaq exchange.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Sharp Corporation got listed in Tokyo Stock Exchange.\nThe final answer is no"
+    },
+    {
+        "instruction": "Is the following statement true?\\n\"Orangutans are amphibians who live in large bodies of water.\"",
+        "input": "",
+        "output": "Orangutans are primates as well as land mammals.\nThe final answer is no"
+    },
+    {
+        "instruction": "Is the following statement true?\\n\"Poul Anderson earned a bachelor's degree from the University of Minnesota.\"",
+        "input": "",
+        "output": "Poul Anderson graduated with honors in Physics from the University of Minnesota.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Claim: \"Calvin and Hobbes comics started last year.\"\\nIs the claim above correct, and can it be verified by human common sense and without a web search?\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Calvin and Hobbes is an American comic strip that has been around for decades.\nThe final answer is no"
+    },
+    {
+        "instruction": "Is the following statement true?\\n\"Mars has two moons one for them is named Phobos.\"",
+        "input": "",
+        "output": "The planet Mars has two moons, Phobos (moon) and Deimos.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Is the following a factual statement?\\n\"The deals in narcotics also involves the Art dealer.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Business of visual art is the art dealer primary concern.\nThe final answer is no"
+    },
+    {
+        "instruction": "Yes / no, is the following a verifiable fact?\\n\"One can find the house of Antonio L\u00f3pez de Santa Anna in Mexico City.\"",
+        "input": "",
+        "output": "The house where Antonio L\u00f3pez de Santa Anna wrote his memoirs was in Mexico City.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Claim: \"Table tennis offers the players a chance to switch sides after every one minute.\"\\nIs the claim above correct, and can it be verified by human common sense and without a web search?\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "This is false because in table tennis the game is played in sets and after a set is when players switch sides.\nThe final answer is no"
+    },
+    {
+        "instruction": "Yes / no, is the following a verifiable fact?\\n\"Fax enables sending and receipt of written communication between people all over the world.\"",
+        "input": "",
+        "output": "Fax is a telecommunications equipment invented by a Scottish person.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Is the following a factual statement?\\n\"The Aspen's leaves make brilliant colors when they change in the fall.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Aspen trees are generally known for their beautiful fall foliage.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Is the following statement true?\\n\"The Viscosity of liquids cannot be modified with temperature.\"",
+        "input": "",
+        "output": "Heating liquids seems to decrease their viscosity temporarily.\nThe final answer is no"
+    },
+    {
+        "instruction": "Claim: \"The daughter of Lionel Richie starred on the reality show The Simple Life.\"\\nIs the claim above correct, and can it be verified by human common sense and without a web search?\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Nicole Richie starred on The Simple Life along with Paris Hilton.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Copper makes a great bbq side dish.\\nIs the above claim true?\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Copper is not edible nor does it go with bbq.\nThe final answer is no"
+    },
+    {
+        "instruction": "Is the following a factual statement?\\n\"We started sprinting when you felt Hurricane Sandy and were able to outrun it.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "It is not possible to outrun a hurricane.\nThe final answer is no"
+    },
+    {
+        "instruction": "Is the following sentence factually correct?\\n\"Police brutality issues are prevalent in today's society.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Police brutality is a major problem in the US today.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Is the following statement true?\\n\"Atlantic cod lives in fresh water.\"",
+        "input": "",
+        "output": "Atlantic cod lives in the Atlantic Ocean, which is salty.\nThe final answer is no"
+    },
+    {
+        "instruction": "Mark Zuckerberg started a social media site called facebook.\\nIs the above claim true?\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "He is the Ceo and co founder of facebook.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Is the following statement true?\\n\"Neil Simon acts as a screenwriter and is form the state of New York., and has won many awards.\"",
+        "input": "",
+        "output": "Neil Simon is from New York, and has won many different screenwriting awards.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Is the following sentence factually correct?\\n\"Jason Mraz composes music and songs for Atlantic Records.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Jason Mraz is a famous, American musician from Virginia, known for writing many well known songs.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Yes / no, is the following a verifiable fact?\\n\"The Furry fandom grow fur on their bodies.\"",
+        "input": "",
+        "output": "Humans don't typically grow fur on their bodies.\nThe final answer is no"
+    },
+    {
+        "instruction": "Is the following sentence factually correct?\\n\"Hermits can be found on the ocean floor.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Hermits are religious solitaries, hermit crabs are marine animals.\nThe final answer is no"
+    },
+    {
+        "instruction": "Is the following a factual statement?\\n\"Many animals have been overserved to use Capitalism.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Animals can't have economic systems as they don't have any forms of currency.\nThe final answer is no"
+    },
+    {
+        "instruction": "Claim: \"A simple Fishing rod can be used to catch many types of fish.\"\\nIs the claim above correct, and can it be verified by human common sense and without a web search?\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "A fishing rod is a basic fishing tool and can be used to catch various fish.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Is the following a factual statement?\\n\"Shetland once belonged to Norway, but now belong to Scotland.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Shetland is a Scottish council area that was once a Norwegian colony.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Yes / no, is the following a verifiable fact?\\n\"Edvard Munch painting The Scream has iconic stature in the world of modern art.\"",
+        "input": "",
+        "output": "Edvard Munch's painting has become one of the best known paintings in the history of modern art.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Claim: \"Richard Gere pioneered HIV/Aids activism, and is an American male film actor who has won many awards.\"\\nIs the claim above correct, and can it be verified by human common sense and without a web search?\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Richard Gere has won many awards for acting, but has also very strong religious views.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Is the following statement true?\\n\"The USS Missouri existed at Pearl Harbor in Honolulu, HI.\"",
+        "input": "",
+        "output": "The USS Missouri (BB-63) was part of WW2 and located at Pearl Harbor.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Claim: \"David Cronenberg directs and acts in Canadian films.\"\\nIs the claim above correct, and can it be verified by human common sense and without a web search?\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "The sentence is true because there is evidence of his work through the films he worked in and on.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Claim: \"A Lemon lives most of its life never touching the ground.\"\\nIs the claim above correct, and can it be verified by human common sense and without a web search?\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Being on a tree, a lemon spends most of its time high in the air, hanging from branches.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Yes / no, is the following a verifiable fact?\\n\"I used the leftover Citrus juice to help my eye feel better.\"",
+        "input": "",
+        "output": "It is a bad idea to put citrus into your eye.\nThe final answer is no"
+    },
+    {
+        "instruction": "Is the following statement true?\\n\"Jellyfish digest fruit and turn it into a delicious fruit spread for human consumption.\"",
+        "input": "",
+        "output": "Jellyfish do not create jelly for human consumption by digesting fruit.\nThe final answer is no"
+    },
+    {
+        "instruction": "Is the following statement true?\\n\"Nineteen Eighty-Four tells a story about rock bands of the 1980s.\"",
+        "input": "",
+        "output": "Nineteen Eighty-Four is a novel about British politics and propaganda.\nThe final answer is no"
+    },
+    {
+        "instruction": "Buzz Aldrin voiced an animated character in the popular Pixar movie Toy Story.\\nIs the above claim true?\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "He did not, although the character Buzz Lightyear was named after him.\nThe final answer is no"
+    },
+    {
+        "instruction": "Is the following a factual statement?\\n\"Parents take responsibility for their children's actions until they are considered adults.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Children are in a very developmental stage of life and are not capable of taking full responsibility for their actions.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Claim: \"Visiting the Tokyo Tower would not be a popular tourist attraction.\"\\nIs the claim above correct, and can it be verified by human common sense and without a web search?\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "I think it is a popular tourist attraction.\nThe final answer is no"
+    },
+    {
+        "instruction": "Does the following sentence make sense?\\n\"Data mining releases new information about individuals constantly.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "When people use sites, those sites data mine and get information.\nThe final answer is yes"
+    },
+    {
+        "instruction": "John Wooden wrote the Gospel of John in the Christian New Testament.\\nIs the above claim true?\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "The Gospel of John appeared nearly 2,000 years before John Wooden\u2019s birth.\nThe final answer is no"
+    },
+    {
+        "instruction": "Is the following statement true?\\n\"The World Food Programme attempts to provide aid to countries/areas in need by providing them with basic necessities such as healthcare and food supplies.\"",
+        "input": "",
+        "output": "As explained in the article above, the WPO has a goal comprised of fighting against malnutrition and disease where it might be prominent.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Is the following sentence factually correct?\\n\"Fax sends you updated notifications of your mail delivery.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Fax machines helps the office workplace as an essential tool for work productivity.\nThe final answer is no"
+    },
+    {
+        "instruction": "Is the following a factual statement?\\n\"Sermons expand upon a message from the Bible.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Sermons generally start from a Bible verse and then build upon that message.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Is the following statement true?\\n\"One can find that Music can be streamed on multiple platforms online.\"",
+        "input": "",
+        "output": "You can indeed stream music through platforms online.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Water buffalo produce beef for people to eat.\\nIs the above claim true?\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Water buffalo can be hunted and people eat the food they provide.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Is the following statement true?\\n\"The Oregon trail would begin in Oregon City, Oregon.\"",
+        "input": "",
+        "output": "Oregon City, Oregon was not the beginning of the trail it was the end destination.\nThe final answer is no"
+    },
+    {
+        "instruction": "Is the following sentence factually correct?\\n\"In the original Roman calendar, September came after June, which is why its name derives from the Latin word septum, meaning seven.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Although September was the seventh month on the ancient Roman calendar, it never came after June. Following June (or Junius), the Roman calendar had Quintilis, Sextilis, and then September.\nThe final answer is no"
+    },
+    {
+        "instruction": "Does the following sentence make sense?\\n\"Judas Iscariot heard the teachings of Jesus.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Judas Iscariot was one of Jesus' twelve apostles, and he would have been with Jesus during the period of time that Jesus spent traveling and teaching.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Is the following a factual statement?\\n\"People hear God Save the Queen often in the United Kingdom.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "God Save the Queen is the national anthem of the United Kingdom.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Is the following statement true?\\n\"Rogue One grossed one of the lowest box office amounts in history.\"",
+        "input": "",
+        "output": "Rogue One made a large amount in the box offices.\nThe final answer is no"
+    },
+    {
+        "instruction": "Claim: \"Good people make good Parents who raise good children.\"\\nIs the claim above correct, and can it be verified by human common sense and without a web search?\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "This depends on how you define who is a good person, but most of the time being a good person does automatically make you a good parent. Good children also don't automatically define good parents, there are notable examples of good children raised by terrible people.\nThe final answer is no"
+    },
+    {
+        "instruction": "Does the following sentence make sense?\\n\"Mick Foley appeared many times in Boy Meets World.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "He only appeared in one episode of the show.\nThe final answer is no"
+    },
+    {
+        "instruction": "Yes / no, is the following a verifiable fact?\\n\"Fossells dating back to a half million years ago have found direct evidence of a Fairy like creature who was less then a foot tall, biologically human and could fly.\"",
+        "input": "",
+        "output": "No such fossells have ever been found. No (fully grown) one foot tall humanoid remains have ever been found either.\nThe final answer is no"
+    },
+    {
+        "instruction": "Claim: \"One can find Sarah Jessica Parker on the show The Sopranos.\"\\nIs the claim above correct, and can it be verified by human common sense and without a web search?\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Sarah Jessica Parker did not act on The Sopranos.\nThe final answer is no"
+    },
+    {
+        "instruction": "Is the following a factual statement?\\n\"Trapped in the past, Marty inadvertently prevents his future parents' meeting\u2014threatening his very existence\u2014and is forced to reconcile the pair and somehow get Back to the Future.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Back to the Future was conceived of in 1980, by Gale and Zemeckis. They were desperate for a successful film after numerous collaborative failures, but their idea was rejected over 40 times by studios because it was not considered raunchy enough to compete with the successful comedies of the era.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Yes / no, is the following a verifiable fact?\\n\"Without World War I, the history books would not have recorded the life of T. E. Lawrence.\"",
+        "input": "",
+        "output": "During World War I T. E. Lawrence became known as Lawrence of Arabia due to his exploits fighting alongside Arabs in the Middle East.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Does the following sentence make sense?\\n\"Atlantic cod will poison humans when eaten.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Atlantic cod are edible and therefore not poisonous.\nThe final answer is no"
+    },
+    {
+        "instruction": "Yes / no, is the following a verifiable fact?\\n\"Many tourists visit Times Square to celebrate New Year's Eve.\"",
+        "input": "",
+        "output": "Times Square is a popular place to visit on New Year's Eve.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Claim: \"Mark Zuckerberg created a website aimed at college students.\"\\nIs the claim above correct, and can it be verified by human common sense and without a web search?\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Mark Zuckerberg created Facebook at Harvard, originally a social networking site for college students.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Is the following a factual statement?\\n\"Willard Van Orman Quine married about three times in his life.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Quine only married two times during his life.\nThe final answer is no"
+    },
+    {
+        "instruction": "Palladium does not tarnish in air.\\nIs the above claim true?\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Palladium does not react with oxygen at normal temperatures; it is a noble metal.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Is the following sentence factually correct?\\n\"The female ovaries play a key role in the Menstruation process.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Every female has ovaries and it does carry out the process as seen in science.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Paparazzi snap pictures of famous celebrities to sell to tabloids.\\nIs the above claim true?\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Paparazzi make money off of the pictures that they sell.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Rupert Murdoch owns many American companies.\\nIs the above claim true?\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Rupert Murdoch is known for owning television networks, news outlets, and sports teams.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Claim: \"Apostolic Palace acts as the meeting point for the heads of state when there is war in the nations.\"\\nIs the claim above correct, and can it be verified by human common sense and without a web search?\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "This is false because Apostolic Palace is owned by the Catholics and they only house the Pope.\nThe final answer is no"
+    },
+    {
+        "instruction": "Is the following statement true?\\n\"Pantera made music with distorted guitars.\"",
+        "input": "",
+        "output": "Pantera earned their fame as a heavy metal guitar band.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Is the following statement true?\\n\"The Terracotta Army. was built by a member of the Qin dynasty.\"",
+        "input": "",
+        "output": "The first emperor of the Qin dynasty created it.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Is the following statement true?\\n\"People over the past few centuries have loved Shakespeare's play Twelfth Night.\"",
+        "input": "",
+        "output": "Twelfth Night was written about 500 years ago and is one of William Shakespeare's most beloved plays.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Peoria, Illinois burned to the ground after an earthquake in 1985.\\nIs the above claim true?\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "There was not an earthquakein Peoria, Illinois in 1985.\nThe final answer is no"
+    },
+    {
+        "instruction": "Is the following statement true?\\n\"Birch species belong to the Betula genus in the Betulaceae family.\"",
+        "input": "",
+        "output": "The birch includes alders, hazels, and hornbeams and is closely related to the beech-oak family.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Is the following sentence factually correct?\\n\"Many fossils and bugs can be found encased in Amber.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Many museums have amber encased insects on display.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Yes / no, is the following a verifiable fact?\\n\"Most populous Sindh city Karachi is in the coastal region of Pakistan.\"",
+        "input": "",
+        "output": "Karachi is a populous coastal city of Pakistan.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Is the following statement true?\\n\"Ada Lovelace existed as an exceptionally smart scientist for her time.\"",
+        "input": "",
+        "output": "As a woman in the Victorian era, she had to be smart to be taken seriously.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Does the following sentence make sense?\\n\"Lil Wayne changed his name because he was nervous to sing behind his real name.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "The sentence is false because there is not sufficient evidence to prove that it is true. Lil Wayne has never said the following, thus it cannot be deemed as a fact.\nThe final answer is no"
+    },
+    {
+        "instruction": "Claim: \"Mathematical optimization involves taking away numbers until things are simplified.\"\\nIs the claim above correct, and can it be verified by human common sense and without a web search?\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Mathematical optimization finds a way to do the same thing faster with less resources.\nThe final answer is no"
+    },
+    {
+        "instruction": "Yes / no, is the following a verifiable fact?\\n\"In a Serfdom, serfs were bound to the land upon which they were born and the fruits of their labors belong to the person who owned the land.\"",
+        "input": "",
+        "output": "The sentence is true because the definition of a serfdom.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Yes / no, is the following a verifiable fact?\\n\"Germanic people that lived in Romania in the Early Ages were called The Goths.\"",
+        "input": "",
+        "output": "The Goths were a Germanic people known to live in Romania during the Early Ages.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Is the following sentence factually correct?\\n\"A Brain tumor can press on the optic nerve and cause vision problems.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Tumors near the optic nerve can interfere with vision .\nThe final answer is yes"
+    },
+    {
+        "instruction": "Claim: \"Mary, mother of Jesus gave birth to Jesus in a manger.\"\\nIs the claim above correct, and can it be verified by human common sense and without a web search?\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "According to the Bible, Jesus was born in a manger.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Westerners commercialize Easter with the likenesses of Santa Claus and elves, in order to appeal to the masses outside of the religion.\\nIs the above claim true?\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "The figures mentioned are used for Christmas celebrations. In fact, Easter has been westernized with candy and rabbits.\nThe final answer is no"
+    },
+    {
+        "instruction": "Does the following sentence make sense?\\n\"Tony Bennett worked on a number of records.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Tony Bennett was a recording artist that appeared on several albums.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Claim: \"One can travel to Richmond, Kentucky from Canada by heading north.\"\\nIs the claim above correct, and can it be verified by human common sense and without a web search?\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Richmond, Kentucky is south of Canada, not north of it.\nThe final answer is no"
+    },
+    {
+        "instruction": "Is the following statement true?\\n\"Bodhisattvas falsify Buddhism because they are not enlightened.\"",
+        "input": "",
+        "output": "A Bodhisattva can teach Buddhism without being enlightened.\nThe final answer is no"
+    },
+    {
+        "instruction": "Claim: \"Constantine the Great converted the Roman Empire to Christianity.\"\\nIs the claim above correct, and can it be verified by human common sense and without a web search?\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Constantine the Great was an Emperor of Rome who converted to Christianity and in turn caused the rest of the empire to convert.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Does the following sentence make sense?\\n\"People consume Brine shrimp with cocktail sauce.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "This is factually untrue as brine shrimp are not usually a type of food.\nThe final answer is no"
+    },
+    {
+        "instruction": "Claim: \"Arizona State University is located in Tempe, Arizona.\"\\nIs the claim above correct, and can it be verified by human common sense and without a web search?\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "A campus of ASU is located in Tempe.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Is the following sentence factually correct?\\n\"Many children play Dodgeball during PE in school.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "It is one of the most popular sports among children worldwide.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Is the following sentence factually correct?\\n\"Andrew Cuomo played quarterback for the Super Bowl 55 winning Tampa Bay Buccaneers.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Tom Brady was the quarterback for the Buccaneers when they won Super Bowl 55.\nThe final answer is no"
+    },
+    {
+        "instruction": "Yes / no, is the following a verifiable fact?\\n\"Annie won Tony Award for Best Musical.\"",
+        "input": "",
+        "output": "Annie (musical) is a musical by Charles Strouse.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Does the following sentence make sense?\\n\"Oats are a modern innovation hailing from central europe.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Genetic evidence shows the ancestral forms of A. sterilis grew in the Fertile Crescent of the Near East.\nThe final answer is no"
+    },
+    {
+        "instruction": "Is the following sentence factually correct?\\n\"Post Malone sings jazz for a band.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Post Malone is not a jazz singer, he is a Pop rapper.\nThe final answer is no"
+    },
+    {
+        "instruction": "Yes / no, is the following a verifiable fact?\\n\"A nation's economic development status is measured by Human Development Index.\"",
+        "input": "",
+        "output": "Human Development Index is an international ranking of nation's people economic metic.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Children are not permitted in Walt Disney World in October.\\nIs the above claim true?\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Children are a main audience for Walt Disney World and there is no ban like this.\nThe final answer is no"
+    },
+    {
+        "instruction": "Is the following a factual statement?\\n\"One can find Florence has univerity towns.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "There are establishments of education indeed found in Florence, Italy.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Solo involves at least two performers.\\nIs the above claim true?\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Solo (music) is a kind of performance involving only one player.\nThe final answer is no"
+    },
+    {
+        "instruction": "Yes / no, is the following a verifiable fact?\\n\"A Librarian assists people with finding books.\"",
+        "input": "",
+        "output": "Locating books for patrons is part of a librarian's job.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Is the following statement true?\\n\"Construction worker S ARE WORKED VERY HARD FOR THEIR COMPANY.\"",
+        "input": "",
+        "output": "IN ANY COMPANY ALL THE WORKERS PUT A LOT OF EFFORTS TO WORK FOR THEIR COMPANY AND ESPECIALLY CONSTRUCTION EMPLOYEES ARE VERY SINCERE ABOUT THIS WORK.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Is the following sentence factually correct?\\n\"Watermelons typically taste very sour, with a tangy aftertaste.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Most watermelons are very sweet and not tart.\nThe final answer is no"
+    },
+    {
+        "instruction": "Claim: \"Yellow pages list countless flight numbers.\"\\nIs the claim above correct, and can it be verified by human common sense and without a web search?\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "The yellow pages is a directory of businesses and their contact information, not of flight information.\nThe final answer is no"
+    },
+    {
+        "instruction": "Is the following sentence factually correct?\\n\"Biological birth Mothers must have maternal dna but not a womb.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "So long as the biological mother has eggs, she can produce a child carried by a sarrogate.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Is the following statement true?\\n\"Lil Wayne sings rap music in the United States.\"",
+        "input": "",
+        "output": "The sentence is true because there is tangible evidence to prove that is in fact true. People can look up on Google the music produced by Lil Wayne.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Is the following sentence factually correct?\\n\"When playing as Sonic the Hedgehog the goal is to kill as many enemies as possible.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "The goal of Sonic games is usually gathering items and racing.\nThe final answer is no"
+    },
+    {
+        "instruction": "When you are happy for someone you are experience Jealousy.\\nIs the above claim true?\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Jealous is closer to envy, and its when you want something someone else has.\nThe final answer is no"
+    },
+    {
+        "instruction": "Yes / no, is the following a verifiable fact?\\n\"Luciano Pavarotti sold over 200 million records.\"",
+        "input": "",
+        "output": "Luciano Pavarotti did not sell over 200 million records, but he sold over 100 million.\nThe final answer is no"
+    },
+    {
+        "instruction": "Yes / no, is the following a verifiable fact?\\n\"Several French monarchs have been excecuted by use of the Guillotine.\"",
+        "input": "",
+        "output": "The guillotine was a popular method of excecution during the French Revolution.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Is the following statement true?\\n\"One Thousand and One Nights cannot be read in Arabic.\"",
+        "input": "",
+        "output": "One Thousand and One Nights is already translated into Arabic.\nThe final answer is no"
+    },
+    {
+        "instruction": "Claim: \"Josef Mengele loves his neighbors and bakes them cookies for the holidays.\"\\nIs the claim above correct, and can it be verified by human common sense and without a web search?\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "My sentence is false because there is no proof or evidence of Josef Mengele ever doing this. Also, he is probably not liked very much, so his neighbors may not accept these things from him.\nThe final answer is no"
+    },
+    {
+        "instruction": "Yes / no, is the following a verifiable fact?\\n\"Azaleas tend to have bright colors, such as red, pink, and purple.\"",
+        "input": "",
+        "output": "This is true and is likely the reason for the flower's popularity.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Does the following sentence make sense?\\n\"Muslims believe that the Quran was written by God.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Muslims believe the Quran was a book communicated by God to the prophet Muhammad.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Does the following sentence make sense?\\n\"Geocaching operates as a source of information to the police incase of theft activity.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "This is false because geocaching is a game and not a software used by the police.\nThe final answer is no"
+    },
+    {
+        "instruction": "The Great Gatsby promotes teenagers to commit suicide.\\nIs the above claim true?\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "The sentence is false because there is no evidence of the claim being true. There is not evidence through statistics or experiences to demonstrate that the book has this effect on teenagers.\nThe final answer is no"
+    },
+    {
+        "instruction": "Does the following sentence make sense?\\n\"The Electron has an enormous mass and energy that is responsible for sudden shifts in earth's gravitational alignment.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "The electron is smaller then an atom and a single one exerts no forces that would alter the movement of the earth in any way.\nThe final answer is no"
+    },
+    {
+        "instruction": "Does the following sentence make sense?\\n\"The hilarious Justin Bieber peed in a mop bucket and cursed at a picture of Bill Clinton. He later had to publicly apologize to Bill Clinton.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "This was a big story and made its way to my feed because of the political aspect.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Yes / no, is the following a verifiable fact?\\n\"T-Mobile US focuses on building cars, and is based out of New York City.\"",
+        "input": "",
+        "output": "T-Mobile US is not a car company, they provide mobile phone services.\nThe final answer is no"
+    },
+    {
+        "instruction": "Yes / no, is the following a verifiable fact?\\n\"Lynyrd Skynyrd released the smash hits Sweet Home Alabama and Free Bird.\"",
+        "input": "",
+        "output": "These are two of the band's greatest hits.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Is the following sentence factually correct?\\n\"Psalms, the movie shows how the voiceless boy learns to express his emotions and feelings and it was directed by Aman Sharma in 2013.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Psalms is actually a book of Old Testaments.\nThe final answer is no"
+    },
+    {
+        "instruction": "Is the following statement true?\\n\"The final bout between good and evil, the god of Abraham v. Satan will happen at Armageddon.\"",
+        "input": "",
+        "output": "Megiddo Isreal is where the final battle of Armageddon is supposed to happen for the Christian religions.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Is the following sentence factually correct?\\n\"Pros in the National Hockey League play basketball.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "The National Hockey League is not a basketball league.\nThe final answer is no"
+    },
+    {
+        "instruction": "Is the following sentence factually correct?\\n\"Billy Ray Cyrus released several country albums.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Billy Ray Cyrus has had a long music career since the 1990s.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Is the following sentence factually correct?\\n\"Sonic the Hedgehog started as a film.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Sonic the Hedgehog was a video game that then turned into a film.\nThe final answer is no"
+    },
+    {
+        "instruction": "Is the following a factual statement?\\n\"It is common to cut an Eyelash.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "It may be common for an eyelash to fall out but not be cut.\nThe final answer is no"
+    },
+    {
+        "instruction": "Claim: \"Fermentation gives beer its carbonation but does not provide any alcohol content.\"\\nIs the claim above correct, and can it be verified by human common sense and without a web search?\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "The process of fermentation is what gives beer its alcohol content.\nThe final answer is no"
+    },
+    {
+        "instruction": "Yes / no, is the following a verifiable fact?\\n\"The word Tsar originated as a name for rulers of the USSR.\"",
+        "input": "",
+        "output": "The USSR is relatively new as it was founded in the 1920's. The word tsar existed long before this.\nThe final answer is no"
+    },
+    {
+        "instruction": "Does the following sentence make sense?\\n\"Silverfish derived its name from silvery light green color, combined with the snake-like appearance.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "The Silverfish is silvery light grey in color and has fish-like appearance in its movements.\nThe final answer is no"
+    },
+    {
+        "instruction": "Does the following sentence make sense?\\n\"Honey badger primarily live in the eastern hemisphere.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Honey badgers are known to live in the eastern hemisphere.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Is the following sentence factually correct?\\n\"Birds use their Beaks to find and consume food.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Observing a bird in the wild will confirm this is the case.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Does the following sentence make sense?\\n\"Lynyrd Skynyrd created one of the highest grossing television shows of all time.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Lynyrd Skynyrd did not create TV shows, they created country music.\nThe final answer is no"
+    },
+    {
+        "instruction": "Is the following a factual statement?\\n\"Tyler Perry enjoys singing at dusk.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "I Think this sentence is faults because there is no evidence nor a testimony from Tyler himself that he enjoys this nor that he actually does this.\nThe final answer is no"
+    },
+    {
+        "instruction": "Sean Combs won a Grammy Award in 1998.\\nIs the above claim true?\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Sean Combs won the Grammy Award for Best Rap Album in 1998.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Is the following statement true?\\n\"In the age of the internet Advertising has become much more personalized.\"",
+        "input": "",
+        "output": "Algorithms track your search history to make it easier advertising to you.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Yes / no, is the following a verifiable fact?\\n\"The standard version of Sudoku uses a 15 by 15 grid.\"",
+        "input": "",
+        "output": "The game uses a 9 by 9 grid.\nThe final answer is no"
+    },
+    {
+        "instruction": "Is the following sentence factually correct?\\n\"China\u2013United States relations will lead to more pandas being exchanged.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "It is unlikely the China\u2013United States relations will improve in the short term.\nThe final answer is no"
+    },
+    {
+        "instruction": "Claim: \"People are often questioning the things that happen at the Guantanamo Bay Naval Base.\"\\nIs the claim above correct, and can it be verified by human common sense and without a web search?\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "It has been the subject of many questionable practices by the United States government.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Is the following a factual statement?\\n\"Canadians perpetrated the Attack on Pearl Harbor.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "The attack on Pearl Harbor was perpetrated by Japan.\nThe final answer is no"
+    },
+    {
+        "instruction": "Yes / no, is the following a verifiable fact?\\n\"A favorite menu item in restaurants is Japanese yen.\"",
+        "input": "",
+        "output": "Japanese yen is a circulating currency of Japan.\nThe final answer is no"
+    },
+    {
+        "instruction": "Claim: \"Homer Simpson works for Mr. Burns at the local supermarket.\"\\nIs the claim above correct, and can it be verified by human common sense and without a web search?\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Homer Simpson works at a nuclear power plant.\nThe final answer is no"
+    },
+    {
+        "instruction": "Does the following sentence make sense?\\n\"You can visit the United States Capitol when you visit Washington D.C.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "The United States Capitol is located in Washington D.C.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Does the following sentence make sense?\\n\"The only product Starbucks locations ever sell is coffee.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Some Starbucks stores sell pre-packaged food items, pastries, and hot and cold sandwiches; there are also several select \"Starbucks Evenings\" locations which offer beer, wine and appetizers.\nThe final answer is no"
+    },
+    {
+        "instruction": "Is the following statement true?\\n\"Wandsworth takes its name from the River Wandle.\"",
+        "input": "",
+        "output": "It took part of the name of the river.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Claim: \"Fascism rose to prominence in early 20th century Europe around the time of World War I.\"\\nIs the claim above correct, and can it be verified by human common sense and without a web search?\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "This is well-documented and known about the earliest fascist movements.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Claim: \"Giorgio Vasari performed in plenty of Broadway Shows.\"\\nIs the claim above correct, and can it be verified by human common sense and without a web search?\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Giorgio Vasari died in 1574, centuries before Broadway Shows was a thing.\nThe final answer is no"
+    },
+    {
+        "instruction": "James Cagney acts on American theater stages and also dances tap dance.\\nIs the above claim true?\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "This sentence is true because James Cagney stage acts can be watched by people.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Yes / no, is the following a verifiable fact?\\n\"Most people enjoyed the movie Finding Nemo.\"",
+        "input": "",
+        "output": "It is true because it is one of the most like Disney movies.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Is the following statement true?\\n\"Bill Murray keeps his audience laughing.\"",
+        "input": "",
+        "output": "This statement is true because he is most known for his comedic actor.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Does the following sentence make sense?\\n\"Hanging causes you to grow taller.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Hanging does not make you taller and is a dangerous method of execution.\nThe final answer is no"
+    },
+    {
+        "instruction": "Is the following sentence factually correct?\\n\"The Schuylkill River connects with the Hudson River.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "The Schuylkill River is located in Pennsylvania, whereas the Hudson River is located in New York.\nThe final answer is no"
+    },
+    {
+        "instruction": "Yes / no, is the following a verifiable fact?\\n\"Indiana Jones and the Kingdom of the Crystal Skull released in May 20, 2008 in the United States.\"",
+        "input": "",
+        "output": "The sentence is true because there is public record and proof of the day the movie was released.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Is the following statement true?\\n\"Stanford University focuses on delivering high quality education to its students.\"",
+        "input": "",
+        "output": "Stanford University is one of the top Universities in the nation.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Claim: \"Pink Floyd released several all time great rock songs.\"\\nIs the claim above correct, and can it be verified by human common sense and without a web search?\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "They released several classic rock songs over numerous years that are considered some of the best rock songs of all time.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Claim: \"The 1912 United States presidential election took place in China.\"\\nIs the claim above correct, and can it be verified by human common sense and without a web search?\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "U.S. presidential elections take place in the U.S. not China.\nThe final answer is no"
+    },
+    {
+        "instruction": "Is the following a factual statement?\\n\"Pink Floyd won Grammy's before.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "You can find the history about Pink Floyd's winning on Grammy's website.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Yes / no, is the following a verifiable fact?\\n\"Nikola Tesla invented the internet in 1970.\"",
+        "input": "",
+        "output": "The internet was invented many years after Nikola Tesla died.\nThe final answer is no"
+    },
+    {
+        "instruction": "Claim: \"Aloe used on the face is an acceptable ingredient to your skincare.\"\\nIs the claim above correct, and can it be verified by human common sense and without a web search?\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Aloe is often used as a cosmetic chemical.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Is the following sentence factually correct?\\n\"One can find that Old English was used during the Medieval period.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "You can look up this information at any history center for languages.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Does the following sentence make sense?\\n\"Lately the U.S. and China have had major disputes over the East China Sea.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "The tension is mainly focused on Taiwan and their separation from mainland china.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Nicobar Islands is the only island present in the Bay of Bengal.\\nIs the above claim true?\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Bay of Bengal consists of several island including including the Andaman Islands, Nicobar Islands and Mergui Archipelago.\nThe final answer is no"
+    },
+    {
+        "instruction": "One can find Greater Manchester in Europe.\\nIs the above claim true?\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Greater Manchester is in United Kingdom which is part of Europe.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Is the following a factual statement?\\n\"Lionel Richie played in the group the Commodores.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Lionel Richie was a member of the Commodores.\nThe final answer is yes"
+    },
+    {
+        "instruction": "The Neuroptera order of insects fly.\\nIs the above claim true?\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "All species of the Neuroptera order are net-winged insects.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Is the following a factual statement?\\n\"One can find the history of Ivan the Terrible in the Museum of US History.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Ivan the Terrible has nothing to do with US History.\nThe final answer is no"
+    },
+    {
+        "instruction": "Claim: \"A Chocolate brownie happens to be loved by everyone.\"\\nIs the claim above correct, and can it be verified by human common sense and without a web search?\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "It would be likely impossible for everyone on Earth to like a chocolate brownie.\nThe final answer is no"
+    },
+    {
+        "instruction": "Yes / no, is the following a verifiable fact?\\n\"The trail to Oregon City, Oregon known as the Oregon trail was dangerous.\"",
+        "input": "",
+        "output": "The Oregon trail was named after Oregon City, Oregon because that was the destination.\nThe final answer is yes"
+    },
+    {
+        "instruction": "The center is full of video games is Library and information science.\\nIs the above claim true?\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Library and information science is a useful center of knowlege.\nThe final answer is no"
+    },
+    {
+        "instruction": "Does the following sentence make sense?\\n\"Who Framed Roger Rabbit ? featured cartoons interacting with people.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Who Framed Roger Rabbit? was a movie about the interactions of people and cartoons.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Claim: \"Twin represents a pair of children or animals born at the same birth.\"\\nIs the claim above correct, and can it be verified by human common sense and without a web search?\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Twins are two offspring produced by the same pregnancy.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Claim: \"Telephone exchange equipment has evolved drastically over the last 30 years.\"\\nIs the claim above correct, and can it be verified by human common sense and without a web search?\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "It is no longer required to have wired telephone systems.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Is the following statement true?\\n\"It is possible to see a film about Othello.\"",
+        "input": "",
+        "output": "There was a play about Othello was adapted into a film.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Is the following a factual statement?\\n\"Hanging is widely used, officials acting out and Hanging people, currently, legally in the united states in Capital punishment.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Hanging is outlawed in all states as a form of capital punishment.\nThe final answer is no"
+    },
+    {
+        "instruction": "Is the following a factual statement?\\n\"The Three Gorges Dam controls waterflow in China.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "The Dam is in China and holds water.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Is the following sentence factually correct?\\n\"Vodafone provides telecommunication services in the United Kingdom.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Vodafone is a well known corporate sin off in the UK, and manufactures mobile phones.\nThe final answer is yes"
+    },
+    {
+        "instruction": "A natural food additive that is widely used is Salt.\\nIs the above claim true?\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Salt is a sodium mineral and is edible.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Claim: \"La Jolla follows the Pacific Time Zone.\"\\nIs the claim above correct, and can it be verified by human common sense and without a web search?\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "La Jolla is located in California which is in the Pacific Time Zone.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Is the following statement true?\\n\"Slot machine fixes the automobile parts especially in cars.\"",
+        "input": "",
+        "output": "Slot machine is actually a gambling machine used for playing.\nThe final answer is no"
+    },
+    {
+        "instruction": "Stories about various religions can be found in the Yellow pages.\\nIs the above claim true?\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Most people know that the Yellow Pages does not regard religion.\nThe final answer is no"
+    },
+    {
+        "instruction": "Claim: \"HTC makes the best mattress for its consumers.\"\\nIs the claim above correct, and can it be verified by human common sense and without a web search?\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "HTC does not make mattresses. It is a tech company which is involved in the manufacture of phones and computers.\nThe final answer is no"
+    },
+    {
+        "instruction": "Claim: \"The Cucumber is a fruit vegetable.\"\\nIs the claim above correct, and can it be verified by human common sense and without a web search?\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Research and true definition are backed by science.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Is the following sentence factually correct?\\n\"Capitalism Capital is synonymous with communism, no major differences are present.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Communism, unlike Capitalism Capital (economics), involves preset rules which limit the lay public from freely engaging in commerce.\nThe final answer is no"
+    },
+    {
+        "instruction": "Is the following sentence factually correct?\\n\"Super Bowl XLIV took place in Miami Gardens, Florida.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "The New Orleans Saints and Indianapolis Colts played at the Super Bowl XLIV.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Hovercraft moves smooth in strong wind.\\nIs the above claim true?\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "The strong wind blow the Hovercraft away as they are not in contact with surface.\nThe final answer is no"
+    },
+    {
+        "instruction": "Is the following sentence factually correct?\\n\"One of the most important part of a students day is Physical education because kids need that daily to remain healthy.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Several studies have show the positive effects of daily physical education on children's short and long term health.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Does the following sentence make sense?\\n\"Nobody likes to eat a Peach.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Some fraction of people must like a peach.\nThe final answer is no"
+    },
+    {
+        "instruction": "Does the following sentence make sense?\\n\"The growth of Wheat led to the creation of bread.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Wheat is used to make flour, which is used in bread.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Claim: \"Diphtheria occurs most often in sub-Saharan Africa, India, and Indonesia.\"\\nIs the claim above correct, and can it be verified by human common sense and without a web search?\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "More than 2000 people died because of Diphtheria.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Estonian language originated in countries such as Russia and Estonia.\\nIs the above claim true?\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "The Estonian language can be found in Russia.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Yes / no, is the following a verifiable fact?\\n\"Peas will make you loose weight if you eat them.\"",
+        "input": "",
+        "output": "Peas alone will not make you loose weight.\nThe final answer is no"
+    },
+    {
+        "instruction": "Psalms derived from the Greek translation means instrumental music and, by extension, the words accompanying the music.\\nIs the above claim true?\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "The Book of Psalms commonly referred to simply as Psalms, the Psalter or \"the Psalms\" is derived from the Greek translation.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Yes / no, is the following a verifiable fact?\\n\"The first writer of history was Herodotus, who lived in Ancient Greece.\"",
+        "input": "",
+        "output": "Herodotus is often referred to as the father of history.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Is the following a factual statement?\\n\"The Lenovo brand is known for its high quality computers at a reasonable price.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Lenovo consistently ranks high in computer rankings and falls in line with the medium price of a computer.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Claim: \"Sammy Sosa played in the Major League Baseball (MLB) for 19 seasons, primarily with the Chicago Cubs.\"\\nIs the claim above correct, and can it be verified by human common sense and without a web search?\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Sammy Sosa is the only player to have hit 60 or more home runs in a single season three times.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Is the following sentence factually correct?\\n\"When one wears Sandals, one's feet are usually visible to onlookers.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "All sandals have open tops and allow at least part of the foot to be viewed.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Claim: \"The main character of Wonder Woman fights with a magic rope.\"\\nIs the claim above correct, and can it be verified by human common sense and without a web search?\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Even those who have not seen this movie likely know this is true.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Does the following sentence make sense?\\n\"Tony Bennett recorded a lot of popular music in his day.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Tony Bennett was a popular singer in the fifties.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Does the following sentence make sense?\\n\"Dave Winfield played outfield for the New York Yankees.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Yes, he is on record having played outfield with the Yankees.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Is the following sentence factually correct?\\n\"Immunology introduces viruses in our bodies to raise our immunes.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Immunology is the study of the immune system and not the introduction of viruses into our bodies.\nThe final answer is no"
+    },
+    {
+        "instruction": "The Great Earl of Irons is actually Jeremy Irons great grandfather 8 time over and where the families extensive wealth originated from.\\nIs the above claim true?\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "There were no Great Earl of Irons that are easily searchable so I assume he was not real. I a could also not find much on Jeremy Irons family financial dealings either.\nThe final answer is no"
+    },
+    {
+        "instruction": "Elizabeth II reigned for over 50 years.\\nIs the above claim true?\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Elizabeth II's reign, which continues today, began in at least the 1950, which was over 50 years ago.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Is the following a factual statement?\\n\"Ginger is used to cure all forms of cancer.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "It is a false and outlandish statement to be made.\nThe final answer is no"
+    },
+    {
+        "instruction": "Claim: \"Jimmy told me that his Twin was not related to him by blood.\"\\nIs the claim above correct, and can it be verified by human common sense and without a web search?\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Twins have to be genetically related to one another to be considered twins by definition.\nThe final answer is no"
+    },
+    {
+        "instruction": "Claim: \"Other names throughout history for Librarians are keepers of the tablets or masters of the books.\"\\nIs the claim above correct, and can it be verified by human common sense and without a web search?\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "These were Sumerian names for the librarian, and it would seem very intuitive for anybody who knows what a librarian is.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Is the following statement true?\\n\"Sylvia Earle released many scientific articles throughout her career.\"",
+        "input": "",
+        "output": "As a scientist, she needs to produce scientific research articles to further her career and her interests.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Is the following a factual statement?\\n\"Narcissism affects half of all people.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Narcissism does not affect half of all people, and it is actually seen a rare human characteristic.\nThe final answer is no"
+    },
+    {
+        "instruction": "Yes / no, is the following a verifiable fact?\\n\"Someone who starred in Easy Rider also wrote the screenplay.\"",
+        "input": "",
+        "output": "The screenplay of Easy Rider was written by Terry Southern, Dennis Hopper and Peter Fonda, with the latter two starring in the movie.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Steely Dan played baseball for years.\\nIs the above claim true?\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Steely Dan was a rock group not an actual person or involved in baseball.\nThe final answer is no"
+    },
+    {
+        "instruction": "Is the following a factual statement?\\n\"Travellers come to Cornwall to see the massive wall of corn separating the county from the rest of England.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Cornwall does not have a wall of corn.\nThe final answer is no"
+    },
+    {
+        "instruction": "Is the following statement true?\\n\"Emma Thompson dominates the brittish actress realm.\"",
+        "input": "",
+        "output": "Emma Thompson is the most well known brittish actress.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Yes / no, is the following a verifiable fact?\\n\"Flint, Michigan makes lighting campfires very easy.\"",
+        "input": "",
+        "output": "Flint is the name of a city, not a reference to the tool flint, which can be used to light campfires.\nThe final answer is no"
+    },
+    {
+        "instruction": "Is the following sentence factually correct?\\n\"Hercules had superior strength to those around him.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Hercules had super human strength because he was part god.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Is the following statement true?\\n\"Basil gives flavor to many Italian dishes.\"",
+        "input": "",
+        "output": "As an herb, basil commonly can be found in many dishes, particularly Italian ones.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Is the following a factual statement?\\n\"Peter Davison's publication of the Complete Works of George Orwell made most of the Orwell Archive accessible to the public.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Peter Davison' published the Complete Works of George Orwell in 2000.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Is the following a factual statement?\\n\"Mike Tyson competed under the heavy weight division of boxing.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Mike Tyson was a heavy weight boxing champion.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Alpine skiing acts as a sport in which skiing is done on water with boats pulling the competitors.\\nIs the above claim true?\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "Alpine skiing is done on snow, not water skiing.\nThe final answer is no"
+    },
+    {
+        "instruction": "Does the following sentence make sense?\\n\"The President doesn't actually use the Oval Office at all.\"\\nOptions:\\n- yes\\n- no",
+        "input": "",
+        "output": "The oval office is the President's main office that he uses daily.\nThe final answer is no"
+    }
+]

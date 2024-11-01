@@ -1,0 +1,2502 @@
+[
+    {
+        "instruction": "Which of the following two sentences does not make sense?\\nOptions:\\n- Sentence A: \"Penguins live on land and in the water\"\\n- Sentence B: \"Penguins live in the air.\"\\n",
+        "input": "",
+        "output": "Penguins live on land and swim in the ocean.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Which of the following two sentences does not make sense?\\nOptions:\\n- Sentence A: \"I was thirsty so I went to eat bread\"\\n- Sentence B: \"I was thirsty so I went to drink water\"\\n",
+        "input": "",
+        "output": "When we are hungry we eat food but if we are thirsty we drink water.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Which of the following two sentences does not make sense?\\nOptions:\\n- Sentence A: \"A cook works in a restaurant.\"\\n- Sentence B: \"A teacher works in a restaurant.\"\\n",
+        "input": "",
+        "output": "A teacher works in a school, not a restaurant.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Of the following two sentences, which one is against common sense?\\nOptions:\\n- Sentence A: \"Nail is a small piece of metal which is inserted into a lock and turned to open or close it\"\\n- Sentence B: \"Key is a small piece of metal which is inserted into a lock and turned to open or close it\"\\n",
+        "input": "",
+        "output": "Nail's main use is to anchor any object to another.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Which of the following sentences is nonsensical?\\nOptions:\\n- Sentence A: \"The war started, thus the soldiers can go home\"\\n- Sentence B: \"The war ended, thus the soldiers can go home\"\\n",
+        "input": "",
+        "output": "If the war starts it is not possible to soldiers go home because they are the main people to fight.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "One of the following sentences is nonsensical. Which one is it?\\nOptions:\\n- Sentence A: \"His car drove him to Atlanta.\"\\n- Sentence B: \"He drove his car to Atlanta.\"\\n",
+        "input": "",
+        "output": "Cars that can operate by theselves are still in the testing and production phases.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Of the below sentences, which one does *not* make sense?\\nOptions:\\n- Sentence A: \"We can see stars at day\"\\n- Sentence B: \"We can see stars at night\"\\n",
+        "input": "",
+        "output": "Due to the bright sunlight stars cannot be seen during the day.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Of the below sentences, which one does *not* make sense?\\nOptions:\\n- Sentence A: \"my shirt was wrinkled so I ironed it\"\\n- Sentence B: \"my shirt was tidy so I ironed it\"\\n",
+        "input": "",
+        "output": "This statement is against common sense because if your shift is already tidy, there is no reason to iron it.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "One of the following sentences is nonsensical. Which one is it?\\nOptions:\\n- Sentence A: \"When you close your eyes, you can't see anything.\"\\n- Sentence B: \"When you close your mouth, you can't see anything.\"\\n",
+        "input": "",
+        "output": "Closing mouth has no effect on what you see.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Of the following two sentences, which one is against common sense?\\nOptions:\\n- Sentence A: \"The doctor removed my tonsils.\"\\n- Sentence B: \"The doctor removed my brain.\"\\n",
+        "input": "",
+        "output": "If your brain was removed, you would be dead.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "One of the following sentences is nonsensical. Which one is it?\\nOptions:\\n- Sentence A: \"Jenny travelled to heaven during the National Day holiday\"\\n- Sentence B: \"Jenny travelled to America during the National Day holiday\"\\n",
+        "input": "",
+        "output": "Heaven is not a place in this world so people cannot travel there.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Of the below sentences, which one does *not* make sense?\\nOptions:\\n- Sentence A: \"She wore her coat.\"\\n- Sentence B: \"She wore her car\"\\n",
+        "input": "",
+        "output": "A car is too heavy and inflexible to wear.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Of the below sentences, which one does *not* make sense?\\nOptions:\\n- Sentence A: \"A girl crocheted a blanket with yarn.\"\\n- Sentence B: \"A girl crocheted a blanket with leaves.\"\\n",
+        "input": "",
+        "output": "Leaves are not a material used for blankets.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Pick which sentence is not logical.\\nOptions:\\n- Sentence A: \"Southerners like to eat rice.\"\\n- Sentence B: \"Southerners like to eat noodles.\"\\n",
+        "input": "",
+        "output": "Affected by the living environment, Southerners seldom eat noodles.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Choose the sentence that goes against common sense.\\nOptions:\\n- Sentence A: \"Calendar can change the number of days\"\\n- Sentence B: \"Calendar can record the number of days\"\\n",
+        "input": "",
+        "output": "A calendar only records how many days in a year, it does not choose.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "One of the following sentences is nonsensical. Which one is it?\\nOptions:\\n- Sentence A: \"I saved my money to the bank\"\\n- Sentence B: \"I saved my money to the trash can\"\\n",
+        "input": "",
+        "output": "Trash can is not a place to save the money.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "One of the following sentences is nonsensical. Which one is it?\\nOptions:\\n- Sentence A: \"Most people sleep on air\"\\n- Sentence B: \"Most people sleep on beds\"\\n",
+        "input": "",
+        "output": "It is physically impossible to sleep on air.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Of the below sentences, which one does *not* make sense?\\nOptions:\\n- Sentence A: \"The car rolled over because of a sharp turn\"\\n- Sentence B: \"The car rolled over because of a the driver turned on the radio\"\\n",
+        "input": "",
+        "output": "A radio is sound, it cannot cause movement.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Which of the following two sentences does not make sense?\\nOptions:\\n- Sentence A: \"He blew his nose with a dog.\"\\n- Sentence B: \"He blew his nose with a tissue.\"\\n",
+        "input": "",
+        "output": "You cannot blow your nose with a living animal.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Which of the following two sentences does not make sense?\\nOptions:\\n- Sentence A: \"water is for putting in your car engine\"\\n- Sentence B: \"oil is for putting in your car engine\"\\n",
+        "input": "",
+        "output": "Water should not be put inside a car engine.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Of the following two sentences, which one is against common sense?\\nOptions:\\n- Sentence A: \"Oranges live in the south\"\\n- Sentence B: \"Oranges live in the north\"\\n",
+        "input": "",
+        "output": "Oranges are know for the south as they cannot grow in cold, winter weather.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Choose the sentence that goes against common sense.\\nOptions:\\n- Sentence A: \"Christopher Columbus sailed to North America with three ships: the Toyota, the Pontiac, and the Mazda.\"\\n- Sentence B: \"Christopher Columbus sailed to North America with three ships: the Santa Maria, the Pinta, and the Nina.\"\\n",
+        "input": "",
+        "output": "The Santa Maria, the Pinta, and the Nina are sailing ships, while the Toyota, the Pontiac, and the Mazda are cars.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "One of the following sentences is nonsensical. Which one is it?\\nOptions:\\n- Sentence A: \"I can watch the moon rise in the early morning\"\\n- Sentence B: \"I can watch the moon rise in the evening\"\\n",
+        "input": "",
+        "output": "The moon rises at night so you can't watch it rise in the morning.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Which of the following two sentences does not make sense?\\nOptions:\\n- Sentence A: \"Earthworms have no sex\"\\n- Sentence B: \"Cats have no sex\"\\n",
+        "input": "",
+        "output": "There are male and female cats who reproduce by having sex.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Of the following two sentences, which one is against common sense?\\nOptions:\\n- Sentence A: \"He drank a bottle of water.\"\\n- Sentence B: \"He drank a square of water.\"\\n",
+        "input": "",
+        "output": "Square is not a proper container or measurement of water.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Which of the following sentences is nonsensical?\\nOptions:\\n- Sentence A: \"Eating too much makes people slim.\"\\n- Sentence B: \"Eating too much makes people fat.\"\\n",
+        "input": "",
+        "output": "Eating too many causes great storage of fat.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Of the following two sentences, which one is against common sense?\\nOptions:\\n- Sentence A: \"She is heavy, so she wants to lose weight\"\\n- Sentence B: \"She is thin, so she wants to lose weight\"\\n",
+        "input": "",
+        "output": "Thin people typically don't want to lose weight.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Which of the following two sentences does not make sense?\\nOptions:\\n- Sentence A: \"We have to wait until the bananas turn from green to yellow to eat them.\"\\n- Sentence B: \"We have to wait until the steaks turn from green to yellow to eat them.\"\\n",
+        "input": "",
+        "output": "Steaks are never green or yellow, and their readiness to eat is determined by temperature instead of color.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Choose the sentence that goes against common sense.\\nOptions:\\n- Sentence A: \"A party nullifies a marriage.\"\\n- Sentence B: \"An annulment cancels a marriage.\"\\n",
+        "input": "",
+        "output": "Parties have nothing to do with canceling a marriage.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Choose the sentence that goes against common sense.\\nOptions:\\n- Sentence A: \"dad getting up in the early morning of refreshing weather makes me very worried\"\\n- Sentence B: \"dad driving at night in complex road conditions makes me very worried\"\\n",
+        "input": "",
+        "output": "Refreshing weather is usually not dangerous and there causes no worry.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "One of the following sentences is nonsensical. Which one is it?\\nOptions:\\n- Sentence A: \"Twins must have the same interests.\"\\n- Sentence B: \"Twins may have the same interests.\"\\n",
+        "input": "",
+        "output": "Twins do not need to have the same interests because they are two differed individuals who think and act differently.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Which of the following sentences is nonsensical?\\nOptions:\\n- Sentence A: \"Chinese is the most widely used language in the world\"\\n- Sentence B: \"English is the most widely used language in the world\"\\n",
+        "input": "",
+        "output": "The number of people using English is not the largest.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Pick which sentence is not logical.\\nOptions:\\n- Sentence A: \"The best ice cream flavour is strawberry\"\\n- Sentence B: \"The best ice cream flavour is Rat poison\"\\n",
+        "input": "",
+        "output": "Rat poison is not an ice cream flavor.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Of the below sentences, which one does *not* make sense?\\nOptions:\\n- Sentence A: \"The kid is walking with a brisk pace, and his grandpa can hardly keep up with him.\"\\n- Sentence B: \"The kid is walking with a brisk pace, and his grandpa can easily keep up with him.\"\\n",
+        "input": "",
+        "output": "Grandpa is older and moves slowly, so it is difficult to walk very fast.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Of the below sentences, which one does *not* make sense?\\nOptions:\\n- Sentence A: \"I wipe my hair with a quilt.\"\\n- Sentence B: \"I wipe my hair with a towel.\"\\n",
+        "input": "",
+        "output": "Quilts can get wet when they are used to wipe hair.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Of the below sentences, which one does *not* make sense?\\nOptions:\\n- Sentence A: \"Tom uses a microwave oven to call me.\"\\n- Sentence B: \"Tom uses a telephone to call me.\"\\n",
+        "input": "",
+        "output": "Microwave oven can't be used to connect with others.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Of the below sentences, which one does *not* make sense?\\nOptions:\\n- Sentence A: \"Sue had a panda\"\\n- Sentence B: \"Sue had a baby\"\\n",
+        "input": "",
+        "output": "A human being can't birth a panda nor be out with a panda.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Of the below sentences, which one does *not* make sense?\\nOptions:\\n- Sentence A: \"A football is likely to be kicked by a footballer.\"\\n- Sentence B: \"A footballer would never kick a football.\"\\n",
+        "input": "",
+        "output": "A footballer gets paid to kick a football into a goal and so he needs to do so.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Choose the sentence that goes against common sense.\\nOptions:\\n- Sentence A: \"sun bathing removes dirt from the body\"\\n- Sentence B: \"water bathing removes dirt from the body\"\\n",
+        "input": "",
+        "output": "Only bathing can remove dirt from the body.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Which of these sentences doesn't make sense?\\nOptions:\\n- Sentence A: \"I felt cool because the sun was too hot that day\"\\n- Sentence B: \"I was soaked with sweat because the sun was too hot that day\"\\n",
+        "input": "",
+        "output": "A hot sun will not make one cool.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Of the below sentences, which one does *not* make sense?\\nOptions:\\n- Sentence A: \"the administrator cleared her throat because the meeting was commenced\"\\n- Sentence B: \"the administrator cleared her throat because the meeting was postponed\"\\n",
+        "input": "",
+        "output": "The administrator wouldn't have cleared her throat because of a postponed meeting, it would be because of an internal problem in her body.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Choose the sentence that goes against common sense.\\nOptions:\\n- Sentence A: \"I dug a hole to China this afternoon.\"\\n- Sentence B: \"I went for a walk this afternoon.\"\\n",
+        "input": "",
+        "output": "It is impossible to dig a hole to China.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Of the below sentences, which one does *not* make sense?\\nOptions:\\n- Sentence A: \"Mike put on running shoes to go running.\"\\n- Sentence B: \"Mike put on dance shoes to go running.\"\\n",
+        "input": "",
+        "output": "It would hurt to run in dance shoes.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Which of the following two sentences does not make sense?\\nOptions:\\n- Sentence A: \"Jane put the notes recorded on a leaf.\"\\n- Sentence B: \"Jane put the notes recorded in a book.\"\\n",
+        "input": "",
+        "output": "It's unsafe and inefficient to put notes on the leaf.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Pick which sentence is not logical.\\nOptions:\\n- Sentence A: \"he takes a photo by toothbrush\"\\n- Sentence B: \"he takes a photo by camera\"\\n",
+        "input": "",
+        "output": "Toothbrush is not a tool to take photo.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "One of the following sentences is nonsensical. Which one is it?\\nOptions:\\n- Sentence A: \"Piano is a kind of musical instruments.\"\\n- Sentence B: \"Piano is a kind of sport.\"\\n",
+        "input": "",
+        "output": "You can produce music when pressing keys on the piano so it is an instrument.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Pick which sentence is not logical.\\nOptions:\\n- Sentence A: \"She walked the dog outside in the ocean.\"\\n- Sentence B: \"She walked the dog outside on the lawn.\"\\n",
+        "input": "",
+        "output": "You can not walk dogs in the ocean.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Which of the following sentences is nonsensical?\\nOptions:\\n- Sentence A: \"If you want the audience to laugh, you should say something frightening.\"\\n- Sentence B: \"If you want the audience to laugh, you should say something humorous.\"\\n",
+        "input": "",
+        "output": "Saying frightening things does not make people laugh.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Choose the sentence that goes against common sense.\\nOptions:\\n- Sentence A: \"He put milk into his car engine.\"\\n- Sentence B: \"He put oil into his car engine.\"\\n",
+        "input": "",
+        "output": "The car engine does not have the milk.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Which of these sentences doesn't make sense?\\nOptions:\\n- Sentence A: \"He is busy with his work, so he has no time to spend with his son\"\\n- Sentence B: \"He has a busy job, so he has a lot of time to spend with his son\"\\n",
+        "input": "",
+        "output": "Having a busy job means he would likely have very little time to spend with his son.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Which of the following two sentences does not make sense?\\nOptions:\\n- Sentence A: \"She cuts a pizza with a knife.\"\\n- Sentence B: \"She cuts a pizza with an advertising board.\"\\n",
+        "input": "",
+        "output": "An advertising board is much larger than a pizza.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Of the below sentences, which one does *not* make sense?\\nOptions:\\n- Sentence A: \"he beat the burglar who robbed him\"\\n- Sentence B: \"he kissed the burglar who robbed him\"\\n",
+        "input": "",
+        "output": "Kisses are usually reserved for people we like, not burglars.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "One of the following sentences is nonsensical. Which one is it?\\nOptions:\\n- Sentence A: \"during war soldiers started texting to enemy\"\\n- Sentence B: \"during war soldiers started firing bullets to enemy\"\\n",
+        "input": "",
+        "output": "Soldiers wouldn't text their opponents they are battling with, they would kill them.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Of the following two sentences, which one is against common sense?\\nOptions:\\n- Sentence A: \"A mountain is higher than a valley\"\\n- Sentence B: \"A beach is higher than a valley\"\\n",
+        "input": "",
+        "output": "Beaches are at sea level which can be lower than a valley.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Which of the following sentences is nonsensical?\\nOptions:\\n- Sentence A: \"The steak is cooked in a pan.\"\\n- Sentence B: \"The steak is cooked in a bowl.\"\\n",
+        "input": "",
+        "output": "A bowls can't be used to fry steaks.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Of the following two sentences, which one is against common sense?\\nOptions:\\n- Sentence A: \"a hammer dropped on Bill's foot and his toe was broken\"\\n- Sentence B: \"a hammer dropped on Bill's foot and his finger was broken\"\\n",
+        "input": "",
+        "output": "His finger was not touched by the hammer.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "One of the following sentences is nonsensical. Which one is it?\\nOptions:\\n- Sentence A: \"Eating junk food is good for our health.\"\\n- Sentence B: \"Eating fruit is good for our health.\"\\n",
+        "input": "",
+        "output": "Eating junk food can lead to obesity and many other bad conditions.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Which of these sentences doesn't make sense?\\nOptions:\\n- Sentence A: \"Cyclists ride a zebra in a competition\"\\n- Sentence B: \"Cyclists ride a bike in a competition\"\\n",
+        "input": "",
+        "output": "Cyclists can't ride a zebra in a competition.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Which of the following sentences is nonsensical?\\nOptions:\\n- Sentence A: \"it shines cats and dogs outside\"\\n- Sentence B: \"it rains cats and dogs outside\"\\n",
+        "input": "",
+        "output": "Cats and dogs are not a thing that can't shines.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Of the below sentences, which one does *not* make sense?\\nOptions:\\n- Sentence A: \"Whales live in the desert\"\\n- Sentence B: \"Whales live in the ocean\"\\n",
+        "input": "",
+        "output": "The desert lacks water on which whales live.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Of the below sentences, which one does *not* make sense?\\nOptions:\\n- Sentence A: \"i saw a policeman steal into my room\"\\n- Sentence B: \"i saw a thief steal into my room\"\\n",
+        "input": "",
+        "output": "A policeman is a law enforcement agent and doesn't steal.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Of the below sentences, which one does *not* make sense?\\nOptions:\\n- Sentence A: \"Wrtyuio packed his clothes in a wardrobe.\"\\n- Sentence B: \"Wrtyuio used the wardrobe lion\"\\n",
+        "input": "",
+        "output": "A wardrobe lion is not something that is real or can be used.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "One of the following sentences is nonsensical. Which one is it?\\nOptions:\\n- Sentence A: \"He used a breeze to cool the freshly cooked beef\"\\n- Sentence B: \"He used a torch to cool the freshly cooked beef\"\\n",
+        "input": "",
+        "output": "A torch is hot it would not cool the beef.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "One of the following sentences is nonsensical. Which one is it?\\nOptions:\\n- Sentence A: \"The ocean is filled with elephants.\"\\n- Sentence B: \"The ocean is filled with water.\"\\n",
+        "input": "",
+        "output": "Elephants are the animals which cannot be filled in the ocean.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "One of the following sentences is nonsensical. Which one is it?\\nOptions:\\n- Sentence A: \"He found the planet in the treasure chest.\"\\n- Sentence B: \"He found gold in the treasure chest.\"\\n",
+        "input": "",
+        "output": "Planets are too large to fit in treasure chests.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Which of the following two sentences does not make sense?\\nOptions:\\n- Sentence A: \"Paper is made of trees.\"\\n- Sentence B: \"petroleum is made of trees.\"\\n",
+        "input": "",
+        "output": "A tree does have the material to make petroleum.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "One of the following sentences is nonsensical. Which one is it?\\nOptions:\\n- Sentence A: \"I drank too much water and cannot drive.\"\\n- Sentence B: \"I drank too much whisky and cannot drive.\"\\n",
+        "input": "",
+        "output": "Water is not an intoxicant that affects one's driving.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Of the following two sentences, which one is against common sense?\\nOptions:\\n- Sentence A: \"The man stapled some houses together.\"\\n- Sentence B: \"The man stapled some documents together.\"\\n",
+        "input": "",
+        "output": "Staples would not be able to hold houses together.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Which of the following sentences is nonsensical?\\nOptions:\\n- Sentence A: \"Although he is eight years old, he drives a lot\"\\n- Sentence B: \"Although he is eight years old, he can cook\"\\n",
+        "input": "",
+        "output": "Eight year olds are not allowed to drive.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Pick which sentence is not logical.\\nOptions:\\n- Sentence A: \"He put the shoes in his mouth\"\\n- Sentence B: \"He put the pills in his mouth.\"\\n",
+        "input": "",
+        "output": "Shoes are not meant for consumption and generally do not taste good, therefore there is no reason to put them in one's mouth.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Of the below sentences, which one does *not* make sense?\\nOptions:\\n- Sentence A: \"I wiped the book with a tissue and the words on the cover came off\"\\n- Sentence B: \"I wiped the book with a tissue and the dust on the cover came off\"\\n",
+        "input": "",
+        "output": "Book ink is tough and a tissue would not wipe it off.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "One of the following sentences is nonsensical. Which one is it?\\nOptions:\\n- Sentence A: \"A rat can survive a fall from a five-floor building\"\\n- Sentence B: \"A person can survive a fall from a five-floor building\"\\n",
+        "input": "",
+        "output": "A five-story fall would not be survivable for human beings.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Which of these sentences doesn't make sense?\\nOptions:\\n- Sentence A: \"One of the \"C\"s in \"calculus\" does not get pronounced.\"\\n- Sentence B: \"One of the \"C\"s in \"Connecticut\" does not get pronounced.\"\\n",
+        "input": "",
+        "output": "The C in front a U is always has a hard pronunciation .\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Which of the following two sentences does not make sense?\\nOptions:\\n- Sentence A: \"The golfer used a golf club to hit the ball off the tee.\"\\n- Sentence B: \"The golfer picked a squirrel to hit his ball onto the fairway.\"\\n",
+        "input": "",
+        "output": "A golfer uses a club to play golf with, not a squirrel.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Which of the following sentences is nonsensical?\\nOptions:\\n- Sentence A: \"Different types of giraffes are parked in parking lots.\"\\n- Sentence B: \"Different types of cars are parked in parking lots.\"\\n",
+        "input": "",
+        "output": "Giraffes are in Africa and zoos as they are an animal, you do not park them.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Of the following two sentences, which one is against common sense?\\nOptions:\\n- Sentence A: \"Good-looking people are not sure to find jobs\"\\n- Sentence B: \"Good-looking people are sure to find jobs\"\\n",
+        "input": "",
+        "output": "No one is ever allotted a job just based on their looks.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Which of the following sentences is nonsensical?\\nOptions:\\n- Sentence A: \"You might find a house stable in a manor house.\"\\n- Sentence B: \"You might find a horse stable in a manor house.\"\\n",
+        "input": "",
+        "output": "A house stable is not a real thing and it is not in a manor house.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Of the below sentences, which one does *not* make sense?\\nOptions:\\n- Sentence A: \"Serial killers are safe.\"\\n- Sentence B: \"Serial killers are dangerous.\"\\n",
+        "input": "",
+        "output": "Serial killers are known for killing people, therefore they are not safe.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Which of the following two sentences does not make sense?\\nOptions:\\n- Sentence A: \"The problem was so difficult that it took him a long time to work it out\"\\n- Sentence B: \"The problem was so difficult that he worked it out easily\"\\n",
+        "input": "",
+        "output": "The problem was very simple and worked out easily.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Which of the following sentences is nonsensical?\\nOptions:\\n- Sentence A: \"Clouds are seen in the sky\"\\n- Sentence B: \"Clouds are seen in the earth\"\\n",
+        "input": "",
+        "output": "Clouds is does not seen in the earth.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "One of the following sentences is nonsensical. Which one is it?\\nOptions:\\n- Sentence A: \"He cooks a bed in the pan.\"\\n- Sentence B: \"He cooked milk in the pan.\"\\n",
+        "input": "",
+        "output": "The bed is too big for a pan.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "One of the following sentences is nonsensical. Which one is it?\\nOptions:\\n- Sentence A: \"Tigers eat meat\"\\n- Sentence B: \"Elephants eat meat\"\\n",
+        "input": "",
+        "output": "Elephants are herbivores, so meat is not a part of their diets.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Of the following two sentences, which one is against common sense?\\nOptions:\\n- Sentence A: \"i put a candle on a birthday cake\"\\n- Sentence B: \"i put a bar of soap on a birthday cake\"\\n",
+        "input": "",
+        "output": "Birthday cake will be dirty if I put a bar of soap on a birthday cake.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Which of the following two sentences does not make sense?\\nOptions:\\n- Sentence A: \"a viola is for eating\"\\n- Sentence B: \"a viola is for playing\"\\n",
+        "input": "",
+        "output": "A viola is made of wood and wood is not edible.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Pick which sentence is not logical.\\nOptions:\\n- Sentence A: \"Using a BBQ I made BBQ food\"\\n- Sentence B: \"Using a BBQ I made a smoothie\"\\n",
+        "input": "",
+        "output": "Smoothies are not something a BBQ can make.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Which of the following two sentences does not make sense?\\nOptions:\\n- Sentence A: \"curiosity is one of the reasons people travel\"\\n- Sentence B: \"laziness is one of the reasons people travel\"\\n",
+        "input": "",
+        "output": "People travel not for laziness but for rest.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "One of the following sentences is nonsensical. Which one is it?\\nOptions:\\n- Sentence A: \"Noodles are made of flour\"\\n- Sentence B: \"Noodles are made of iron\"\\n",
+        "input": "",
+        "output": "Iron is not an ingredient used when making noodles.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Of the following two sentences, which one is against common sense?\\nOptions:\\n- Sentence A: \"People can pick apples off from trees.\"\\n- Sentence B: \"People can pick strawberries off from trees.\"\\n",
+        "input": "",
+        "output": "Strawberries grow from strawberry plants and do not grow from trees.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Pick which sentence is not logical.\\nOptions:\\n- Sentence A: \"Last Sunday, my family took a boat under the river.\"\\n- Sentence B: \"Last Sunday, my family took a boat across the river.\"\\n",
+        "input": "",
+        "output": "Typically we drive a submarine underwater rather than a boat.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Which of the following sentences is nonsensical?\\nOptions:\\n- Sentence A: \"A person must eat more meat to have a longer life\"\\n- Sentence B: \"A person must exercise more to have a longer life\"\\n",
+        "input": "",
+        "output": "There is no proof that eating meat makes a person live longer.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Of the below sentences, which one does *not* make sense?\\nOptions:\\n- Sentence A: \"Dad pierced the board with nails\"\\n- Sentence B: \"Dad pierced the board with eggs\"\\n",
+        "input": "",
+        "output": "Eggs are not strong enough to pierce wood.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Which of the following sentences is nonsensical?\\nOptions:\\n- Sentence A: \"A sphere has six faces.\"\\n- Sentence B: \"A cube has six faces.\"\\n",
+        "input": "",
+        "output": "A sphere can only find a spherical surface.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Which of the following sentences is nonsensical?\\nOptions:\\n- Sentence A: \"Amy got a bath on her literature paper.\"\\n- Sentence B: \"Amy got a bad grade on her literature paper.\"\\n",
+        "input": "",
+        "output": "You cannot get a bath on a paper.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Of the following two sentences, which one is against common sense?\\nOptions:\\n- Sentence A: \"I parked my car in the garage\"\\n- Sentence B: \"I parked my car on the highway\"\\n",
+        "input": "",
+        "output": "A highway is where cars are being driven and not where they are to be parked.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Of the following two sentences, which one is against common sense?\\nOptions:\\n- Sentence A: \"You would look silly wearing a ball gown in a swimming pool.\"\\n- Sentence B: \"You would look silly wearing a bathing suit in a swimming pool.\"\\n",
+        "input": "",
+        "output": "My aunt says a bathing suit is required if you want to go in the swimming pool.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Which of these sentences doesn't make sense?\\nOptions:\\n- Sentence A: \"the guy was playing game on the mobile phone\"\\n- Sentence B: \"the dog was playing game on the mobile phone\"\\n",
+        "input": "",
+        "output": "Dogs lack opposable thumbs and the cognition to play mobile phone games.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "One of the following sentences is nonsensical. Which one is it?\\nOptions:\\n- Sentence A: \"he never misses a chance to drink a movie.\"\\n- Sentence B: \"he never misses a chance to see a movie.\"\\n",
+        "input": "",
+        "output": "People watch movies to see something and not ingest it.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Of the below sentences, which one does *not* make sense?\\nOptions:\\n- Sentence A: \"The territory of every country is inviolable\"\\n- Sentence B: \"The territory of every country can be violated\"\\n",
+        "input": "",
+        "output": "The territory of a country is an integral part of the country.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Which of these sentences doesn't make sense?\\nOptions:\\n- Sentence A: \"The umbrella sheltered us from the rain.\"\\n- Sentence B: \"The umbrella sheltered us from the haze.\"\\n",
+        "input": "",
+        "output": "Haze is a fine particle that cannot be covered by an umbrella.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Of the below sentences, which one does *not* make sense?\\nOptions:\\n- Sentence A: \"nearsighted people need glasses to sleep\"\\n- Sentence B: \"nearsighted people need glasses to read\"\\n",
+        "input": "",
+        "output": "People take off their glasses when they sleep.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Choose the sentence that goes against common sense.\\nOptions:\\n- Sentence A: \"Humans can't fly.\"\\n- Sentence B: \"Humans can fly.\"\\n",
+        "input": "",
+        "output": "Humans are creatures of land, They can walk and swim.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Which of these sentences doesn't make sense?\\nOptions:\\n- Sentence A: \"a dog is taken to a veterinarian after getting sick\"\\n- Sentence B: \"a dog is taken to a pool after getting sick\"\\n",
+        "input": "",
+        "output": "A pool doesn't have medicine to fix the dog.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "One of the following sentences is nonsensical. Which one is it?\\nOptions:\\n- Sentence A: \"Refrigerators prevent food from spoiling\"\\n- Sentence B: \"Refrigerator accelerates food deterioration\"\\n",
+        "input": "",
+        "output": "Food does not get deteriorated in the fridge due to the cold temperature.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Which of these sentences doesn't make sense?\\nOptions:\\n- Sentence A: \"Soap helps to clean.\"\\n- Sentence B: \"Soap does nothing.\"\\n",
+        "input": "",
+        "output": "Soaps can remove stain and oil from things.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Of the following two sentences, which one is against common sense?\\nOptions:\\n- Sentence A: \"I should hang up my clothes in the oven\"\\n- Sentence B: \"I should hang up my clothes in the closet\"\\n",
+        "input": "",
+        "output": "The oven is for cooking food not storage.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "One of the following sentences is nonsensical. Which one is it?\\nOptions:\\n- Sentence A: \"bosh realized he forgot something when he looked at his watch\"\\n- Sentence B: \"bosh realized he forgot something when he looked at his list\"\\n",
+        "input": "",
+        "output": "A watch would not serve as a reminder to someone, most likely.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Which of the following sentences is nonsensical?\\nOptions:\\n- Sentence A: \"Engineers built a bridge in the class room\"\\n- Sentence B: \"Engineers built a bridge over a river\"\\n",
+        "input": "",
+        "output": "Class room is not a place to built the bridge by engineers.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Pick which sentence is not logical.\\nOptions:\\n- Sentence A: \"this house sounds very good\"\\n- Sentence B: \"this house looks very good\"\\n",
+        "input": "",
+        "output": "We can describe a house by it's looks.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Which of these sentences doesn't make sense?\\nOptions:\\n- Sentence A: \"He checked the time in his pen\"\\n- Sentence B: \"He checked the time in his watch\"\\n",
+        "input": "",
+        "output": "A pen can only write and cannot show the time.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Pick which sentence is not logical.\\nOptions:\\n- Sentence A: \"Water has a surface\"\\n- Sentence B: \"Universe has a surface.\"\\n",
+        "input": "",
+        "output": "The universe is infinite, making it difficult to measure.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Of the following two sentences, which one is against common sense?\\nOptions:\\n- Sentence A: \"as he gets cold, his mother asks him to drink more cold water\"\\n- Sentence B: \"as he gets cold, his mother asks him to drink more hot water\"\\n",
+        "input": "",
+        "output": "Cold water would not warm him up but make him colder.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "One of the following sentences is nonsensical. Which one is it?\\nOptions:\\n- Sentence A: \"You can look up rare words in newspapers\"\\n- Sentence B: \"You can look up rare words in a dictionary\"\\n",
+        "input": "",
+        "output": "Newspapers do not have definitions for the words it uses.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Of the below sentences, which one does *not* make sense?\\nOptions:\\n- Sentence A: \"Cooking is a very boring thing, so I like it\"\\n- Sentence B: \"Cooking is a very interesting thing, so I like it\"\\n",
+        "input": "",
+        "output": "Someone would not like a boring thing, they would like an entertaining thing.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Which of the following two sentences does not make sense?\\nOptions:\\n- Sentence A: \"The closer your eyes are to the screen, the better\"\\n- Sentence B: \"Don't keep your eyes too close to the screen when watching TV\"\\n",
+        "input": "",
+        "output": "Eye strain can be caused by sitting to close to a screen.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Which of these sentences doesn't make sense?\\nOptions:\\n- Sentence A: \"a restroom is a place for dining\"\\n- Sentence B: \"the dining room is a place for dining\"\\n",
+        "input": "",
+        "output": "A restroom is a place for using the bathroom.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Of the following two sentences, which one is against common sense?\\nOptions:\\n- Sentence A: \"She smeared flour on her face\"\\n- Sentence B: \"She applied foundation to her face\"\\n",
+        "input": "",
+        "output": "Flour is not something that goes on the body.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Of the following two sentences, which one is against common sense?\\nOptions:\\n- Sentence A: \"Cowboys used to ride kangaroos to get everywhere.\"\\n- Sentence B: \"Cowboys used to ride horses to get everywhere in the Old West.\"\\n",
+        "input": "",
+        "output": "Kangaroos are from Austrlia and not typical to the United States except for zoos.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Of the following two sentences, which one is against common sense?\\nOptions:\\n- Sentence A: \"jack called his sick friend to check on her\"\\n- Sentence B: \"jack ignored his sick friend to check on her\"\\n",
+        "input": "",
+        "output": "You cannot ignore someone and check on them at the same time.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Which of the following sentences is nonsensical?\\nOptions:\\n- Sentence A: \"The pencil is in the backpack\"\\n- Sentence B: \"The car is in the backpack\"\\n",
+        "input": "",
+        "output": "A car is way too big to fit into a backpack.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "One of the following sentences is nonsensical. Which one is it?\\nOptions:\\n- Sentence A: \"Eating lots of sugar can make people fat\"\\n- Sentence B: \"Eating lots of sugar can not make people fat\"\\n",
+        "input": "",
+        "output": "Every one gets fat by eating lots of sugar.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Of the below sentences, which one does *not* make sense?\\nOptions:\\n- Sentence A: \"He is eating a elephant\"\\n- Sentence B: \"He is eating a pancake\"\\n",
+        "input": "",
+        "output": "Eating elephants is not common and usually illegal.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Which of these sentences doesn't make sense?\\nOptions:\\n- Sentence A: \"the ocean tide was dangerous so the swimmers returned to a closer place\"\\n- Sentence B: \"the ocean tide was dangerous so the swimmers put on more sunscreen\"\\n",
+        "input": "",
+        "output": "The tide does not impact the strength of the sun.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Which of the following two sentences does not make sense?\\nOptions:\\n- Sentence A: \"During winter people set bonfire at home\"\\n- Sentence B: \"During summer people set bonfire at home\"\\n",
+        "input": "",
+        "output": "Summer is the hottest season of the year.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Of the following two sentences, which one is against common sense?\\nOptions:\\n- Sentence A: \"Chopsticks are pinned to the hair.\"\\n- Sentence B: \"Hairpins are fastened to the hair.\"\\n",
+        "input": "",
+        "output": "Chopsticks have no effect on decorating and tidying hair.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Of the below sentences, which one does *not* make sense?\\nOptions:\\n- Sentence A: \"Tim and Mary got married on February 31st\"\\n- Sentence B: \"Tim and Mary got married on January 31st\"\\n",
+        "input": "",
+        "output": "There is no 31st in the month of February.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Pick which sentence is not logical.\\nOptions:\\n- Sentence A: \"Refugees brought lots of safety concerns\"\\n- Sentence B: \"Refugees brought so many wealth\"\\n",
+        "input": "",
+        "output": "Refugees did not being wealth, instesd they brought safety concerns.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Of the below sentences, which one does *not* make sense?\\nOptions:\\n- Sentence A: \"I put the oven in the car.\"\\n- Sentence B: \"I put the car seat in the car.\"\\n",
+        "input": "",
+        "output": "An oven is too big to fit in a standard car.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Pick which sentence is not logical.\\nOptions:\\n- Sentence A: \"The dog drank water\"\\n- Sentence B: \"The dog drank a pillow\"\\n",
+        "input": "",
+        "output": "A pillow is a solid and cannot be drunk by a dog.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Which of the following two sentences does not make sense?\\nOptions:\\n- Sentence A: \"grape and onion are white\"\\n- Sentence B: \"grape and onion are purple\"\\n",
+        "input": "",
+        "output": "A grape can be red, purple, or green but cannot be white.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "One of the following sentences is nonsensical. Which one is it?\\nOptions:\\n- Sentence A: \"The pilot was not even injured after the air crash since he had watch with him\"\\n- Sentence B: \"The pilot was not even injured after the air crash since he had parachute with him\"\\n",
+        "input": "",
+        "output": "A watch is not be something that can save a person's life from a plane crash.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Choose the sentence that goes against common sense.\\nOptions:\\n- Sentence A: \"Mobile phones will explode without charging.\"\\n- Sentence B: \"Mobile phones will shut down without charging.\"\\n",
+        "input": "",
+        "output": "Mobile phones without electricity will only affect their use.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Which of the following sentences is nonsensical?\\nOptions:\\n- Sentence A: \"Monkeys can jump between trees\"\\n- Sentence B: \"Woodpeckers can jump between trees\"\\n",
+        "input": "",
+        "output": "Woodpeckers are birds, they fly not jump between trees.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Of the below sentences, which one does *not* make sense?\\nOptions:\\n- Sentence A: \"People can ride a goat at summer\"\\n- Sentence B: \"People can ride a bike at summer\"\\n",
+        "input": "",
+        "output": "A goat is to small to be ridden.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Which of the following two sentences does not make sense?\\nOptions:\\n- Sentence A: \"There is different kinds of flowers in the tea\"\\n- Sentence B: \"There is different kinds of insects in the tea\"\\n",
+        "input": "",
+        "output": "Insects do not go in tea, but flowers do.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Which of these sentences doesn't make sense?\\nOptions:\\n- Sentence A: \"The man ate the bridge\"\\n- Sentence B: \"The man ate the chicken\"\\n",
+        "input": "",
+        "output": "Bridges are used to cross an otherwise not easily traversed terrain, and not for human consumption.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Pick which sentence is not logical.\\nOptions:\\n- Sentence A: \"He often dreams, so his sleep quality is very poor\"\\n- Sentence B: \"He often dreams, so his sleep quality is very good\"\\n",
+        "input": "",
+        "output": "Dreams can make people restless when they sleep.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Which of the following two sentences does not make sense?\\nOptions:\\n- Sentence A: \"The homeless man sleeps on the fire hydrant\"\\n- Sentence B: \"The homeless man sleeps on the bench\"\\n",
+        "input": "",
+        "output": "It is likely impossible to sleep on a vertical surface.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Of the below sentences, which one does *not* make sense?\\nOptions:\\n- Sentence A: \"I drove from China to Russia\"\\n- Sentence B: \"I drove from China to the North Pole\"\\n",
+        "input": "",
+        "output": "You can not drive to the North Pole from China.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Choose the sentence that goes against common sense.\\nOptions:\\n- Sentence A: \"He parked the cat in the garage\"\\n- Sentence B: \"He parked the car in the garage\"\\n",
+        "input": "",
+        "output": "You cannot park a cat, it is an animal.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Which of the following two sentences does not make sense?\\nOptions:\\n- Sentence A: \"The harbor is in the desert\"\\n- Sentence B: \"The harbor is near to the sea\"\\n",
+        "input": "",
+        "output": "Deserts don't have water, and therefore have no harbors.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "One of the following sentences is nonsensical. Which one is it?\\nOptions:\\n- Sentence A: \"she plays water polo well so she is good at swimming\"\\n- Sentence B: \"she is good at swimming so she plays water polo well\"\\n",
+        "input": "",
+        "output": "It takes more than swimming to play water polo.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Pick which sentence is not logical.\\nOptions:\\n- Sentence A: \"There is soda in the can\"\\n- Sentence B: \"There is a school in the can\"\\n",
+        "input": "",
+        "output": "A school is much too big to fit inside of a can.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Pick which sentence is not logical.\\nOptions:\\n- Sentence A: \"The sun is not yellow; it's chicken.\"\\n- Sentence B: \"The sun is not blue; its yellow.\"\\n",
+        "input": "",
+        "output": "The sun is a star, not an animal.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Which of the following sentences is nonsensical?\\nOptions:\\n- Sentence A: \"The soldiers surrendered after months of warfare\"\\n- Sentence B: \"The church surrendered after months of warfare\"\\n",
+        "input": "",
+        "output": "Churches are not known to engage in combat or conflict.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "One of the following sentences is nonsensical. Which one is it?\\nOptions:\\n- Sentence A: \"I travel by plane from continent to continent.\"\\n- Sentence B: \"I travel by pigeon mail from continent to continent.\"\\n",
+        "input": "",
+        "output": "This is illogical because pigeons are about 60 cm.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Choose the sentence that goes against common sense.\\nOptions:\\n- Sentence A: \"you need to be awake to stay up\"\\n- Sentence B: \"you need to be asleep to stay up\"\\n",
+        "input": "",
+        "output": "Being asleep is the opposite of being awake.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "One of the following sentences is nonsensical. Which one is it?\\nOptions:\\n- Sentence A: \"Dogs are similar to wolves in being pets.\"\\n- Sentence B: \"Dogs are similar to wolves in being canines.\"\\n",
+        "input": "",
+        "output": "Wolves are wild and not usually kept as pets.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Choose the sentence that goes against common sense.\\nOptions:\\n- Sentence A: \"He gently placed the glass on the floor\"\\n- Sentence B: \"He put the glass hard on the ground\"\\n",
+        "input": "",
+        "output": "Placing a glass down hard will break it.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Which of the following sentences is nonsensical?\\nOptions:\\n- Sentence A: \"Pianists use their tongue to play the piano.\"\\n- Sentence B: \"Pianists use their hands to play the piano.\"\\n",
+        "input": "",
+        "output": "The tongue is not flexible enough to play the piano.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Of the following two sentences, which one is against common sense?\\nOptions:\\n- Sentence A: \"people go to see a doctor because they fall ill\"\\n- Sentence B: \"people go to see a doctor so they fall ill\"\\n",
+        "input": "",
+        "output": "People go to the doctor to see why they are sick.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Of the following two sentences, which one is against common sense?\\nOptions:\\n- Sentence A: \"Human activities do not pollute the air and water.\"\\n- Sentence B: \"Human activities can pollute air and water.\"\\n",
+        "input": "",
+        "output": "Human creates a household and industrial waste which causes environmental problems.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Pick which sentence is not logical.\\nOptions:\\n- Sentence A: \"the waiter serves me coffee in the same cup every morning\"\\n- Sentence B: \"the waiter serves me coffee on the same plate every morning\"\\n",
+        "input": "",
+        "output": "Servant can serve coffee every morning, not waiter.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Of the below sentences, which one does *not* make sense?\\nOptions:\\n- Sentence A: \"Bicycles have square wheels.\"\\n- Sentence B: \"Bicycles have round wheels.\"\\n",
+        "input": "",
+        "output": "If wheels were square they would could not roll.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Of the below sentences, which one does *not* make sense?\\nOptions:\\n- Sentence A: \"I will watch a movie on my television.\"\\n- Sentence B: \"I will watch a movie on my dishwasher.\"\\n",
+        "input": "",
+        "output": "Dishwashers don't have screens to watch a movie on.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Which of the following two sentences does not make sense?\\nOptions:\\n- Sentence A: \"Henry would like to find a house near the metrol station so it would be more convenient to take metrol to work\"\\n- Sentence B: \"Henry would like to find a house far from the metrol station so it would be more convenient to take metrol to work\"\\n",
+        "input": "",
+        "output": "It would not be convenient to travel very far to take a metro to work.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Which of the following two sentences does not make sense?\\nOptions:\\n- Sentence A: \"You'd better not try that dish if you can't tolerate rock music\"\\n- Sentence B: \"You'd better not try that dish if you can't tolerate chili food\"\\n",
+        "input": "",
+        "output": "Musical taste has nothing to do with how palatable a person finds a meal to be.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Of the below sentences, which one does *not* make sense?\\nOptions:\\n- Sentence A: \"A tiger provides heat to a room.\"\\n- Sentence B: \"A fireplace provides heat to a room.\"\\n",
+        "input": "",
+        "output": "A tiger is not a source of heat for a home.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Pick which sentence is not logical.\\nOptions:\\n- Sentence A: \"Write on the blackboard with chalk.\"\\n- Sentence B: \"Write on the blackboard with stone.\"\\n",
+        "input": "",
+        "output": "Writing with a stone will destroy the blackboard.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Choose the sentence that goes against common sense.\\nOptions:\\n- Sentence A: \"he lit the cigarette and began to smoke\"\\n- Sentence B: \"he extinguished the cigarette and began to smoke\"\\n",
+        "input": "",
+        "output": "You ignite the cigarette to smoke not extinguish it.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Of the following two sentences, which one is against common sense?\\nOptions:\\n- Sentence A: \"I was encouraged by him so I broke up with him\"\\n- Sentence B: \"I was encouraged by him so I had better friendship with him\"\\n",
+        "input": "",
+        "output": "When someone is encouraged by another they don't break up with them.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Of the below sentences, which one does *not* make sense?\\nOptions:\\n- Sentence A: \"You are likely to find a small crocodile in a park\"\\n- Sentence B: \"You are likely to find a small dog in a park\"\\n",
+        "input": "",
+        "output": "Small crocodile are not found in a park.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Of the below sentences, which one does *not* make sense?\\nOptions:\\n- Sentence A: \"I am sitting in a plastic chair\"\\n- Sentence B: \"I am running in a plastic chair\"\\n",
+        "input": "",
+        "output": "You cannot run in a plastic chair. you can only sit or stand on it.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Which of the following sentences is nonsensical?\\nOptions:\\n- Sentence A: \"MY SISTER EATS STONE EVERY MORNING.\"\\n- Sentence B: \"MY SISTER EATS APPLE EVERY MORNING.\"\\n",
+        "input": "",
+        "output": "People can't eat stones, they are too big and hard.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Of the below sentences, which one does *not* make sense?\\nOptions:\\n- Sentence A: \"a dog has a large piece of meat in its mouth\"\\n- Sentence B: \"a dog has a large piece of meat in its kitchen\"\\n",
+        "input": "",
+        "output": "Kitchen is not a place does the dog have.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Choose the sentence that goes against common sense.\\nOptions:\\n- Sentence A: \"Her father was murdered, thus she is seeking for revenge\"\\n- Sentence B: \"Her father was murdered, thus she is seeking for a job\"\\n",
+        "input": "",
+        "output": "A dead father does not mean you are unemployed.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Which of the following sentences is nonsensical?\\nOptions:\\n- Sentence A: \"Wood is reading the text aloud.\"\\n- Sentence B: \"Sam is reading the text aloud\"\\n",
+        "input": "",
+        "output": "Wood has no mouth to read the text.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Which of these sentences doesn't make sense?\\nOptions:\\n- Sentence A: \"Put the sunflowers in the refrigerator.\"\\n- Sentence B: \"Put the ice cream in the refrigerator.\"\\n",
+        "input": "",
+        "output": "The refrigerator temperature is too low, go against the sunflower growth.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "One of the following sentences is nonsensical. Which one is it?\\nOptions:\\n- Sentence A: \"Peter likes to go to the zoo to see tigers.\"\\n- Sentence B: \"Peter likes to go to the zoo to see the dinosaurs.\"\\n",
+        "input": "",
+        "output": "Dinosaurs are extinct and thus no one can see them anymore.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Pick which sentence is not logical.\\nOptions:\\n- Sentence A: \"The average weight of a newborn baby is 20 inches.\"\\n- Sentence B: \"The average length of a newborn human baby is 20 inches.\"\\n",
+        "input": "",
+        "output": "Inches are a measurement of shape, not weight.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Which of these sentences doesn't make sense?\\nOptions:\\n- Sentence A: \"Kevin took the dog to the rocket.\"\\n- Sentence B: \"Kevin took the dog on the train.\"\\n",
+        "input": "",
+        "output": "A rocket is not a suitable object for a dog to interact with in any sort of way.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Of the below sentences, which one does *not* make sense?\\nOptions:\\n- Sentence A: \"you need hardware or software to surf the Internet\"\\n- Sentence B: \"you need hardware and software to surf the Internet\"\\n",
+        "input": "",
+        "output": "Software does not help you surf the internet.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Pick which sentence is not logical.\\nOptions:\\n- Sentence A: \"I like going to the cinema to watch basketball games.\"\\n- Sentence B: \"I like going to the cinema to see movies.\"\\n",
+        "input": "",
+        "output": "You should go to the basketball court to watch a basketball match.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Choose the sentence that goes against common sense.\\nOptions:\\n- Sentence A: \"Mars is the most suitable homeland for human beings\"\\n- Sentence B: \"Earth is the most suitable homeland for human beings\"\\n",
+        "input": "",
+        "output": "Earth is most suitable for humans, not Mars.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Pick which sentence is not logical.\\nOptions:\\n- Sentence A: \"It was sunny, so many people took their elephants for a walk.\"\\n- Sentence B: \"It is sunny therefore I am taking my dog for a walk.\"\\n",
+        "input": "",
+        "output": "It's impossible for many ordinary people to raise an elephant.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "One of the following sentences is nonsensical. Which one is it?\\nOptions:\\n- Sentence A: \"Many humans go camping on weekends\"\\n- Sentence B: \"Many dogs go camping on weekends\"\\n",
+        "input": "",
+        "output": "A dog doesn't have the intelligence to go camping on it's own.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Of the below sentences, which one does *not* make sense?\\nOptions:\\n- Sentence A: \"He is playing billiards with a toothpick\"\\n- Sentence B: \"He is playing billiards with a pool cue.\"\\n",
+        "input": "",
+        "output": "A toothpick cant be used in billiards because it is too short and weak.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Of the below sentences, which one does *not* make sense?\\nOptions:\\n- Sentence A: \"We can see the stars at night.\"\\n- Sentence B: \"We can see stars in the daytime.\"\\n",
+        "input": "",
+        "output": "We can see stars after the sun goes down and the city lights are low.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Which of the following sentences is nonsensical?\\nOptions:\\n- Sentence A: \"The train will take you far away, but it doesn't matter\"\\n- Sentence B: \"The turtle will take you far away, but it doesn't matter\"\\n",
+        "input": "",
+        "output": "A turtle moves slowly to take one far away.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Which of these sentences doesn't make sense?\\nOptions:\\n- Sentence A: \"i buy a CD to listen to the latest advertisements\"\\n- Sentence B: \"i buy a CD to listen to the latest songs\"\\n",
+        "input": "",
+        "output": "You buy CD to listen to latest music.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Which of the following two sentences does not make sense?\\nOptions:\\n- Sentence A: \"People can only learn a language when they are young.\"\\n- Sentence B: \"People learn languages when they are young.\"\\n",
+        "input": "",
+        "output": "People can learn at all stages of life.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Of the below sentences, which one does *not* make sense?\\nOptions:\\n- Sentence A: \"I have a table made of jello.\"\\n- Sentence B: \"I have a desk made of wood.\"\\n",
+        "input": "",
+        "output": "Jello is not solid enough to make a table.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Of the below sentences, which one does *not* make sense?\\nOptions:\\n- Sentence A: \"Jim found gold in the desert.\"\\n- Sentence B: \"Jim found gold in the bread.\"\\n",
+        "input": "",
+        "output": "Bread is not a place where Jim would find gold.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Which of these sentences doesn't make sense?\\nOptions:\\n- Sentence A: \"Baseball players use bubble gum to catch baseball.\"\\n- Sentence B: \"Baseball players use gloves to catch baseballs.\"\\n",
+        "input": "",
+        "output": "Baseball players chew guy, not use it to catch baseballs.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Of the following two sentences, which one is against common sense?\\nOptions:\\n- Sentence A: \"Christmas is a time for family and gifts\"\\n- Sentence B: \"Christmas is a time for working all day\"\\n",
+        "input": "",
+        "output": "Christmas is a holiday so people are off from work.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Of the following two sentences, which one is against common sense?\\nOptions:\\n- Sentence A: \"smoking can be a deadly habit\"\\n- Sentence B: \"smoking can be a healthy habit\"\\n",
+        "input": "",
+        "output": "Years of clinical research have shown smoking to be patently unhealthy.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Of the following two sentences, which one is against common sense?\\nOptions:\\n- Sentence A: \"Running is a form of swimming.\"\\n- Sentence B: \"Running is a form of exercise.\"\\n",
+        "input": "",
+        "output": "Running is done on ground and swimming is done in water.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "One of the following sentences is nonsensical. Which one is it?\\nOptions:\\n- Sentence A: \"Pork is inedible\"\\n- Sentence B: \"Pork is edible\"\\n",
+        "input": "",
+        "output": "Pork is widely known to be a consumable meat.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Of the below sentences, which one does *not* make sense?\\nOptions:\\n- Sentence A: \"She bought an itchy scarf at the mall.\"\\n- Sentence B: \"She bought an itchy calendar at the mall.\"\\n",
+        "input": "",
+        "output": "Since you wear scarfs the texture interacts with your skin.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Which of the following sentences is nonsensical?\\nOptions:\\n- Sentence A: \"His elephants speed is 185 kilometers per hour.\"\\n- Sentence B: \"His car's top speed is 185 kilometers per hour.\"\\n",
+        "input": "",
+        "output": "An elephant is too heavy to run 185 kilometres per hour.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Pick which sentence is not logical.\\nOptions:\\n- Sentence A: \"Violins are used to stir soup.\"\\n- Sentence B: \"Violins are used to play music.\"\\n",
+        "input": "",
+        "output": "Soup is usually stirred with a spoon or similar utensil designed for cooking.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Choose the sentence that goes against common sense.\\nOptions:\\n- Sentence A: \"You take the phone cell.\"\\n- Sentence B: \"You take the phone call.\"\\n",
+        "input": "",
+        "output": "Phones are not alive, they don't have cells.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Pick which sentence is not logical.\\nOptions:\\n- Sentence A: \"He puts the cake into the oven.\"\\n- Sentence B: \"He puts the ice cream into the oven.\"\\n",
+        "input": "",
+        "output": "No one wants to eat molten ice cream.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Of the below sentences, which one does *not* make sense?\\nOptions:\\n- Sentence A: \"babies are smaller than adults\"\\n- Sentence B: \"babies are bigger than adults\"\\n",
+        "input": "",
+        "output": "Adults are full grown and babies are not.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Choose the sentence that goes against common sense.\\nOptions:\\n- Sentence A: \"A book is something you cook.\"\\n- Sentence B: \"A book is something you read.\"\\n",
+        "input": "",
+        "output": "Cooking is something you do with food and books are not food.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Which of the following two sentences does not make sense?\\nOptions:\\n- Sentence A: \"Water provides energy.\"\\n- Sentence B: \"Gasoline provides energy.\"\\n",
+        "input": "",
+        "output": "Water can provide energy only if used to power something else.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Of the following two sentences, which one is against common sense?\\nOptions:\\n- Sentence A: \"The children built a giant microscope when they were at the beach.\"\\n- Sentence B: \"The children built a giant sand castle when they were at the beach.\"\\n",
+        "input": "",
+        "output": "Children don't create microscopes and microscopes are not created at the beach.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Which of the following two sentences does not make sense?\\nOptions:\\n- Sentence A: \"He spun a race.\"\\n- Sentence B: \"He ran a race.\"\\n",
+        "input": "",
+        "output": "A race is not an object that can be spun.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Which of the following two sentences does not make sense?\\nOptions:\\n- Sentence A: \"My brother likes to wear skirts.\"\\n- Sentence B: \"My sister likes to wear skirts.\"\\n",
+        "input": "",
+        "output": "Skirts are made for females not for males.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Which of the following two sentences does not make sense?\\nOptions:\\n- Sentence A: \"No person would want to live with a cat\"\\n- Sentence B: \"No person would want to live with rats\"\\n",
+        "input": "",
+        "output": "There are many people who like cats and live with cats.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Which of the following two sentences does not make sense?\\nOptions:\\n- Sentence A: \"You can conquer your opponent if you understand him.\"\\n- Sentence B: \"You can conquer your opponent without understanding him.\"\\n",
+        "input": "",
+        "output": "As the saying goes, know yourself and know your enemy.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Choose the sentence that goes against common sense.\\nOptions:\\n- Sentence A: \"you will go north when you follow Polaris\"\\n- Sentence B: \"you will go south when you follow Polaris\"\\n",
+        "input": "",
+        "output": "Polaris is in the sky over the earth, thus it's to the north.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Of the below sentences, which one does *not* make sense?\\nOptions:\\n- Sentence A: \"she is a vegetarian and refuses to eat food\"\\n- Sentence B: \"she is a vegetarian and refuses to eat meat\"\\n",
+        "input": "",
+        "output": "Vegetarians eat plenty of food, just not meat products.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Which of these sentences doesn't make sense?\\nOptions:\\n- Sentence A: \"good-looking people must have better chances to success\"\\n- Sentence B: \"hard-working people have better chances to success\"\\n",
+        "input": "",
+        "output": "Good looks has nothing to do with success.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Which of the following two sentences does not make sense?\\nOptions:\\n- Sentence A: \"Bark on trees changes color in the fall\"\\n- Sentence B: \"Leaves on trees change color in the fall\"\\n",
+        "input": "",
+        "output": "Bark on trees does not change color with the seasons.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "One of the following sentences is nonsensical. Which one is it?\\nOptions:\\n- Sentence A: \"The wool is used to transmit electricity.\"\\n- Sentence B: \"The wire is used to transmit electricity.\"\\n",
+        "input": "",
+        "output": "The wool is an insulator and the current does not pass through.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Of the following two sentences, which one is against common sense?\\nOptions:\\n- Sentence A: \"Enjoying sunshine in the supermarket is a wonderful experience for people\"\\n- Sentence B: \"Enjoying sunshine on the beach is a wonderful experience for people\"\\n",
+        "input": "",
+        "output": "Supermarket is made up of closed shelter so we can not get the sunshine.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Which of the following two sentences does not make sense?\\nOptions:\\n- Sentence A: \"we become younger when the time pass\"\\n- Sentence B: \"we get older when the time pass\"\\n",
+        "input": "",
+        "output": "As time passes we get older, not younger.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Choose the sentence that goes against common sense.\\nOptions:\\n- Sentence A: \"he put his clothes in washing machine to clean\"\\n- Sentence B: \"he put all plates in washing machine to clean\"\\n",
+        "input": "",
+        "output": "Clothes should go into washing machine not plates.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Which of these sentences doesn't make sense?\\nOptions:\\n- Sentence A: \"i take eight days off every week\"\\n- Sentence B: \"i take two days off every week\"\\n",
+        "input": "",
+        "output": "There are not eight days in a week.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Which of the following two sentences does not make sense?\\nOptions:\\n- Sentence A: \"We can't make a lot of noise in the library.\"\\n- Sentence B: \"We can make a lot of noise in the library.\"\\n",
+        "input": "",
+        "output": "The library is a quiet place because people are reading.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Which of the following sentences is nonsensical?\\nOptions:\\n- Sentence A: \"His reflection was invisible in the mirror.\"\\n- Sentence B: \"His reflection was visible in the mirror\"\\n",
+        "input": "",
+        "output": "There is no such thing as an invisible reflection.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Choose the sentence that goes against common sense.\\nOptions:\\n- Sentence A: \"Heat helps bacteria growing.\"\\n- Sentence B: \"Heat prevents bacteria from growing.\"\\n",
+        "input": "",
+        "output": "Bacteria has been shown to not grow when submitted to heat.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Choose the sentence that goes against common sense.\\nOptions:\\n- Sentence A: \"he bought headphones to listen to music in his phone\"\\n- Sentence B: \"he bought spectacles to listen to music in his phone\"\\n",
+        "input": "",
+        "output": "Spectacles cannot used to listen music in his phone.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Which of these sentences doesn't make sense?\\nOptions:\\n- Sentence A: \"I ate a live chicken\"\\n- Sentence B: \"I ate a chicken nugget\"\\n",
+        "input": "",
+        "output": "If you are eating a chicken it is dead and cooked.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Choose the sentence that goes against common sense.\\nOptions:\\n- Sentence A: \"People can row boats.\"\\n- Sentence B: \"Boats can row people.\"\\n",
+        "input": "",
+        "output": "Boats are inanimate objects that can't do anything, let alone to people.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Which of the following sentences is nonsensical?\\nOptions:\\n- Sentence A: \"ketchup is blue\"\\n- Sentence B: \"ketchup is red\"\\n",
+        "input": "",
+        "output": "Ketchup is red and made from tomatoes which are never blue.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Of the following two sentences, which one is against common sense?\\nOptions:\\n- Sentence A: \"Cats and mice are good friends\"\\n- Sentence B: \"Cats and mice are natural enemies\"\\n",
+        "input": "",
+        "output": "Cats eat mice, so they are not good friends.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Choose the sentence that goes against common sense.\\nOptions:\\n- Sentence A: \"We don't have to mute our mobile phones in the library.\"\\n- Sentence B: \"We should mute our mobile phones in the library.\"\\n",
+        "input": "",
+        "output": "Phone rings will disturb people who are concentrating on reading.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Of the following two sentences, which one is against common sense?\\nOptions:\\n- Sentence A: \"It's so hot here, seems everything caught fire\"\\n- Sentence B: \"It's so hot here, seems everything caught cold\"\\n",
+        "input": "",
+        "output": "The word cold is never used to refer to something that is hot, they are antonyms.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Which of these sentences doesn't make sense?\\nOptions:\\n- Sentence A: \"The bedroom can cook.\"\\n- Sentence B: \"The kitchen can cook.\"\\n",
+        "input": "",
+        "output": "A bedroom's main purpose is to be slept in.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Choose the sentence that goes against common sense.\\nOptions:\\n- Sentence A: \"When we are happy, we laugh.\"\\n- Sentence B: \"When we are sad, we laugh.\"\\n",
+        "input": "",
+        "output": "People usually don't laugh when they are sad.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Which of the following two sentences does not make sense?\\nOptions:\\n- Sentence A: \"You sit when watching a play in a theater.\"\\n- Sentence B: \"You walk around when watching a play in a theater.\"\\n",
+        "input": "",
+        "output": "It's impolite to walk around in a theater.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Of the below sentences, which one does *not* make sense?\\nOptions:\\n- Sentence A: \"Mimi's switching his pen.\"\\n- Sentence B: \"Dolphin's switching his pen.\"\\n",
+        "input": "",
+        "output": "Dolphins cant walk from one area to another.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Choose the sentence that goes against common sense.\\nOptions:\\n- Sentence A: \"Humans can explore the universe with the ship.\"\\n- Sentence B: \"Humans can explore the universe with the spaceship.\"\\n",
+        "input": "",
+        "output": "Ships can only sail on water, not into space.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Of the below sentences, which one does *not* make sense?\\nOptions:\\n- Sentence A: \"Drivers should not drive over the speed limit.\"\\n- Sentence B: \"Drivers should drive over the speed limit.\"\\n",
+        "input": "",
+        "output": "Speeding can make drivers less likely to respond to unexpected events on the road.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Choose the sentence that goes against common sense.\\nOptions:\\n- Sentence A: \"People usually read books they are not interested in\"\\n- Sentence B: \"People usually read books they are interested in\"\\n",
+        "input": "",
+        "output": "People are usually interested in books they elect to read.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Which of the following sentences is nonsensical?\\nOptions:\\n- Sentence A: \"Hens can lay chickens.\"\\n- Sentence B: \"Hens lay eggs.\"\\n",
+        "input": "",
+        "output": "Hens are not allowed to breed chickens directly.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Pick which sentence is not logical.\\nOptions:\\n- Sentence A: \"the ground was covered by wind after the storm\"\\n- Sentence B: \"the ground was covered by leaves after the storm\"\\n",
+        "input": "",
+        "output": "After a storm ground is covered with dust.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Which of the following sentences is nonsensical?\\nOptions:\\n- Sentence A: \"a badminton is round\"\\n- Sentence B: \"a football is round\"\\n",
+        "input": "",
+        "output": "A badminton is a name of a sport.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Which of the following sentences is nonsensical?\\nOptions:\\n- Sentence A: \"Rainbow is produced on sunny days\"\\n- Sentence B: \"Rainbow is produced on rainy days\"\\n",
+        "input": "",
+        "output": "Rainbow occurs due to refraction of light through rain drops, so requires raining.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Which of these sentences doesn't make sense?\\nOptions:\\n- Sentence A: \"People singing while taking a shower\"\\n- Sentence B: \"People eating while taking a shower\"\\n",
+        "input": "",
+        "output": "Eating in the shower is ideal due to the food becoming saturated with water and therefore very soggy.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Of the below sentences, which one does *not* make sense?\\nOptions:\\n- Sentence A: \"Smoking is not allowed in public places.\"\\n- Sentence B: \"Walking is not allowed in public places.\"\\n",
+        "input": "",
+        "output": "Walking does not affect others so it is okay in public.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Of the following two sentences, which one is against common sense?\\nOptions:\\n- Sentence A: \"A man used the blood of his enemies to repair his eyeglasses.\"\\n- Sentence B: \"A man used superglue to repair his eyeglasses.\"\\n",
+        "input": "",
+        "output": "Blood of anyone would not help repair eyeglasses.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Of the below sentences, which one does *not* make sense?\\nOptions:\\n- Sentence A: \"The library is used for cooking.\"\\n- Sentence B: \"The kitchen is used for cooking.\"\\n",
+        "input": "",
+        "output": "The library is a place where you can rent books.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Of the below sentences, which one does *not* make sense?\\nOptions:\\n- Sentence A: \"He talked to her using a book shelf\"\\n- Sentence B: \"He talked to her using a mobile phone\"\\n",
+        "input": "",
+        "output": "A book shelf is not a means of communication.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Which of the following two sentences does not make sense?\\nOptions:\\n- Sentence A: \"The tea was too astringent, and needed to cool down\"\\n- Sentence B: \"The tea was too hot, and needed to cool down\"\\n",
+        "input": "",
+        "output": "If something is astringent cooling it will make no difference.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Which of the following two sentences does not make sense?\\nOptions:\\n- Sentence A: \"I was swimming when I found a typo.\"\\n- Sentence B: \"I was reading when I found a typo.\"\\n",
+        "input": "",
+        "output": "Swimming is too engaing to read as well.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Of the below sentences, which one does *not* make sense?\\nOptions:\\n- Sentence A: \"Hong Kong is Chinese\"\\n- Sentence B: \"United States is Chinese\"\\n",
+        "input": "",
+        "output": "The United States and China are separate countries.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Of the below sentences, which one does *not* make sense?\\nOptions:\\n- Sentence A: \"May I use your pen?\"\\n- Sentence B: \"May I use your sun?\"\\n",
+        "input": "",
+        "output": "The sun doesn't belong to any one entity.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Of the following two sentences, which one is against common sense?\\nOptions:\\n- Sentence A: \"Dogs has a better vision than humans.\"\\n- Sentence B: \"Dogs have a better sense of smell than humans.\"\\n",
+        "input": "",
+        "output": "Dogs do not have better vision than humans.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Which of these sentences doesn't make sense?\\nOptions:\\n- Sentence A: \"Making money is hardwork for any human.\"\\n- Sentence B: \"Making money is silly for any human.\"\\n",
+        "input": "",
+        "output": "Making money is not silly because any human living needs money to survive.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Which of the following sentences is nonsensical?\\nOptions:\\n- Sentence A: \"He put milk in his shoes.\"\\n- Sentence B: \"He put milk in his coffee.\"\\n",
+        "input": "",
+        "output": "You should not put milk in your shoes because it will make them wet and smelly.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Choose the sentence that goes against common sense.\\nOptions:\\n- Sentence A: \"the sun will rise up from the west\"\\n- Sentence B: \"the sun will rise up from the east\"\\n",
+        "input": "",
+        "output": "The sun only rises in the east, and not from the west.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Which of the following two sentences does not make sense?\\nOptions:\\n- Sentence A: \"A school bag is used for storing clothes for travelling.\"\\n- Sentence B: \"A garment bag is used for storing clothes for travelling.\"\\n",
+        "input": "",
+        "output": "A school bag is used for storing books and stationery for schooling.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Of the below sentences, which one does *not* make sense?\\nOptions:\\n- Sentence A: \"Satan is going to the cinema to ride a roller coaster\"\\n- Sentence B: \"Satan is going to the cinema to watch a movie.\"\\n",
+        "input": "",
+        "output": "Roller coasters are not constructed at the cinema, they are built at amusement parks.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "One of the following sentences is nonsensical. Which one is it?\\nOptions:\\n- Sentence A: \"She put the cat in the dishwasher.\"\\n- Sentence B: \"She took the cat to the vet.\"\\n",
+        "input": "",
+        "output": "You do you put animals in the dishwasher.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Which of these sentences doesn't make sense?\\nOptions:\\n- Sentence A: \"Salesmen always introduce the disadvantages of their products to customers\"\\n- Sentence B: \"Salesmen always introduce the advantages of their products to customers\"\\n",
+        "input": "",
+        "output": "If disadvantages of products are discussed by salesmen they would be fired.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Pick which sentence is not logical.\\nOptions:\\n- Sentence A: \"Watch is a small timepiece worn typically on a strap on one's wrist\"\\n- Sentence B: \"Apple is a small timepiece worn typically on a strap on one's wrist\"\\n",
+        "input": "",
+        "output": "Apples are meant to be eaten, not worn.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Which of the following sentences is nonsensical?\\nOptions:\\n- Sentence A: \"my grandpa can't sleep so he took sleeping pills\"\\n- Sentence B: \"my grandpa can't sleep so he took stimulant pills\"\\n",
+        "input": "",
+        "output": "Stimulants make people alert and active, so grandpa would be unable to sleep after taking them.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Which of the following two sentences does not make sense?\\nOptions:\\n- Sentence A: \"I want to go to the botanical garden to see giraffes.\"\\n- Sentence B: \"I want to go to the zoo to see giraffes.\"\\n",
+        "input": "",
+        "output": "Botanical gardens are filled with flower/plants and a giraffe is seen at a zoo which hold animals so one cannot see giraffes in a botanical garden.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Of the following two sentences, which one is against common sense?\\nOptions:\\n- Sentence A: \"Baseball happens around a baseball field.\"\\n- Sentence B: \"Baseball happens around a football field.\"\\n",
+        "input": "",
+        "output": "Only football is played in a football field.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Pick which sentence is not logical.\\nOptions:\\n- Sentence A: \"NASA sent a hippo to the moon.\"\\n- Sentence B: \"NASA sent a man to the moon.\"\\n",
+        "input": "",
+        "output": "A hippo is too large to fit into a rocket.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Choose the sentence that goes against common sense.\\nOptions:\\n- Sentence A: \"Couches are for eating\"\\n- Sentence B: \"Couches are for sitting\"\\n",
+        "input": "",
+        "output": "Couches are not for eating because they are not food.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Of the following two sentences, which one is against common sense?\\nOptions:\\n- Sentence A: \"we dug on the wall to drill a well for the village\"\\n- Sentence B: \"we dug on the ground to drill a well for the village\"\\n",
+        "input": "",
+        "output": "You dig in the ground to build a well.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Which of these sentences doesn't make sense?\\nOptions:\\n- Sentence A: \"bob said my breath smelled of garlic so I brushed my teeth\"\\n- Sentence B: \"bob said my breath smelled of garlic so I wiped my mouth\"\\n",
+        "input": "",
+        "output": "This statement is against common sense because wiping your mouth cannot take away a certain smell, perhaps brushing your teeth could.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "One of the following sentences is nonsensical. Which one is it?\\nOptions:\\n- Sentence A: \"Staying up late is helpful for our health.\"\\n- Sentence B: \"Staying up late is harmful to our health.\"\\n",
+        "input": "",
+        "output": "Staying up late will cause dark circles or blood streak in the white of the eye.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Which of the following two sentences does not make sense?\\nOptions:\\n- Sentence A: \"He carried his dog when he crossed the street.\"\\n- Sentence B: \"He carried his car when he crossed the street.\"\\n",
+        "input": "",
+        "output": "A car is too heavy for a man to carry for any distance and to move the car normally one would just drive it to the desired location.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Of the following two sentences, which one is against common sense?\\nOptions:\\n- Sentence A: \"The cat ate a treat\"\\n- Sentence B: \"The cat ate a horse\"\\n",
+        "input": "",
+        "output": "A horse is much bigger than a cat.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Choose the sentence that goes against common sense.\\nOptions:\\n- Sentence A: \"she put the charger in the phone\"\\n- Sentence B: \"she put the phone in the charger\"\\n",
+        "input": "",
+        "output": "She cannot put the phone in the charger.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Pick which sentence is not logical.\\nOptions:\\n- Sentence A: \"She had a glass of wine with her dinner.\"\\n- Sentence B: \"She ate the glass of wine for her dinner.\"\\n",
+        "input": "",
+        "output": "People don't eat glass for dinner or any other daily meals.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Which of the following two sentences does not make sense?\\nOptions:\\n- Sentence A: \"Lina put a fish in the toaster.\"\\n- Sentence B: \"Lina put bread in the toaster.\"\\n",
+        "input": "",
+        "output": "Fish is not suitable for the toaster .\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Which of the following two sentences does not make sense?\\nOptions:\\n- Sentence A: \"writing a term paper requires focused attention\"\\n- Sentence B: \"writing a term paper requires distracted attention\"\\n",
+        "input": "",
+        "output": "Distracted attention would make it hard to write a term paper.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "One of the following sentences is nonsensical. Which one is it?\\nOptions:\\n- Sentence A: \"He baked a pizza in the fridge\"\\n- Sentence B: \"He baked a pizza in the oven\"\\n",
+        "input": "",
+        "output": "The fridge is cold and is not used to bake items, you would need an oven.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Choose the sentence that goes against common sense.\\nOptions:\\n- Sentence A: \"The apple fell from the tree.\"\\n- Sentence B: \"The apple climbed the tree.\"\\n",
+        "input": "",
+        "output": "An apple can not climb or move by it's own will.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Which of these sentences doesn't make sense?\\nOptions:\\n- Sentence A: \"he said he would marry a monkey tomorrow\"\\n- Sentence B: \"he said tomorrow would be his wedding\"\\n",
+        "input": "",
+        "output": "Monkey is an animal which cannot be married by him.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Pick which sentence is not logical.\\nOptions:\\n- Sentence A: \"A camera is for taking pictures of dolphins\"\\n- Sentence B: \"A camera is for taking pictures\"\\n",
+        "input": "",
+        "output": "A camera is used to take pictures of many different things.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Choose the sentence that goes against common sense.\\nOptions:\\n- Sentence A: \"There was a notice in the policeman.\"\\n- Sentence B: \"There was a notice in the supermarket.\"\\n",
+        "input": "",
+        "output": "A notice cannot be put inside a policeman.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Which of the following sentences is nonsensical?\\nOptions:\\n- Sentence A: \"I took my backpack to school.\"\\n- Sentence B: \"I took my desert to school.\"\\n",
+        "input": "",
+        "output": "A desert is a geographical feature that cannot be moved.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Of the following two sentences, which one is against common sense?\\nOptions:\\n- Sentence A: \"Light is an indispensable factor for photosynthesis to be performed.\"\\n- Sentence B: \"Happiness is an indispensable factor for photosynthesis to be performed.\"\\n",
+        "input": "",
+        "output": "Happiness is a kind of feeling, not for photosynthesis.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Which of the following sentences is nonsensical?\\nOptions:\\n- Sentence A: \"He is afraid of water, so he never goes to the seaside\"\\n- Sentence B: \"He is afraid of water, so he always dives at the seaside\"\\n",
+        "input": "",
+        "output": "If you are afraid of water, diving into the seaside is dangerous and risky.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Of the following two sentences, which one is against common sense?\\nOptions:\\n- Sentence A: \"I pulled the door shut with my hand\"\\n- Sentence B: \"I pulled the door shut with my eye\"\\n",
+        "input": "",
+        "output": "You use your hands to shut a door, not your eye.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Choose the sentence that goes against common sense.\\nOptions:\\n- Sentence A: \"The kitten ran through the sun.\"\\n- Sentence B: \"The kitten ran through the bushes.\"\\n",
+        "input": "",
+        "output": "The sun is too hot to run through and survive.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Choose the sentence that goes against common sense.\\nOptions:\\n- Sentence A: \"Man and nature should live in harmony.\"\\n- Sentence B: \"Man and nature shouldn't live in harmony\"\\n",
+        "input": "",
+        "output": "Only if people are in harmony with nature can mankind live forever.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Choose the sentence that goes against common sense.\\nOptions:\\n- Sentence A: \"A pen is used for drilling holes.\"\\n- Sentence B: \"A drill is used for drilling holes.\"\\n",
+        "input": "",
+        "output": "A pen is used for writing and isn't hard enough to drill holes.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Of the following two sentences, which one is against common sense?\\nOptions:\\n- Sentence A: \"A steak will give a happy ending to this meal\"\\n- Sentence B: \"A dessert will give a happy ending to this meal\"\\n",
+        "input": "",
+        "output": "Steaks are not eaten at the end of a meal.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Which of these sentences doesn't make sense?\\nOptions:\\n- Sentence A: \"Stan likes to make lakes in the kitchen.\"\\n- Sentence B: \"Stan likes to make pasta in the kitchen.\"\\n",
+        "input": "",
+        "output": "Food is made in the kitchen and not lakes which are bodies of water.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Which of the following two sentences does not make sense?\\nOptions:\\n- Sentence A: \"The teacher planted a tree on paper.\"\\n- Sentence B: \"The teacher wrote an article on paper.\"\\n",
+        "input": "",
+        "output": "Tree's need to be planted in the ground or in dirt.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Of the below sentences, which one does *not* make sense?\\nOptions:\\n- Sentence A: \"I'm tired now so I need to get some rest\"\\n- Sentence B: \"I'm tired now so I need to take some exercise\"\\n",
+        "input": "",
+        "output": "I am tired now so I won't go to the gym anymore but will get a well needed rest and be ready to go again.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Which of these sentences doesn't make sense?\\nOptions:\\n- Sentence A: \"You are likely to find a Dinosaur in court\"\\n- Sentence B: \"You are likely to find a lawyer in court\"\\n",
+        "input": "",
+        "output": "Dinosaurs have been extinct for hundreds of millions of years.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Which of these sentences doesn't make sense?\\nOptions:\\n- Sentence A: \"It often rains in the desert.\"\\n- Sentence B: \"Sandstorms often occur in deserts.\"\\n",
+        "input": "",
+        "output": "The desert is so dry that it seldom rains.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Of the below sentences, which one does *not* make sense?\\nOptions:\\n- Sentence A: \"The dogs attacked the mailman\"\\n- Sentence B: \"The stars attacked the mailman\"\\n",
+        "input": "",
+        "output": "Stars are high in the sky and don't attack.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Which of these sentences doesn't make sense?\\nOptions:\\n- Sentence A: \"If it rains, everyone gets milk\"\\n- Sentence B: \"If it rains, everyone gets water\"\\n",
+        "input": "",
+        "output": "Milk doesn't fall from the sky when it rains.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Choose the sentence that goes against common sense.\\nOptions:\\n- Sentence A: \"A kite is flying in the air.\"\\n- Sentence B: \"A kite is crying in the air.\"\\n",
+        "input": "",
+        "output": "Kite is a non living thing it cannot cry.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "One of the following sentences is nonsensical. Which one is it?\\nOptions:\\n- Sentence A: \"Unfortunately, woolly mammoths went extinct thousands of years ago.\"\\n- Sentence B: \"Unfortunately, rabbits went extinct thousands of years ago.\"\\n",
+        "input": "",
+        "output": "I've seen plenty of rabbits in the last few years.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Which of these sentences doesn't make sense?\\nOptions:\\n- Sentence A: \"He's wearing table\"\\n- Sentence B: \"He's wearing headphones.\"\\n",
+        "input": "",
+        "output": "People don't wear tables, they usually sit in front of them.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Of the below sentences, which one does *not* make sense?\\nOptions:\\n- Sentence A: \"She put a turkey into the oven to bake.\"\\n- Sentence B: \"She put a cell phone in the oven to bake.\"\\n",
+        "input": "",
+        "output": "A turkey can be baked in an oven but a cell phone cannot be baked in the over.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Of the following two sentences, which one is against common sense?\\nOptions:\\n- Sentence A: \"He grabbed a dinosaur from the doll machine\"\\n- Sentence B: \"He grabbed a doll from the doll machine\"\\n",
+        "input": "",
+        "output": "Dinosaur is much bigger than the doll machine.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Which of the following sentences is nonsensical?\\nOptions:\\n- Sentence A: \"Pattie flew on a plane to the Mars\"\\n- Sentence B: \"Pattie flew on a plane to Paris.\"\\n",
+        "input": "",
+        "output": "You cannot take a plane to Mars, yet.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Of the below sentences, which one does *not* make sense?\\nOptions:\\n- Sentence A: \"He knew that if he worked more hours, he would have more money\"\\n- Sentence B: \"He knew that if he worked more hours he would have more time with family\"\\n",
+        "input": "",
+        "output": "More work hours means time away from family.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Which of these sentences doesn't make sense?\\nOptions:\\n- Sentence A: \"A giraffe drove a car\"\\n- Sentence B: \"A man drove a car.\"\\n",
+        "input": "",
+        "output": "Giraffes cannot drive or even fit inside a car.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Which of the following two sentences does not make sense?\\nOptions:\\n- Sentence A: \"we have lunch in the library\"\\n- Sentence B: \"we have lunch in the restaurant\"\\n",
+        "input": "",
+        "output": "You do not eat food in the library.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "One of the following sentences is nonsensical. Which one is it?\\nOptions:\\n- Sentence A: \"Turn on the wipers when driving in the rain\"\\n- Sentence B: \"Turn on the lights when driving in the rain\"\\n",
+        "input": "",
+        "output": "A train is driven by a train driver.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Choose the sentence that goes against common sense.\\nOptions:\\n- Sentence A: \"Roosters crow in the morning\"\\n- Sentence B: \"Roosters lay eggs in the morning\"\\n",
+        "input": "",
+        "output": "Roosters are male and do not lay eggs.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Which of the following two sentences does not make sense?\\nOptions:\\n- Sentence A: \"You can feed a dog with dog busicuits\"\\n- Sentence B: \"You can feed a dog with cat busicuits\"\\n",
+        "input": "",
+        "output": "Cat treats are not usually given to dogs.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Of the below sentences, which one does *not* make sense?\\nOptions:\\n- Sentence A: \"He picked up a comb and began to comb his hair\"\\n- Sentence B: \"He picked up a knife and began to comb his hair\"\\n",
+        "input": "",
+        "output": "A knife will cut the head if combed with it.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Which of these sentences doesn't make sense?\\nOptions:\\n- Sentence A: \"the criminal was sent to prison but he felt very regretful\"\\n- Sentence B: \"the criminal was sent to prison and he felt very regretful\"\\n",
+        "input": "",
+        "output": "Regretfulness has little bearing on a criminal being sent to prison.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Pick which sentence is not logical.\\nOptions:\\n- Sentence A: \"Cat has nine lives\"\\n- Sentence B: \"Cat has one lives\"\\n",
+        "input": "",
+        "output": "The expression \"a cat has nine lives\" is well-known, and \"one\" is singular while \"lives\" is plural.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Of the below sentences, which one does *not* make sense?\\nOptions:\\n- Sentence A: \"It is important to know that sang is a past tense verb.\"\\n- Sentence B: \"It is important to know that sang is a future tense verb.\"\\n",
+        "input": "",
+        "output": "There is not a future tense form for the verb sing.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Which of the following sentences is nonsensical?\\nOptions:\\n- Sentence A: \"People should not be excessively narcissistic\"\\n- Sentence B: \"People should be excessively narcissistic.\"\\n",
+        "input": "",
+        "output": "Those who suffer from narcissism become self-absorbed or chronic show-offs.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Choose the sentence that goes against common sense.\\nOptions:\\n- Sentence A: \"He painted his grass.\"\\n- Sentence B: \"He painted his house.\"\\n",
+        "input": "",
+        "output": "Grass has its own natural color and does not need to be painted.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Of the below sentences, which one does *not* make sense?\\nOptions:\\n- Sentence A: \"The glasses frame are effective shields against the sunlight.\"\\n- Sentence B: \"The sunglasses are effective shields against the sunlight.\"\\n",
+        "input": "",
+        "output": "The size of the glasses frame is too small to keep out the sun.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Of the following two sentences, which one is against common sense?\\nOptions:\\n- Sentence A: \"the ship hit the train yesterday\"\\n- Sentence B: \"the ship hit the submarine yesterday\"\\n",
+        "input": "",
+        "output": "A ship in water cannot impact a train on land.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Pick which sentence is not logical.\\nOptions:\\n- Sentence A: \"the color of the phone case is red\"\\n- Sentence B: \"the color of the phone screen is red\"\\n",
+        "input": "",
+        "output": "A phone screen usually consists of many colors.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Of the below sentences, which one does *not* make sense?\\nOptions:\\n- Sentence A: \"\"You are so beautiful\", the boy told the girl that he loves\"\\n- Sentence B: \"\"Chicken are so beautiful\", the boy told the girl that he loves\"\\n",
+        "input": "",
+        "output": "Chicken is not a human being that one can love.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Pick which sentence is not logical.\\nOptions:\\n- Sentence A: \"he parked his car in the wrong place so he was asked to sell it\"\\n- Sentence B: \"he parked his car in the wrong place so he was asked to move it\"\\n",
+        "input": "",
+        "output": "You don't sell your car just because it is parked in the wrong spot.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Of the following two sentences, which one is against common sense?\\nOptions:\\n- Sentence A: \"He was jailed for six months for stealing.\"\\n- Sentence B: \"He was jailed for six months for sleeping.\"\\n",
+        "input": "",
+        "output": "Everybody in the world sleeps and the whole wolrd cannot be jailed for sleeping.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Which of the following two sentences does not make sense?\\nOptions:\\n- Sentence A: \"She felt hungry and satisfied after having lunch\"\\n- Sentence B: \"She felt full and satisfied after having lunch\"\\n",
+        "input": "",
+        "output": "One either feels satisfied, or still hungry, after eating lunch.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Which of these sentences doesn't make sense?\\nOptions:\\n- Sentence A: \"Bob is blaming others.\"\\n- Sentence B: \"Bear is blaming others..\"\\n",
+        "input": "",
+        "output": "Bears do not cast blame on others or particularly care who is at fault.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Of the below sentences, which one does *not* make sense?\\nOptions:\\n- Sentence A: \"She made a trash can to her mother.\"\\n- Sentence B: \"She made a phone call to her mother.\"\\n",
+        "input": "",
+        "output": "One cannot make a trash can to a mother.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "One of the following sentences is nonsensical. Which one is it?\\nOptions:\\n- Sentence A: \"I go to the museum to see paintings painted by famous artists\"\\n- Sentence B: \"I go to the museum to get my clothes cleaned\"\\n",
+        "input": "",
+        "output": "Because people go to the laundromat to wash clothes.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Which of the following two sentences does not make sense?\\nOptions:\\n- Sentence A: \"Hotpot ate me today\"\\n- Sentence B: \"I ate hotpot today\"\\n",
+        "input": "",
+        "output": "Hotpot is just a chinese cooking method not any living creature that will eat Humans.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Which of these sentences doesn't make sense?\\nOptions:\\n- Sentence A: \"Something you find in the newspaper is music\"\\n- Sentence B: \"Something you find in the newspaper is words\"\\n",
+        "input": "",
+        "output": "Something you find in a newspaper are pictures.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Which of these sentences doesn't make sense?\\nOptions:\\n- Sentence A: \"A purse is a fashionable way to carry around roller blades.\"\\n- Sentence B: \"A purse is a fashionable way to carry around essential items.\"\\n",
+        "input": "",
+        "output": "Roller blades are not something you carry with you.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "One of the following sentences is nonsensical. Which one is it?\\nOptions:\\n- Sentence A: \"My mother's hair is gray, unless she dyes it brown.\"\\n- Sentence B: \"My mother's eyes are gray, unless she dies them brown.\"\\n",
+        "input": "",
+        "output": "You can't dye your eyes a different color.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "One of the following sentences is nonsensical. Which one is it?\\nOptions:\\n- Sentence A: \"My weight fluctuated wildly depending on how long my hair was\"\\n- Sentence B: \"My weight fluctuated wildly depending on how much I ate\"\\n",
+        "input": "",
+        "output": "There is no connection between hair growth and gaining/losing weight.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Pick which sentence is not logical.\\nOptions:\\n- Sentence A: \"Cricket is a bat-and-ball game played between two teams of eleven players on a field\"\\n- Sentence B: \"Football  is a rectangle ball game played between four teams of eleven players on a field\"\\n",
+        "input": "",
+        "output": "Football is not a rectangle ball game played between four teams of eleven players on a field.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Pick which sentence is not logical.\\nOptions:\\n- Sentence A: \"you can live in a room\"\\n- Sentence B: \"you can live in a fireplace\"\\n",
+        "input": "",
+        "output": "Even an unlit fireplace would be too small and probably too dusty to live in.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Which of the following sentences is nonsensical?\\nOptions:\\n- Sentence A: \"Drinking more water is bad for health\"\\n- Sentence B: \"Drinking more water is good for health\"\\n",
+        "input": "",
+        "output": "The body is made up of mostly water, so drinking it is good.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Pick which sentence is not logical.\\nOptions:\\n- Sentence A: \"Many innocents will get arrested soon\"\\n- Sentence B: \"Many criminals will get arrested soon\"\\n",
+        "input": "",
+        "output": "Innocent people do not commit crimes and are not arrested.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "One of the following sentences is nonsensical. Which one is it?\\nOptions:\\n- Sentence A: \"Pablo goes to the dance to meet a girl\"\\n- Sentence B: \"Pablo goes to the dance to meet a bird\"\\n",
+        "input": "",
+        "output": "People do not go to dances to meet animals.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Pick which sentence is not logical.\\nOptions:\\n- Sentence A: \"Be careful when the machine is running, because it is dangerous.\"\\n- Sentence B: \"Do not be careful when the machine is running because it is safe.\"\\n",
+        "input": "",
+        "output": "You're more likely to get hurt when the machine is running.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Pick which sentence is not logical.\\nOptions:\\n- Sentence A: \"People go to the park to buy vegetables.\"\\n- Sentence B: \"People go to the vegetable market to buy vegetables.\"\\n",
+        "input": "",
+        "output": "The park is not a place to sell vegetables.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Of the below sentences, which one does *not* make sense?\\nOptions:\\n- Sentence A: \"He was sent to a hospital for treatment after a fire accident\"\\n- Sentence B: \"He was set to a theater  for treatment after a fire accident\"\\n",
+        "input": "",
+        "output": "Theaters are not equipped to handle burn victims.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Which of these sentences doesn't make sense?\\nOptions:\\n- Sentence A: \"The art gallery was broken into last night, and the policemen got away with two valuable paintings.\"\\n- Sentence B: \"The art gallery was broken into last night, and the thieves got away with two valuable paintings.\"\\n",
+        "input": "",
+        "output": "Policemen arrest thieves, so they don't steal valuable paintings.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Of the following two sentences, which one is against common sense?\\nOptions:\\n- Sentence A: \"After the fracture, I'll go to the gym for treatment.\"\\n- Sentence B: \"After the fracture, I'll go to the hospital for treatment.\"\\n",
+        "input": "",
+        "output": "The gymnasium has no instruments to treat fractures.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Which of these sentences doesn't make sense?\\nOptions:\\n- Sentence A: \"Tesla makes electric cars.\"\\n- Sentence B: \"Tesla makes gasoline powered cars.\"\\n",
+        "input": "",
+        "output": "Tesla an all electric car manufacture, they do not produce gasoline cars.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Choose the sentence that goes against common sense.\\nOptions:\\n- Sentence A: \"It is colder at the top of a mountain than at the base of the mountain\"\\n- Sentence B: \"It is hotter at the top of a mountain than at the base of the mountain\"\\n",
+        "input": "",
+        "output": "The higher up a mountain you go, the colder it gets.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Which of these sentences doesn't make sense?\\nOptions:\\n- Sentence A: \"The woman slept in her computer.\"\\n- Sentence B: \"The woman slept in her bed.\"\\n",
+        "input": "",
+        "output": "Computers are not large enough for people to sleep in.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Of the following two sentences, which one is against common sense?\\nOptions:\\n- Sentence A: \"A fox is a bird\"\\n- Sentence B: \"A fox is an animal\"\\n",
+        "input": "",
+        "output": "A fox has 4 legs and cannot fly.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Choose the sentence that goes against common sense.\\nOptions:\\n- Sentence A: \"We can trap a mouse using a mouse trap\"\\n- Sentence B: \"We can trap a tiger using a mouse trap\"\\n",
+        "input": "",
+        "output": "A tiger is much larger than a mouse trap.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "One of the following sentences is nonsensical. Which one is it?\\nOptions:\\n- Sentence A: \"when America is during wintertime, Australia is also during wintertime\"\\n- Sentence B: \"when America is during wintertime, Australia is during summer time\"\\n",
+        "input": "",
+        "output": "Australia is in the southern hemisphere so when America is in wintertime, Australia is in summertime unless it is South America.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Which of the following two sentences does not make sense?\\nOptions:\\n- Sentence A: \"fish live in the desert\"\\n- Sentence B: \"cactuses live in the desert\"\\n",
+        "input": "",
+        "output": "Fish survive in water, and would die in the desert.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "One of the following sentences is nonsensical. Which one is it?\\nOptions:\\n- Sentence A: \"she writes to her pen pal because they cannot meet each other\"\\n- Sentence B: \"she writes to her pen pal because they meet each other every day\"\\n",
+        "input": "",
+        "output": "Normally you write to a pen pal that you have never met in person (someone far away) or someone you do not see often.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Pick which sentence is not logical.\\nOptions:\\n- Sentence A: \"December is the 13th month of a year\"\\n- Sentence B: \"December is the 12th month of a year\"\\n",
+        "input": "",
+        "output": "There are only 12 months in a year.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Of the following two sentences, which one is against common sense?\\nOptions:\\n- Sentence A: \"People use cars to keep in touch with friends thousands of miles away\"\\n- Sentence B: \"People use cell phones to keep in touch with friends thousands of miles away\"\\n",
+        "input": "",
+        "output": "Cars cannot be used to keep in touch with people across the ocean.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Which of the following sentences is nonsensical?\\nOptions:\\n- Sentence A: \"we haven't found a substitute for his planet\"\\n- Sentence B: \"we haven't found a substitute for his job\"\\n",
+        "input": "",
+        "output": "Finding a substitute planet is a very difficult proposition, requiring many very specific conditions to be met to sustain life.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Of the following two sentences, which one is against common sense?\\nOptions:\\n- Sentence A: \"He ironed his food to warm it up.\"\\n- Sentence B: \"He microwaved his food to warm it up.\"\\n",
+        "input": "",
+        "output": "An iron is used for getting wrinkles out of clothes and a microwave is used for heating up food.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Which of the following two sentences does not make sense?\\nOptions:\\n- Sentence A: \"He wiped things with toilet paper.\"\\n- Sentence B: \"He wiped things with a stick.\"\\n",
+        "input": "",
+        "output": "A stick is inadequate for the purpose of wiping, as it is better used for scraping and would leave scratches.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Which of these sentences doesn't make sense?\\nOptions:\\n- Sentence A: \"All rich people are immoral\"\\n- Sentence B: \"Not all rich people are immoral\"\\n",
+        "input": "",
+        "output": "Moral standards vary depending on who you ask.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Pick which sentence is not logical.\\nOptions:\\n- Sentence A: \"Frogs are amphibians\"\\n- Sentence B: \"Frogs aren't amphibians\"\\n",
+        "input": "",
+        "output": "Frogs can live both on water and land.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Choose the sentence that goes against common sense.\\nOptions:\\n- Sentence A: \"In school, you should not obey the rules and regulations.\"\\n- Sentence B: \"In school, you should obey the rules and regulations.\"\\n",
+        "input": "",
+        "output": "If you do not obey rules and regulations in school it will be chaos and nobody will be able to learn.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Of the below sentences, which one does *not* make sense?\\nOptions:\\n- Sentence A: \"I bought a suitcase at the mall\"\\n- Sentence B: \"I bought a lion at the mall\"\\n",
+        "input": "",
+        "output": "Lions cannot be bought at malls, or even in general other than in very rare cases.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Which of these sentences doesn't make sense?\\nOptions:\\n- Sentence A: \"Some doors open by turning the knob and pulling.\"\\n- Sentence B: \"All doors open by pulling them down and pushing them into the ground.\"\\n",
+        "input": "",
+        "output": "Pulling and pushing doors down into the ground make them get stuck.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Of the below sentences, which one does *not* make sense?\\nOptions:\\n- Sentence A: \"Wi-fi has greatly facilitated people's lives\"\\n- Sentence B: \"Wi-fi is not very helpful to people's lives.\"\\n",
+        "input": "",
+        "output": "With wi-fi, people can work and chat online free of charge anytime, anywhere.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Pick which sentence is not logical.\\nOptions:\\n- Sentence A: \"He explained detailed steps on the sky to all the students\"\\n- Sentence B: \"He explained detailed steps on the white board to all the students\"\\n",
+        "input": "",
+        "output": "The steps can't be written on the sky.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Of the following two sentences, which one is against common sense?\\nOptions:\\n- Sentence A: \"You look at a clock to tell the temperature\"\\n- Sentence B: \"You look at a clock to tell the time\"\\n",
+        "input": "",
+        "output": "The temperature won't be shown on a clock.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Which of the following two sentences does not make sense?\\nOptions:\\n- Sentence A: \"I used paper bags to be environmentally friendly\"\\n- Sentence B: \"I used plastic bags to be environmentally friendly\"\\n",
+        "input": "",
+        "output": "Plastic itself is not good for the environment.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Which of the following sentences is nonsensical?\\nOptions:\\n- Sentence A: \"I take a shower in 200degrees Celsius\"\\n- Sentence B: \"I take a shower in 40degrees Celsius\"\\n",
+        "input": "",
+        "output": "Taking a shower in overly hot water would cause a person to get scaled.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Which of these sentences doesn't make sense?\\nOptions:\\n- Sentence A: \"for breakfast I had one thick slice of bread\"\\n- Sentence B: \"for breakfast I had one thick slice of water\"\\n",
+        "input": "",
+        "output": "Water is a liquid that cannot be cut into slices.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Which of these sentences doesn't make sense?\\nOptions:\\n- Sentence A: \"She put a phone in her bag.\"\\n- Sentence B: \"She put a house in her purse.\"\\n",
+        "input": "",
+        "output": "A house is much larger than a purse.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Which of these sentences doesn't make sense?\\nOptions:\\n- Sentence A: \"Many died in the storm.\"\\n- Sentence B: \"Many felt hot in the storm\"\\n",
+        "input": "",
+        "output": "Storms have lots of water which can be too cold for people.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Which of the following two sentences does not make sense?\\nOptions:\\n- Sentence A: \"Watching video for the whole day is good for your eyes\"\\n- Sentence B: \"Watching video for the whole day is not good for your eyes\"\\n",
+        "input": "",
+        "output": "Long exposure times to video screens hurts eyes.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Of the below sentences, which one does *not* make sense?\\nOptions:\\n- Sentence A: \"Some lemon juice will help to cure your cold\"\\n- Sentence B: \"Some lemon juice will help to cure your cancer\"\\n",
+        "input": "",
+        "output": "Lemon juice can do a lot of things, but curing cancer is not one of them.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "One of the following sentences is nonsensical. Which one is it?\\nOptions:\\n- Sentence A: \"the peacock can spread its tail\"\\n- Sentence B: \"the dog can spread its tail\"\\n",
+        "input": "",
+        "output": "A dog's tail is always too thin and linear to spread.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Which of these sentences doesn't make sense?\\nOptions:\\n- Sentence A: \"I am on the plane\"\\n- Sentence B: \"I an on the wings of the plane\"\\n",
+        "input": "",
+        "output": "We would fall off the wings of the plane.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Pick which sentence is not logical.\\nOptions:\\n- Sentence A: \"To have a conversation, you need at least 2 people.\"\\n- Sentence B: \"To have a conversation, you need just one person.\"\\n",
+        "input": "",
+        "output": "It takes at least two people to have a conversation.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Of the below sentences, which one does *not* make sense?\\nOptions:\\n- Sentence A: \"Jeans are a piece of traditional Japanese clothing.\"\\n- Sentence B: \"Kimonos are a piece of traditional Japanese clothing.\"\\n",
+        "input": "",
+        "output": "Jeans are American and are not a part of traditional Japanese clothing.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "One of the following sentences is nonsensical. Which one is it?\\nOptions:\\n- Sentence A: \"we are vaccinated for the cure of the disease\"\\n- Sentence B: \"we are vaccinated for disease prevention\"\\n",
+        "input": "",
+        "output": "You get vaccinated for the disease, not the cure of the disease.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Which of the following sentences is nonsensical?\\nOptions:\\n- Sentence A: \"the shape of ice is changeable\"\\n- Sentence B: \"the shape of water is changeable\"\\n",
+        "input": "",
+        "output": "Once ice freezes its stuck the way it is until melted.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Choose the sentence that goes against common sense.\\nOptions:\\n- Sentence A: \"there's much water in the desert\"\\n- Sentence B: \"there's much sand in the desert\"\\n",
+        "input": "",
+        "output": "There is almost no water in the desert.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Of the following two sentences, which one is against common sense?\\nOptions:\\n- Sentence A: \"a balloon can illuminate the entire room\"\\n- Sentence B: \"a candle can illuminate the entire room\"\\n",
+        "input": "",
+        "output": "A balloon can not illuminate the entire room.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Choose the sentence that goes against common sense.\\nOptions:\\n- Sentence A: \"Kate and her partner help each other.\"\\n- Sentence B: \"Kate and her opponent help each other.\"\\n",
+        "input": "",
+        "output": "It's wrong because opponents are in a competitive relationship.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Pick which sentence is not logical.\\nOptions:\\n- Sentence A: \"The girl played on the cat at the park.\"\\n- Sentence B: \"The girl played on the swings at the park.\"\\n",
+        "input": "",
+        "output": "A cat is too small to play on.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Which of these sentences doesn't make sense?\\nOptions:\\n- Sentence A: \"you may cook food well by following a recipe\"\\n- Sentence B: \"you can definitely cook food well by following a recipe\"\\n",
+        "input": "",
+        "output": "Following a recipe is not cooking it is preparing.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Of the following two sentences, which one is against common sense?\\nOptions:\\n- Sentence A: \"Caesar has secretly raised opponents in the enemy country and they will put Caesar's rival down the throne\"\\n- Sentence B: \"Caesar has secretly raised opponents in the enemy country and they will pull Caesar's rival down the throne\"\\n",
+        "input": "",
+        "output": "Putting his rival down the thrown would not be beneficial to Caesar.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Which of the following two sentences does not make sense?\\nOptions:\\n- Sentence A: \"a car is faster than a bike\"\\n- Sentence B: \"a car is slower than a bike\"\\n",
+        "input": "",
+        "output": "A car is motorized while a bike is not, therefore it is faster and not slower than a bike.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Which of the following sentences is nonsensical?\\nOptions:\\n- Sentence A: \"People walk around naked\"\\n- Sentence B: \"People wear clothes\"\\n",
+        "input": "",
+        "output": "People should wear clothes if they are going to be walking around where others can see them.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "One of the following sentences is nonsensical. Which one is it?\\nOptions:\\n- Sentence A: \"You'd better drive fast when it rains heavily.\"\\n- Sentence B: \"You'd better drive slowly when it rains heavily.\"\\n",
+        "input": "",
+        "output": "Speeding up on a rainy day can easily lead to a car accident.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "One of the following sentences is nonsensical. Which one is it?\\nOptions:\\n- Sentence A: \"Staying up all night is good for your health\"\\n- Sentence B: \"Staying up all night is bad for your health\"\\n",
+        "input": "",
+        "output": "It's not healthy to stay up all night.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Which of the following two sentences does not make sense?\\nOptions:\\n- Sentence A: \"She parked her car on top of mine\"\\n- Sentence B: \"She parked her car behind mine\"\\n",
+        "input": "",
+        "output": "Car cannot park on the top of mine.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Of the following two sentences, which one is against common sense?\\nOptions:\\n- Sentence A: \"The sun rises in the East\"\\n- Sentence B: \"The sun rises in the West\"\\n",
+        "input": "",
+        "output": "The sun rises in the East and sets in the West.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Of the below sentences, which one does *not* make sense?\\nOptions:\\n- Sentence A: \"he made the sandwich using bread and mayonnaise\"\\n- Sentence B: \"he made the chair using bread and mayonnaise\"\\n",
+        "input": "",
+        "output": "Chairs are usually made out of wood or another material, but not food.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Choose the sentence that goes against common sense.\\nOptions:\\n- Sentence A: \"they like to hold the baby,\"\\n- Sentence B: \"they like to hold the tiger,\"\\n",
+        "input": "",
+        "output": "It would be incredibly dangerous to hold a tiger.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Of the following two sentences, which one is against common sense?\\nOptions:\\n- Sentence A: \"Plastic bottles can hold boiling water.\"\\n- Sentence B: \"Glass bottles can hold boiling water.\"\\n",
+        "input": "",
+        "output": "Plastic bottles are not strong enough for boiling water.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Which of the following sentences is nonsensical?\\nOptions:\\n- Sentence A: \"There may be a big city on earth.\"\\n- Sentence B: \"There may be a big city on Mars.\"\\n",
+        "input": "",
+        "output": "Mars is not suitable for human habitation and there is no city.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Which of these sentences doesn't make sense?\\nOptions:\\n- Sentence A: \"\"My brother was killed in the car crash\", he said\"\\n- Sentence B: \"\"I was killed in the car crash\", he said\"\\n",
+        "input": "",
+        "output": "A person cannot tell you they were killed in a car crash.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Pick which sentence is not logical.\\nOptions:\\n- Sentence A: \"he went to the medical shop to eat breakfast\"\\n- Sentence B: \"he went to the hotel to eat breakfast\"\\n",
+        "input": "",
+        "output": "A medical shop sells medical equipment not food.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Of the below sentences, which one does *not* make sense?\\nOptions:\\n- Sentence A: \"There is a butterfly dancing on the flowers.\"\\n- Sentence B: \"There is a dog dancing on a flower.\"\\n",
+        "input": "",
+        "output": "A flower is too small for a dog to dance on.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Of the below sentences, which one does *not* make sense?\\nOptions:\\n- Sentence A: \"Because his car was damaged, he received RMB 1000 from insurance company\"\\n- Sentence B: \"Because his car was damaged, he received RMB 1000 from electricity company\"\\n",
+        "input": "",
+        "output": "Damaged cars aren't something that electricity companies deal with.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Choose the sentence that goes against common sense.\\nOptions:\\n- Sentence A: \"The patient diagnosed the doctor's symptoms.\"\\n- Sentence B: \"The doctor diagnosed the patient's symptoms.\"\\n",
+        "input": "",
+        "output": "Doctors are responsible for the diagnosis of patients, not the other way around.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Of the below sentences, which one does *not* make sense?\\nOptions:\\n- Sentence A: \"Low blood pressure is a hazardous way to diet and lose weight.\"\\n- Sentence B: \"A diet is a great way to lower blood pressure, and lose weight.\"\\n",
+        "input": "",
+        "output": "Lowering high blood pressure, and weight loss is the result of eating healthy and exercising.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "One of the following sentences is nonsensical. Which one is it?\\nOptions:\\n- Sentence A: \"I closed the window when it rained\"\\n- Sentence B: \"I opened the window when it rained\"\\n",
+        "input": "",
+        "output": "Opening the window would allow the rain water to get into the house and perhaps damage it.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Which of the following two sentences does not make sense?\\nOptions:\\n- Sentence A: \"He eats breakfast in the evening.\"\\n- Sentence B: \"He eats breakfast in the morning.\"\\n",
+        "input": "",
+        "output": "The evening food is called tiffin or snacks and not breakfast.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Which of the following sentences is nonsensical?\\nOptions:\\n- Sentence A: \"Sunny gets excited when she makes mistakes at work\"\\n- Sentence B: \"Sunny gets nervous when she makes mistakes at work\"\\n",
+        "input": "",
+        "output": "Making mistakes at work is bad thing to do.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Which of these sentences doesn't make sense?\\nOptions:\\n- Sentence A: \"when somebody is sad, he will cry\"\\n- Sentence B: \"when somebody is sad ,he will laugh\"\\n",
+        "input": "",
+        "output": "Laughing is a sign of joy, therefore if somebody is sad, he would not laugh.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Of the following two sentences, which one is against common sense?\\nOptions:\\n- Sentence A: \"he opened the coke with the opener\"\\n- Sentence B: \"he opened the coke with the thread\"\\n",
+        "input": "",
+        "output": "No one uses thread to open up a bottle or can of coke.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Which of the following two sentences does not make sense?\\nOptions:\\n- Sentence A: \"I like to add some soil sauce in my noodle\"\\n- Sentence B: \"I like to add some face washer in my noodle\"\\n",
+        "input": "",
+        "output": "Face wash would make the noodles taste soapy and therefore yucky.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Which of the following two sentences does not make sense?\\nOptions:\\n- Sentence A: \"He was scratched by the blade\"\\n- Sentence B: \"He was scratched by the water\"\\n",
+        "input": "",
+        "output": "Water does not scratch people, it is too yielding for that.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "One of the following sentences is nonsensical. Which one is it?\\nOptions:\\n- Sentence A: \"I keep things orderly so that I can find something quick\"\\n- Sentence B: \"I keep things messy so that I can find something quick\"\\n",
+        "input": "",
+        "output": "More clutter makes it harder to find things.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Choose the sentence that goes against common sense.\\nOptions:\\n- Sentence A: \"You need stamps when you post a letter.\"\\n- Sentence B: \"You need staples when you post a letter.\"\\n",
+        "input": "",
+        "output": "Staple is not necessary for posting a letter.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Which of the following two sentences does not make sense?\\nOptions:\\n- Sentence A: \"He drove a chicken into the parking garage.\"\\n- Sentence B: \"He drove a car into the parking garage.\"\\n",
+        "input": "",
+        "output": "A chicken is an animal and cannot be driven.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Of the following two sentences, which one is against common sense?\\nOptions:\\n- Sentence A: \"I frequently go on vacation.\"\\n- Sentence B: \"I frequently go on water.\"\\n",
+        "input": "",
+        "output": "It is not possible to go on water.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Which of these sentences doesn't make sense?\\nOptions:\\n- Sentence A: \"You are likely to find rice in a toilet\"\\n- Sentence B: \"You are likely to find water in a toilet\"\\n",
+        "input": "",
+        "output": "Rice is not typically stored in toilets nor would it be beneficial to put rice in a toilet.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Which of the following sentences is nonsensical?\\nOptions:\\n- Sentence A: \"I love watching films so I usually go to the cinema\"\\n- Sentence B: \"I love watching films so I usually go to the school\"\\n",
+        "input": "",
+        "output": "Watching films is not a large part of usual school activities.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Which of these sentences doesn't make sense?\\nOptions:\\n- Sentence A: \"a bowl used for cutting salad\"\\n- Sentence B: \"a bowl used for holding salad\"\\n",
+        "input": "",
+        "output": "A bowls edge is not sharp enough to cut a salad, so we use it to hold food instead.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Which of the following two sentences does not make sense?\\nOptions:\\n- Sentence A: \"I like to sing loudly when watching movies in the cinema\"\\n- Sentence B: \"I like to eat popcorn when watching movies in the cinema\"\\n",
+        "input": "",
+        "output": "It is important to be quiet in the cinema.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "One of the following sentences is nonsensical. Which one is it?\\nOptions:\\n- Sentence A: \"Trees are making movies.\"\\n- Sentence B: \"actors are making movies.\"\\n",
+        "input": "",
+        "output": "Trees have no ability to think and act.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Which of the following two sentences does not make sense?\\nOptions:\\n- Sentence A: \"Angela called the commercials because she was at risk\"\\n- Sentence B: \"Angela called the police because she was at risk\"\\n",
+        "input": "",
+        "output": "You can call an entity and a commercial is not an entity.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Which of the following two sentences does not make sense?\\nOptions:\\n- Sentence A: \"A person wants to share his life with someone he loves.\"\\n- Sentence B: \"A person wants to share his life with someone he hates.\"\\n",
+        "input": "",
+        "output": "It's hard for a person to share something with someone he hates.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "One of the following sentences is nonsensical. Which one is it?\\nOptions:\\n- Sentence A: \"A flower may blossom again, but a person cannot get young again.\"\\n- Sentence B: \"A flower may blossom again, and a person can also get young again.\"\\n",
+        "input": "",
+        "output": "A person can never get young again as he cannot turn back the clock.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Which of the following two sentences does not make sense?\\nOptions:\\n- Sentence A: \"heroin is good for people\"\\n- Sentence B: \"heroin is bad for people.\"\\n",
+        "input": "",
+        "output": "Heroin is considered to have adverse health effects.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Which of the following sentences is nonsensical?\\nOptions:\\n- Sentence A: \"Bacteria's wearing pants.\"\\n- Sentence B: \"Jony's wearing pants.\"\\n",
+        "input": "",
+        "output": "In order to wear pants legs are required.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Pick which sentence is not logical.\\nOptions:\\n- Sentence A: \"Only South Koreans like kimchi\"\\n- Sentence B: \"South Koreans like kimchi\"\\n",
+        "input": "",
+        "output": "Kimchi is a Korean food that is now enjoyed in many parts of the world.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Choose the sentence that goes against common sense.\\nOptions:\\n- Sentence A: \"Danis put his clothes into the washing machine\"\\n- Sentence B: \"Danis put his smartphone into the washing machine\"\\n",
+        "input": "",
+        "output": "Washing machine is used to wash the clothes.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Choose the sentence that goes against common sense.\\nOptions:\\n- Sentence A: \"Baby combs his hair with a comb.\"\\n- Sentence B: \"Baby combs his hair with a mirror.\"\\n",
+        "input": "",
+        "output": "A mirror does not have the teeth necessary to comb hair.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Which of the following sentences is nonsensical?\\nOptions:\\n- Sentence A: \"She danced with a whale.\"\\n- Sentence B: \"She danced with a man.\"\\n",
+        "input": "",
+        "output": "Whales do not have legs and thus can not dance or even walk.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Which of these sentences doesn't make sense?\\nOptions:\\n- Sentence A: \"Four plus six equals ten\"\\n- Sentence B: \"Ten plus six equals ten\"\\n",
+        "input": "",
+        "output": "You cannot add to ten and still equal ten.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Choose the sentence that goes against common sense.\\nOptions:\\n- Sentence A: \"I read a tiger\"\\n- Sentence B: \"I read a book\"\\n",
+        "input": "",
+        "output": "Tiger is not a book or any sentence, It is living thing.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Pick which sentence is not logical.\\nOptions:\\n- Sentence A: \"Bicycles can drive faster than cars.\"\\n- Sentence B: \"Cars can drive faster than bicycles.\"\\n",
+        "input": "",
+        "output": "Bicycles are human powered, and cannot be faster than cars.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Which of the following sentences is nonsensical?\\nOptions:\\n- Sentence A: \"The piano was sick.\"\\n- Sentence B: \"The girl was sick.\"\\n",
+        "input": "",
+        "output": "Only living things can become sick and a piano is not alive.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "One of the following sentences is nonsensical. Which one is it?\\nOptions:\\n- Sentence A: \"London is the captain of England.\"\\n- Sentence B: \"London is the capital of England.\"\\n",
+        "input": "",
+        "output": "London is not a captain but a city.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Which of the following sentences is nonsensical?\\nOptions:\\n- Sentence A: \"All cars burn oil.\"\\n- Sentence B: \"Not all cars burn oil.\"\\n",
+        "input": "",
+        "output": "Electric cars are powered by electricity, not oil.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Of the below sentences, which one does *not* make sense?\\nOptions:\\n- Sentence A: \"If you don't understand, you should ask questions.\"\\n- Sentence B: \"If you don't understand, you should not ask questions.\"\\n",
+        "input": "",
+        "output": "Asking questions others can help you understand the problem from another angle.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Which of the following sentences is nonsensical?\\nOptions:\\n- Sentence A: \"The conductor is selling goods to customers.\"\\n- Sentence B: \"The salesman is selling goods to customers.\"\\n",
+        "input": "",
+        "output": "Ticket sellers are responsible for selling tickets at stations or scenic spots.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Which of the following two sentences does not make sense?\\nOptions:\\n- Sentence A: \"People use soap to shower.\"\\n- Sentence B: \"People use dirt to shower.\"\\n",
+        "input": "",
+        "output": "Using dirt to shower would eliminate the purpose of showering.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Choose the sentence that goes against common sense.\\nOptions:\\n- Sentence A: \"Guitar is one of my favorite sports.\"\\n- Sentence B: \"Badminton is one of my favorite sports.\"\\n",
+        "input": "",
+        "output": "The guitar is an instrument but not a sport.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Which of the following sentences is nonsensical?\\nOptions:\\n- Sentence A: \"Air is very important to human beings.\"\\n- Sentence B: \"Air is not important to human beings.\"\\n",
+        "input": "",
+        "output": "Air is a requirement for human beings to live, and we'd all be dead without it.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Choose the sentence that goes against common sense.\\nOptions:\\n- Sentence A: \"Snow fell from the ocean.\"\\n- Sentence B: \"Snow fell from the sky.\"\\n",
+        "input": "",
+        "output": "Snow falls from clouds that form in the outer atmosphere.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Which of the following two sentences does not make sense?\\nOptions:\\n- Sentence A: \"family members are close to us\"\\n- Sentence B: \"strangers are close to us\"\\n",
+        "input": "",
+        "output": "Strangers can't be close to a person because a stranger doesn't know that person.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Pick which sentence is not logical.\\nOptions:\\n- Sentence A: \"The woman went to sleep in her chair.\"\\n- Sentence B: \"The woman went to sleep in her cup.\"\\n",
+        "input": "",
+        "output": "A cup is much too small for a person to sleep in.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Pick which sentence is not logical.\\nOptions:\\n- Sentence A: \"Driving needs leather shoes\"\\n- Sentence B: \"Driving requires a driver's license\"\\n",
+        "input": "",
+        "output": "You can drive wearing any kind of shoes.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "One of the following sentences is nonsensical. Which one is it?\\nOptions:\\n- Sentence A: \"joey used a mop to dry himself\"\\n- Sentence B: \"joey used a towel to dry himself\"\\n",
+        "input": "",
+        "output": "Mops are used for cleaning floors, not people.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "One of the following sentences is nonsensical. Which one is it?\\nOptions:\\n- Sentence A: \"Children can receive knowledge from their teachers.\"\\n- Sentence B: \"Children can receive knowledge only from their teachers.\"\\n",
+        "input": "",
+        "output": "Teachers are not the only source where children can receive knowledge.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Choose the sentence that goes against common sense.\\nOptions:\\n- Sentence A: \"Joe was late to work becasue he missed his wife.\"\\n- Sentence B: \"Joe was late to work becasue he missed his train.\"\\n",
+        "input": "",
+        "output": "Missing one's wife does not cause one to be late.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Which of the following two sentences does not make sense?\\nOptions:\\n- Sentence A: \"She sewed an outfit on the sewing machine. She sewed a\"\\n- Sentence B: \"door on the sewing machine. A door is too\"\\n",
+        "input": "",
+        "output": "Doors are made of wood, a material that a sewing machine cannot utilize.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Which of the following two sentences does not make sense?\\nOptions:\\n- Sentence A: \"He put some clothes in the laundry machine.\"\\n- Sentence B: \"He put some icebergs in the laundry machine.\"\\n",
+        "input": "",
+        "output": "An iceberg cannot fit into a laundry machine.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Which of the following sentences is nonsensical?\\nOptions:\\n- Sentence A: \"Human beings can absorb solar energy\"\\n- Sentence B: \"Plants can absorb solar energy\"\\n",
+        "input": "",
+        "output": "Human beings do not possess the biological functions necessary to facilitate the use of solar energy.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "One of the following sentences is nonsensical. Which one is it?\\nOptions:\\n- Sentence A: \"He went to the hospital to withdraw money.\"\\n- Sentence B: \"He went to the bank to withdraw money.\"\\n",
+        "input": "",
+        "output": "The hospital is for getting better when you are sick, not for withdrawing money.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "One of the following sentences is nonsensical. Which one is it?\\nOptions:\\n- Sentence A: \"People should wear short sleeves in winter\"\\n- Sentence B: \"People should wear a coat in winter\"\\n",
+        "input": "",
+        "output": "Winter includes very cold temperatures so a short sleeve would not provide enough protection.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Which of these sentences doesn't make sense?\\nOptions:\\n- Sentence A: \"Running in the hallway is not safe\"\\n- Sentence B: \"Running in the athletic track is not safe\"\\n",
+        "input": "",
+        "output": "Athlethic tracks are designed for running and are generally safe.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Of the following two sentences, which one is against common sense?\\nOptions:\\n- Sentence A: \"If you worked harder, you would have passed the exam.\"\\n- Sentence B: \"If you played too much, you could pass the exam.\"\\n",
+        "input": "",
+        "output": "If a student plays too much and is not hardworking, he has less chance to pass the exam.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Of the following two sentences, which one is against common sense?\\nOptions:\\n- Sentence A: \"Dolphins combing their hair\"\\n- Sentence B: \"She is combing her hair.\"\\n",
+        "input": "",
+        "output": "Dolphins do not have hands to comb hair with.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Which of the following two sentences does not make sense?\\nOptions:\\n- Sentence A: \"I often go to the library to borrow money.\"\\n- Sentence B: \"I often go to the library to borrow books.\"\\n",
+        "input": "",
+        "output": "The library does not offer the service of borrowing money.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Choose the sentence that goes against common sense.\\nOptions:\\n- Sentence A: \"cars have wheels\"\\n- Sentence B: \"ships have wheels\"\\n",
+        "input": "",
+        "output": "Ships sails on water by the principles of buoyancy and density which do not has wheels.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Of the following two sentences, which one is against common sense?\\nOptions:\\n- Sentence A: \"The school bully took my lunch money\"\\n- Sentence B: \"The school curriculum took my lunch money\"\\n",
+        "input": "",
+        "output": "The school curriculum is not a thing to took the lunch money.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Of the following two sentences, which one is against common sense?\\nOptions:\\n- Sentence A: \"The common people are the most powerful people in ancient times\"\\n- Sentence B: \"The emperor was the most powerful man in ancient times.\"\\n",
+        "input": "",
+        "output": "The common people had no rights in ancient times.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "One of the following sentences is nonsensical. Which one is it?\\nOptions:\\n- Sentence A: \"lily hid behind a chair\"\\n- Sentence B: \"lily hid behind a hair\"\\n",
+        "input": "",
+        "output": "Typically a (single) hair is way too thin and small for a entire person to hide behind.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Which of these sentences doesn't make sense?\\nOptions:\\n- Sentence A: \"There are lions, elephants and tigers in the zoo.\"\\n- Sentence B: \"There are lions, elephants and tigers in the park.\"\\n",
+        "input": "",
+        "output": "There are no big animals in the park.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Which of the following sentences is nonsensical?\\nOptions:\\n- Sentence A: \"the boy felt homesick in another country\"\\n- Sentence B: \"the boy felt homesick at his parent's\"\\n",
+        "input": "",
+        "output": "The boy felt homesick at a stranger's house.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Which of these sentences doesn't make sense?\\nOptions:\\n- Sentence A: \"Driver is a person who fits and repairs the pipes, fittings, and other apparatus of water supply\"\\n- Sentence B: \"Plumber is a person who fits and repairs the pipes, fittings, and other apparatus of water supply\"\\n",
+        "input": "",
+        "output": "A driver does not repair pipes or water supplies, he drives a vehicle.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Which of the following two sentences does not make sense?\\nOptions:\\n- Sentence A: \"the water in the river has color and smell because it is getting cleaner and cleaner\"\\n- Sentence B: \"the water in the river has color and smell because it is getting dirtier and dirtier\"\\n",
+        "input": "",
+        "output": "There is no smell or colour in a clean river.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Of the below sentences, which one does *not* make sense?\\nOptions:\\n- Sentence A: \"I saw spiderman spraying silk\"\\n- Sentence B: \"I saw iron man spraying silk\"\\n",
+        "input": "",
+        "output": "Iron man sprays sparks into the air as his metal scrapes the ground, silk is too soft of a medium for his super hero work.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Choose the sentence that goes against common sense.\\nOptions:\\n- Sentence A: \"Amy is happy to know that her best friend has recovered from the illness\"\\n- Sentence B: \"Amy is angry to know that her best friend has recovered from the illness\"\\n",
+        "input": "",
+        "output": "Amy should be happy if her friend is recovered.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Which of the following sentences is nonsensical?\\nOptions:\\n- Sentence A: \"Curtains let more light into the room.\"\\n- Sentence B: \"Curtains stop light from entering the room.\"\\n",
+        "input": "",
+        "output": "Curtains are a physical barrier for the light.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Of the below sentences, which one does *not* make sense?\\nOptions:\\n- Sentence A: \"Roses are pretty chickens\"\\n- Sentence B: \"Roses are pretty flowers\"\\n",
+        "input": "",
+        "output": "Roses are plants and chickens are animals and these are two seperate groups.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Of the below sentences, which one does *not* make sense?\\nOptions:\\n- Sentence A: \"He put a fridge in a chicken.\"\\n- Sentence B: \"He put a chicken in the fridge.\"\\n",
+        "input": "",
+        "output": "A fridge cannot fit inside a chicken, nor would anyone try to make such a thing happen.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Choose the sentence that goes against common sense.\\nOptions:\\n- Sentence A: \"Mike is such a hypocritical person that he's well-liked among friends.\"\\n- Sentence B: \"Mike is such a genuine person that he's well-liked among friends.\"\\n",
+        "input": "",
+        "output": "A hypothetical person always lies to others, and people usually don't like to make friends with a liar.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Which of the following sentences is nonsensical?\\nOptions:\\n- Sentence A: \"children can play on the highway\"\\n- Sentence B: \"Children can play in the yard\"\\n",
+        "input": "",
+        "output": "Highways are very dangerous and not meant for anyone who is not in a car.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Pick which sentence is not logical.\\nOptions:\\n- Sentence A: \"This sentence is neutral.\"\\n- Sentence B: \"This sentence is false.\"\\n",
+        "input": "",
+        "output": "That sentence was a paradox because it is neither true nor false.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "One of the following sentences is nonsensical. Which one is it?\\nOptions:\\n- Sentence A: \"It helps mark the rail so we don't get lost.\"\\n- Sentence B: \"It helps mark the trail so we don't get lost.\"\\n",
+        "input": "",
+        "output": "If you have a rail to hold you can not get lost.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Of the following two sentences, which one is against common sense?\\nOptions:\\n- Sentence A: \"Water spray gun can barbecue\"\\n- Sentence B: \"Fire torch can barbecue\"\\n",
+        "input": "",
+        "output": "Water is not combustible, therefore it cannot be for the purpose of barbecuing.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Which of the following sentences is nonsensical?\\nOptions:\\n- Sentence A: \"the student chewing gum in class was forced to spit it out\"\\n- Sentence B: \"the student chewing gum in class was forced to swallow it in\"\\n",
+        "input": "",
+        "output": "Someone caught chewing gum in class would likely be asked to spit it out, not to swallow it.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Pick which sentence is not logical.\\nOptions:\\n- Sentence A: \"Computers use a mouse and keyboard to work.\"\\n- Sentence B: \"Computers use a dog and cheese to work.\"\\n",
+        "input": "",
+        "output": "A dog and a piece of cheese has nothing to do with how computers work.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Which of the following two sentences does not make sense?\\nOptions:\\n- Sentence A: \"He put the guniea pig in the fridge.\"\\n- Sentence B: \"He put celery and carrots for the guniea pig in the fridge.\"\\n",
+        "input": "",
+        "output": "A guniea pig does not live in a fridge.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Which of the following two sentences does not make sense?\\nOptions:\\n- Sentence A: \"Walls are always painted\"\\n- Sentence B: \"Walls are never painted\"\\n",
+        "input": "",
+        "output": "Walls can be painted at anytime with no restrictions.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Which of the following two sentences does not make sense?\\nOptions:\\n- Sentence A: \"You would feed your family because you want them to be happy and healthy\"\\n- Sentence B: \"You would feed your family because you want them to be dismay and healthy\"\\n",
+        "input": "",
+        "output": "Feeding our family will not make them dismay.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Of the below sentences, which one does *not* make sense?\\nOptions:\\n- Sentence A: \"The music played by table can give people a relaxing atmosphere\"\\n- Sentence B: \"The music played by piano can give people a relaxing atmosphere\"\\n",
+        "input": "",
+        "output": "Table does not use to play the music to relax the people.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Choose the sentence that goes against common sense.\\nOptions:\\n- Sentence A: \"his mother got angry after he failed in the chemistry exam\"\\n- Sentence B: \"his mother got satisfied after he failed in the chemistry exam\"\\n",
+        "input": "",
+        "output": "His mother would be disappointed by his failure.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Choose the sentence that goes against common sense.\\nOptions:\\n- Sentence A: \"Excessive obesity is good for your health.\"\\n- Sentence B: \"Excessive obesity is bad for your health.\"\\n",
+        "input": "",
+        "output": "Excessive obese people are at risk for type 2 diabetes, sleep apnea, and heart disease.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Choose the sentence that goes against common sense.\\nOptions:\\n- Sentence A: \"Get more sleep if you want to get fit\"\\n- Sentence B: \"Exercise more if you want to get fit\"\\n",
+        "input": "",
+        "output": "Sleeping is relaxing and you cannot get fit if you are asleep.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Which of the following sentences is nonsensical?\\nOptions:\\n- Sentence A: \"Usually people sleep in kitchen\"\\n- Sentence B: \"Usually people sleep in bedroom\"\\n",
+        "input": "",
+        "output": "Kitchens are for cooking and it is not practical to sleep in the kitchen.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Pick which sentence is not logical.\\nOptions:\\n- Sentence A: \"Turner started her own restaurant business\"\\n- Sentence B: \"Turner started his own restaurant business.\"\\n",
+        "input": "",
+        "output": "Turner is a guy, so it would not be \"her\" business.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "One of the following sentences is nonsensical. Which one is it?\\nOptions:\\n- Sentence A: \"Cars float on the water\"\\n- Sentence B: \"Ships float on the water\"\\n",
+        "input": "",
+        "output": "Cars are not built as flotation devices; they have holes that water can penetrate, and they will sink.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "One of the following sentences is nonsensical. Which one is it?\\nOptions:\\n- Sentence A: \"I saw clouds floating in the sea.\"\\n- Sentence B: \"I saw clouds floating in the sky.\"\\n",
+        "input": "",
+        "output": "Clouds do not appear in the sea, but in the sky.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Pick which sentence is not logical.\\nOptions:\\n- Sentence A: \"he prints a negative picture as colored by Printing scanner\"\\n- Sentence B: \"he prints a negative picture as colored by Sack piece.\"\\n",
+        "input": "",
+        "output": "A sack piece does not produce a picture.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Which of the following two sentences does not make sense?\\nOptions:\\n- Sentence A: \"Cartons can be recycled.\"\\n- Sentence B: \"Nuts can be recycled.\"\\n",
+        "input": "",
+        "output": "Nuts are useless, so they can't be recycled.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Which of these sentences doesn't make sense?\\nOptions:\\n- Sentence A: \"He played guitar with his fingers\"\\n- Sentence B: \"He played guitar with his nose\"\\n",
+        "input": "",
+        "output": "Guitars have to be played with fingers that can string them.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Pick which sentence is not logical.\\nOptions:\\n- Sentence A: \"He posted a cat to his friend, but it never arrived.\"\\n- Sentence B: \"He posted a parcel to his friend, but it never arrived.\"\\n",
+        "input": "",
+        "output": "A cat is not accepted in postal service.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Of the below sentences, which one does *not* make sense?\\nOptions:\\n- Sentence A: \"I went out and immediately went out again.\"\\n- Sentence B: \"I came home and immediately went out again.\"\\n",
+        "input": "",
+        "output": "You cannot go out if you are already out.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Which of the following two sentences does not make sense?\\nOptions:\\n- Sentence A: \"Penguins can swim from the Antarctic to the Arctic\"\\n- Sentence B: \"Penguins can't swim from the Antarctic to the Arctic\"\\n",
+        "input": "",
+        "output": "The Arctic is too far away from the Antarctic for penguins to swim.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Which of the following two sentences does not make sense?\\nOptions:\\n- Sentence A: \"He changed the channel on the bullfrog.\"\\n- Sentence B: \"He changed the channel on the TV.\"\\n",
+        "input": "",
+        "output": "A bullfrog does not have channels like a televison.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Of the below sentences, which one does *not* make sense?\\nOptions:\\n- Sentence A: \"Lily met her boyfriend on the Moon\"\\n- Sentence B: \"Lily met her boyfriend at a bus station\"\\n",
+        "input": "",
+        "output": "There are no human habitants on the moon.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "One of the following sentences is nonsensical. Which one is it?\\nOptions:\\n- Sentence A: \"The balloon was pricked by a needle.\"\\n- Sentence B: \"The stone was pricked by a needle.\"\\n",
+        "input": "",
+        "output": "A stone is made of impervious hard material and can't be pricked by a needle.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Of the below sentences, which one does *not* make sense?\\nOptions:\\n- Sentence A: \"Lily put on a dress for a ball\"\\n- Sentence B: \"Lily put on a T-shirt for a ball\"\\n",
+        "input": "",
+        "output": "A woman is unlikely to wear a tee shirt to a ball.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Which of these sentences doesn't make sense?\\nOptions:\\n- Sentence A: \"fred turned up the volume of the radio\"\\n- Sentence B: \"fred turned up the capacity of the radio\"\\n",
+        "input": "",
+        "output": "Capacity is generally used to describe physical quantity, not volume.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "One of the following sentences is nonsensical. Which one is it?\\nOptions:\\n- Sentence A: \"You can use a stone to control a VCR\"\\n- Sentence B: \"You can use a finger to control a VCR\"\\n",
+        "input": "",
+        "output": "You need to use your fingers to control a VCR.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Which of the following sentences is nonsensical?\\nOptions:\\n- Sentence A: \"Fall is a time when trees branch and bud.\"\\n- Sentence B: \"Spring is a time when trees branch and bud.\"\\n",
+        "input": "",
+        "output": "Leaves of most trees turn yellow and fall in the fall.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Which of the following sentences is nonsensical?\\nOptions:\\n- Sentence A: \"he ate his chopsticks with chop suey\"\\n- Sentence B: \"he ate his chop suey with chopsticks\"\\n",
+        "input": "",
+        "output": "Chopsticks are utensils for eating food, and are not to be eaten.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Pick which sentence is not logical.\\nOptions:\\n- Sentence A: \"I watered the flowers every day, so it opened very well\"\\n- Sentence B: \"I did not water the flowers, so it opened very well\"\\n",
+        "input": "",
+        "output": "Flower would die, not open, if not watered.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Of the below sentences, which one does *not* make sense?\\nOptions:\\n- Sentence A: \"the yard was wet after several days of sunshine\"\\n- Sentence B: \"the yard was wet after several days of rain\"\\n",
+        "input": "",
+        "output": "The yard would not be wet after several days of sunshine.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Which of the following two sentences does not make sense?\\nOptions:\\n- Sentence A: \"Since he is about to leave, his roommates give him a surprise funeral\"\\n- Sentence B: \"Since he is about to leave, his roommates give him a surprise party\"\\n",
+        "input": "",
+        "output": "A funeral is only for someone who has died, not for someone who is just leaving a place.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Which of the following two sentences does not make sense?\\nOptions:\\n- Sentence A: \"They went out for breakfast and drank cappuccinos.\"\\n- Sentence B: \"They went out for breakfast and drank shoes.\"\\n",
+        "input": "",
+        "output": "Shoes are not a liquid and you can't drink them.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Which of the following two sentences does not make sense?\\nOptions:\\n- Sentence A: \"His mother died, and he was very sad.\"\\n- Sentence B: \"His mother died, and he was very happy.\"\\n",
+        "input": "",
+        "output": "The death of a loved one is a very sad thing.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Which of the following sentences is nonsensical?\\nOptions:\\n- Sentence A: \"Car fumes create air pollution.\"\\n- Sentence B: \"Car fumes don't create air pollution.\"\\n",
+        "input": "",
+        "output": "Car fumes mainly consist of hydrocarbon which pollutes the air.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Of the following two sentences, which one is against common sense?\\nOptions:\\n- Sentence A: \"For seafood allergic people, they'd better not to eat bread\"\\n- Sentence B: \"For seafood allergic people, they'd better not to eat oyster\"\\n",
+        "input": "",
+        "output": "Bread is not a seafood so it has no impact on people with a seafood allergy.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Which of the following two sentences does not make sense?\\nOptions:\\n- Sentence A: \"Her sister is a wall.\"\\n- Sentence B: \"Her sister is a lawyer.\"\\n",
+        "input": "",
+        "output": "A wall is not a person and cannot be a sister.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Which of the following two sentences does not make sense?\\nOptions:\\n- Sentence A: \"There was an ant wrapped around a tree.\"\\n- Sentence B: \"There was a snake wrapped around a tree.\"\\n",
+        "input": "",
+        "output": "Ants have a body that is too small to curl up in a tree.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Choose the sentence that goes against common sense.\\nOptions:\\n- Sentence A: \"Pilots need to work on the trains every day.\"\\n- Sentence B: \"Pilots need to work on the plane every day.\"\\n",
+        "input": "",
+        "output": "Pilots don't have anything to do with trains.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Which of the following two sentences does not make sense?\\nOptions:\\n- Sentence A: \"Aciel would have to carry her clothes and toothbrush in her backyard.\"\\n- Sentence B: \"Aciel would have to carry his clothes and toothbrush in his backpack.\"\\n",
+        "input": "",
+        "output": "It's not possible to pack personal items in a backyard.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Which of the following sentences is nonsensical?\\nOptions:\\n- Sentence A: \"Mr. King is a teacher and he teaches English in a school\"\\n- Sentence B: \"Mr. King is a farmer and he teaches English in a school\"\\n",
+        "input": "",
+        "output": "The job of a farmer is to grow crops.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Choose the sentence that goes against common sense.\\nOptions:\\n- Sentence A: \"Sleeping pills help refresh\"\\n- Sentence B: \"Coffee helps refresh\"\\n",
+        "input": "",
+        "output": "To be refresh we cannot use sleeping pills.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Which of the following sentences is nonsensical?\\nOptions:\\n- Sentence A: \"the man was showing off a wristwatch, he was trying to hock it for drug money\"\\n- Sentence B: \"the man was showing off a wristwatch, he was trying to donate it for drug money\"\\n",
+        "input": "",
+        "output": "If the man donated his wristwatch he would not have money for drugs.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Which of these sentences doesn't make sense?\\nOptions:\\n- Sentence A: \"The police caught the terrorist on time, stopped him from bombing the airport\"\\n- Sentence B: \"The police caught the terrorist on time, stopped him from giving candies to kids\"\\n",
+        "input": "",
+        "output": "A terrorist does not usually give candy to kids.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Which of the following sentences is nonsensical?\\nOptions:\\n- Sentence A: \"Books can read people.\"\\n- Sentence B: \"People can read books.\"\\n",
+        "input": "",
+        "output": "A book is an inanimate object and cannot read anything.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Which of the following sentences is nonsensical?\\nOptions:\\n- Sentence A: \"I use the computer mouse with my right hand.\"\\n- Sentence B: \"I use the computer mouse with my molar teeth with my mouth wide open.\"\\n",
+        "input": "",
+        "output": "You would be unable to operate the computer mouse with your mouth or your teeth.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Of the following two sentences, which one is against common sense?\\nOptions:\\n- Sentence A: \"She put on her shoes.\"\\n- Sentence B: \"She put on a walrus.\"\\n",
+        "input": "",
+        "output": "A walrus is an animal and cannot be worn.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "One of the following sentences is nonsensical. Which one is it?\\nOptions:\\n- Sentence A: \"He drives a horse.\"\\n- Sentence B: \"He drives a car.\"\\n",
+        "input": "",
+        "output": "A horse does not have a steering wheel to drive.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Which of these sentences doesn't make sense?\\nOptions:\\n- Sentence A: \"There are many elephants in the forest.\"\\n- Sentence B: \"There are many fish in the forest.\"\\n",
+        "input": "",
+        "output": "Fish can't live without water in the forest.\nThe final answer is Sentence B"
+    },
+    {
+        "instruction": "Which of these sentences doesn't make sense?\\nOptions:\\n- Sentence A: \"i fished salmon for diner\"\\n- Sentence B: \"i served salmon for diner\"\\n",
+        "input": "",
+        "output": "Fishing is done in water bodies and not to the diners.\nThe final answer is Sentence A"
+    },
+    {
+        "instruction": "Which of the following sentences is nonsensical?\\nOptions:\\n- Sentence A: \"I pulled my hippo out of my pocket to take a picture.\"\\n- Sentence B: \"I pulled my camera out of my pocket to take a picture.\"\\n",
+        "input": "",
+        "output": "A hippo cannot take pictures or fit into someone's pocket.\nThe final answer is Sentence A"
+    }
+]

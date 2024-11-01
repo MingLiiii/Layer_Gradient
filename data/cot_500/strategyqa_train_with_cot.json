@@ -1,0 +1,2502 @@
+[
+    {
+        "instruction": "Did Polar Bears roam around in Ancient Greece?",
+        "input": "",
+        "output": "Polar Bears live in the Arctic, with temperatures that can get as low as -35 degrees celsius. Ancient Greece had an average temperature of 24 degrees celsius.\nThe final answer is no"
+    },
+    {
+        "instruction": "Would a sofer be a bad job for a vegan?",
+        "input": "",
+        "output": "A sofer is a transcriber of religious texts, and has its origins in Judaism. Sofers transcribe texts on a material known as vellum. Vellum is made of materials derived from calfskin. Vegans do not use any animal products.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Did Tom Bosley enjoy video games on the PlayStation 4?",
+        "input": "",
+        "output": "The PlayStation 4 was launched in 2013. Tom Bosley died in 2010.\nThe final answer is no"
+    },
+    {
+        "instruction": "Did the band Led Zeppelin own a prime number of gilded gramophones?",
+        "input": "",
+        "output": "5 is a prime number. A Grammy Award trophy is a gilded gramophone. Led Zeppelin won 5 Grammy Awards.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Do children's bicycles often have extra wheels?",
+        "input": "",
+        "output": "Training wheels are a set of two wheels to attach to bicycles of new bike riders for additional support. Training wheels are marketed primarily at children.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Did Secretariat win a Formula One championship?",
+        "input": "",
+        "output": "Secretariat is a famous race horse. Formula One is an auto racing championship.\nThe final answer is no"
+    },
+    {
+        "instruction": "Do manta rays live in water above the safe temperature for cold food storage?",
+        "input": "",
+        "output": "For cold foods, the food safe temperature is 40 degrees Fahrenheit and below. Manta rays prefer water temperatures above 68 \u00b0F (20 \u00b0C).\nThe final answer is yes"
+    },
+    {
+        "instruction": "Was Christina Aguilera born in the forgotten borough?",
+        "input": "",
+        "output": "Christina Maria Aguilera was born on December 18, 1980, in Staten Island, New York. Staten Island has sometimes been called \"the forgotten borough\" by inhabitants who feel neglected by the city government.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Is the Golden eagle considered a scavenger bird?",
+        "input": "",
+        "output": "Scavengers are defined as animals that feed on dead carcasses of animals they have not killed themselves. Vultures are scavengers that hover in the air and swoop down to feed once they see an animal killed by another animal. The Golden eagle has sharp talons to hunt its own prey. Golden eagles kill and feed on hares, rabbits, and ground squirrels.\nThe final answer is no"
+    },
+    {
+        "instruction": "Could the Powepuff Girls make the background to the Azerbaijani flag?",
+        "input": "",
+        "output": "The national flag of the Republic of Azerbaijan is a horizontal tricolour featuring three equally sized fesses of blue, red, and green. Each of the Powerpuff Girls creates a trail of a different color when she flies: Bubbles makes blue, Blossom makes red, and Buttercup makes green.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Is Edward Snowden in hiding from the United States?",
+        "input": "",
+        "output": "Edward Snowden has an active twitter account and has been on political commentary shows. Edward Snowden's country of residence is listed on his Wikipedia.\nThe final answer is no"
+    },
+    {
+        "instruction": "Does Sockington enjoy onions?",
+        "input": "",
+        "output": "Sockington is a domestic cat. Onions can cause toxicity in cats by breaking down their red blood cells.\nThe final answer is no"
+    },
+    {
+        "instruction": "Can Michael Jordan become a professional cook in America? ",
+        "input": "",
+        "output": "Based on the American Culinary Federation, the minimum requirements for entering culinary apprenticeships include being 17 years old and having a high school diploma or equivalent. Michael Jordan graduated from Laney High School in 1981. Michael Jordan was born on February 17, 1963, which makes him 57 years old in 2020.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Do gorillas fight with panda bears?",
+        "input": "",
+        "output": "Gorilla distribution is limited to areas of the continent of Africa. Panda bears are found in the wild only in China.\nThe final answer is no"
+    },
+    {
+        "instruction": "Should someone prone to jealousy be in a polyamorous relationship?",
+        "input": "",
+        "output": "Polyamorous people are those who seek to have an intimate relationship with more than one partner. In relationships, untreated jealousy typically leads to a breakup.\nThe final answer is no"
+    },
+    {
+        "instruction": "Is CEO of Nissan an internationally wanted fugitive?",
+        "input": "",
+        "output": "Carlos Ghosn was CEO of Nissan. With help from an American private-security contractor, Carlos Ghosn fled from Japan to Lebanon on 30 December, breaking his bail conditions. On 2 January 2020, Interpol issued a red notice to Lebanon seeking Carlos Ghosn's arrest.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Did Naruto escape the Temple of Doom?",
+        "input": "",
+        "output": "Naruto is a character in a Japanese anime and manga about ninjas. The Temple of Doom is a setting from an Indiana Jones movie.\nThe final answer is no"
+    },
+    {
+        "instruction": "Did J. P. Morgan have healthy lungs?",
+        "input": "",
+        "output": "J. P. Morgan smoked dozens of cigars per day. Smoking tobacco damages the lungs and increases the risk of lung cancer significantly.\nThe final answer is no"
+    },
+    {
+        "instruction": "Has CNES planted a French flag on the lunar surface?",
+        "input": "",
+        "output": "The lunar surface is on the moon. CNES has not sent a person to the moon.\nThe final answer is no"
+    },
+    {
+        "instruction": "Was the death of Heath Ledger caused by his work on The Dark Knight?",
+        "input": "",
+        "output": "Heath Ledger accidentally overdosed on prescription medication. Heath Ledger's overdose led to his death.\nThe final answer is no"
+    },
+    {
+        "instruction": "Did the Social Democratic Party of Germany help Frederick II become King of Prussia?",
+        "input": "",
+        "output": "The Social Democratic Party of Germany was founded in 1863. Frederick II was King of Prussia from 1740-1786.\nThe final answer is no"
+    },
+    {
+        "instruction": "Could Durian cause someone's stomach to feel unwell?",
+        "input": "",
+        "output": "Durian has a pungent odor that many people describe as being similar to feet and onions. Unpleasant smells can make people feel nauseous.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Is November a bad time for a photographer to take pictures of a plum tree in bloom?",
+        "input": "",
+        "output": "A plum tree is a deciduous tree that bears fruit. Deciduous trees shed their leaves in the autumn. Autumn happens from September until the end of Deember.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Can oysters be preserved without refrigeration? ",
+        "input": "",
+        "output": "In some types of Korean kimchi, oysters are placed between the leaves of nappa cabbage. Many grocery stores carry canned oysters in the shelf stable section.\nThe final answer is yes"
+    },
+    {
+        "instruction": "For Hostas to look their best, do they need lots of chlorophyll?",
+        "input": "",
+        "output": "Hostas are characterized by large green striped leaves. The green color in plants is attributed to chlorophyll.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Would a Rabbi celebrate Christmas?",
+        "input": "",
+        "output": "A Rabbi is a spiritual leader or religious teacher in Judaism. Christmas is a holiday observed by Christians.\nThe final answer is no"
+    },
+    {
+        "instruction": "Are both founders of Ben & Jerry's still involved in the company?",
+        "input": "",
+        "output": "Ben & Jerry's was founded by Ben Cohen and Jerry Greenfield. The founders sold the company to Unilever in 2000.\nThe final answer is no"
+    },
+    {
+        "instruction": "Is there historic graffiti on Alcatraz?",
+        "input": "",
+        "output": "Native Americans occupied the island of Alcatraz in 1969. Wall writings from the Native American occupation has been preserved and in some cases, restored completely.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Would Dante Alighieri hypothetically place Rupert Murdoch in 8th Circle of Hell?",
+        "input": "",
+        "output": "Dante Alighieri was an Italian poet that wrote Inferno. Inferno depicts several layers of Hell. The 8th Circle of Hell is reserved for liars, bribers, flatterers, and false prophets. Rupert Murdoch was involved in a News International scandal in which police were bribed and phones were hacked. Rupert Murdoch refused to take any responsibility for the actions of his employees in the News International scandal.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Will Chick-fil-A hypothetically refuse to sponsor a Pride parade?",
+        "input": "",
+        "output": "Pride parades are annual festivals held to celebrate the gay community. Chick-fil-A is a fast food restaurant founded by S. Truett Cathy. S. Truett Cathy was a devout Southern Baptist. Chick-fil-A's opposition to same-sex marriage has been the subject of public controversy.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Is the Greek alphabet as common as Sumerian cuneiform?",
+        "input": "",
+        "output": "The Greek alphabet is still commonly used. Sumerian cuneiform is not used contemporarily.\nThe final answer is no"
+    },
+    {
+        "instruction": "Could Palm Beach be held in the palm of your hand?",
+        "input": "",
+        "output": "Palm Beach has a total area of 8.12 square miles. The average palm is around 3 inches in length. There are 63360 inches in a mile.\nThe final answer is no"
+    },
+    {
+        "instruction": "Is most coffee produced South of the Equator?",
+        "input": "",
+        "output": "The countries with the highest coffee production are in South America. Almost all of South America is in the Southern Hemisphere.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Has the Indian Ocean garbage patch not completed two full rotations of debris since its discovery?",
+        "input": "",
+        "output": "The Indian Ocean garbage patch was discovered in 2010. The Indian Ocean garbage patch takes 6 years to complete a circulation.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Would Carrie Poppy be likely to trust a psychic?",
+        "input": "",
+        "output": "Carrie Poppy is an American podcaster who is on a show called 'Oh No! Ross and Carrie.\". \"Oh No Ross and Carrie\" is a show that critically examines religious claims and those of the supernatural. Carrie Poppy considers herself a skeptic and an investigative reporter.\nThe final answer is no"
+    },
+    {
+        "instruction": "Is Lord Voldemort associated with a staff member of Durmstrang?",
+        "input": "",
+        "output": "Igor Karkaroff is the headmaster of Durmstrang school. Karkaroff is a former Death Eater. The Death Eaters were Voldemort's minions.\nThe final answer is yes"
+    },
+    {
+        "instruction": "When en route from China to France, must pilots know their altitude in the imperial foot?",
+        "input": "",
+        "output": "Most international airports and aviators use the foot to measure altitude. China and North Korea require pilots to use meters for altitude. Pilots must communicate their altitude with local air traffic control.\nThe final answer is yes"
+    },
+    {
+        "instruction": "In isopropyl alcohol, is the solubility of salt low?",
+        "input": "",
+        "output": "Isopropyl alcohol is unique in the sense that salt remains visible. When salt has high solubility, it becomes invisible.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Do people who smoke Djarum's like cloves?",
+        "input": "",
+        "output": "Djarum is a brand of cigarette popular around the world. Djarum cigarettes are made with a blend of cloves and tobacco.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Did Eiffel Tower contribute to a war victory?",
+        "input": "",
+        "output": "A radio transmitter located in the Eiffel Tower. This transmitter jammed German radio communications. This hindrance in German radio communications contributing to the Allied victory at the First Battle of the Marne.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Would a Dolce & Gabbana suit wearer be shunned by their Amish cousins?",
+        "input": "",
+        "output": "Dolce & Gabbana is an Italian luxury fashion design company. The Amish, who value plain clothes, frown upon buttons and have banned velcro and zippers. The Two Tone Dolce & Gabbana suit has several buttons. The Amish cease interactions with sinners by avoiding, or shunning them.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Can second row of QWERTY keyboard spell Abdastartus's kingdom?",
+        "input": "",
+        "output": "QWERTY keyboards have one row of numbers followed by three rows of letters. The second row of the QWERTY keyboard has the letters: QWERTYUIOP. Abdastartus was king of Tyre from 929 \u2013 921 BC.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Would an adherent of Zoroastrianism consult the Quran for religious guidance?",
+        "input": "",
+        "output": "The Quran is the central religious text of Islam. Zoroastrianism is an ancient religion predating Islam by several centuries.\nThe final answer is no"
+    },
+    {
+        "instruction": "Would a TMNT coloring book have pizza in it?",
+        "input": "",
+        "output": "TMNT is an abbreviation for 'Teenage Mutant Ninja Turtles'. The Teenage Mutant Ninja Turtles canonically only ever ate pizza in the animated series.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Will Gremlins sequels tie number of Matrix sequels?",
+        "input": "",
+        "output": "The Matrix films had two sequels. Gremlins has one sequel, Gremlins 2: The New Batch. The script for a Gremlins 3 is being written by Carl Ellsworth.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Can Clouded leopards chase down many Pronghorn antelopes?",
+        "input": "",
+        "output": "The top speed of a Clouded leopard is 40 MPH. The top speed of a Pronghorn antelope is 61 MPH.\nThe final answer is no"
+    },
+    {
+        "instruction": "Should cactus soil always be damp?",
+        "input": "",
+        "output": "The amount of water a cactus needs depends on the weather and season. When the weather isn't hot, a cactus needs very little water.\nThe final answer is no"
+    },
+    {
+        "instruction": "Does the density of helium cause voices to sound deeper?",
+        "input": "",
+        "output": "Helium is less dense than air. Sound travels more quickly through helium than it does through air. When sound travels more quickly, the tone of it raises and sounds higher.\nThe final answer is no"
+    },
+    {
+        "instruction": "WIll Noah's Ark hypothetically sail through flooded Lincoln Tunnel?",
+        "input": "",
+        "output": "Scholars have determined Noah's Ark to be 75 feet wide. Each lane of the Lincoln Tunnel is 21 feet wide.\nThe final answer is no"
+    },
+    {
+        "instruction": "Are all limbs required for jujutsu?",
+        "input": "",
+        "output": "Jujutsu is a Japanese martial art that uses unarmed combat to subdue opponents. Nick Newell, a congenital amputee, got his black belt after two straight submission wins. Fighter Aaron LaPointe has succeeded in martial arts with a fully paralyzed arm.\nThe final answer is no"
+    },
+    {
+        "instruction": "Did mercenaries fight for England in the Glorious Revolution?",
+        "input": "",
+        "output": "Mercenaries are soldiers for hire. There was no military conflict in England in the Glorious Revolution.\nThe final answer is no"
+    },
+    {
+        "instruction": "Is basil safe from Hypervitaminosis D?",
+        "input": "",
+        "output": "Hypervitaminosis D is a rare disease caused by having too much vitamin D. Basil contains many vitamins including Vitamin A, B, C, E, and K.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Can you buy furniture and meatballs in the same store?",
+        "input": "",
+        "output": "IKEA is well known for selling cheap, modern furniture. IKEA is famous for serving meatballs at their in-store restaurants.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Were weather phenomena avoided when naming minor league baseball teams?",
+        "input": "",
+        "output": "Weather phenomena refers to types of weather caused conditions such as cyclones, storms, and tsunamis. Minor league baseball teams include the Brooklyn Cyclones and Lake Elsinore Storm.\nThe final answer is no"
+    },
+    {
+        "instruction": "Would an astrologer focus on the densest terrestrial planet for a Friday horoscope?",
+        "input": "",
+        "output": "Friday is associated with Venus in astrology. Venus is the densest of the terrestrial planets.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Would a Catholic priest commend someone's pride?",
+        "input": "",
+        "output": "Adherents to Catholicism subscribe to the notion of the '7 deadly sins'. Pride is one of the 7 deadly sins.\nThe final answer is no"
+    },
+    {
+        "instruction": "Could Eddie Murphy's children hypothetically fill a basketball court by themselves?",
+        "input": "",
+        "output": "Eddie Murphy has ten children. Basketball is played with two teams, each having five players on the court at one time.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Can you swim to Miami from New York?",
+        "input": "",
+        "output": "The longest distance swam by a person is 139.8 miles. It is over 1,000 miles from New York to Miami.\nThe final answer is no"
+    },
+    {
+        "instruction": "Does the anatomy of a camel lend itself to jokes on Wednesdays?",
+        "input": "",
+        "output": "Wednesday is often referred to as 'hump day' as a joke. Camels are known for having a significant hump.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Would an anxious person benefit from receiving courage from the Wizard of Oz?",
+        "input": "",
+        "output": "An anxious person may benefit from medication or therapy. The Wizard of Oz cannot give courage to anyone.\nThe final answer is no"
+    },
+    {
+        "instruction": "Does bull shark bite hurt worse than crocodile bite?",
+        "input": "",
+        "output": "The bull shark has the highest weight for weight bite of all cartilaginous fish at 5,914 newtons. Crocodile slam their jaws shut with 3,700 pounds per square inch (psi), or 16,460 newtons, of bite force.\nThe final answer is no"
+    },
+    {
+        "instruction": "Would Harvey Milk have approved of Obama?",
+        "input": "",
+        "output": "Obama awarded Harvey Milk a posthumous Medal of Freedom. Obama was known for supporting marriage equality and LGBT rights.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Could the Powerpuff Girls hypothetically attend the Camden Military Academy?",
+        "input": "",
+        "output": "The Powerpuff Girls are kindergarten aged girls. Camden Military Academy is a private, all-male, military boarding school located in Camden, South Carolina. Camden Military Academy accepts male students in grades 7 through 12.\nThe final answer is no"
+    },
+    {
+        "instruction": "Did Jack Dempsey have most title fight wins in either of his weight classes?",
+        "input": "",
+        "output": "Jack Dempsey competed as a heavyweight and a lightheavyweight. Jack Dempsey only had a handful of title defenses as heavyweight champion. Wladimir Klitschko had 25 heavyweight title fight wins. Jack Dempsey did not hold the lightheavyweight title. Dariusz Michalczewski had 23 lightheavyweight title fight wins.\nThe final answer is no"
+    },
+    {
+        "instruction": "Do human sacrums have more fused vertebrae than an Alaskan Malamute?",
+        "input": "",
+        "output": "The human sacrum consists of five fused vertebrae. An Alaskan Malamute is a large domestic dog breed. Dogs have three fused vertebrae attached to their sacrums.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Will The Exorcist stimulate limbic system?",
+        "input": "",
+        "output": "The limbic system of the brain contains regions that detect fear, control bodily functions and perceive sensory information. The Exorcist has been called one of the scariest movies of all time. The Exorcist ranked number 3 on the American Film Institute's 100 Years/100 Thrills list.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Would Taylor Swift refer to Snoopy as oppa?",
+        "input": "",
+        "output": "Oppa is a Korean word used by women to address a man who is 10 or more years older than her. Snoopy is 47 years old. Taylor Swift is 30 years old.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Do you find glutamic acid in a severed finger?",
+        "input": "",
+        "output": "Glutamic acid is an amino acid and neurotransmitter. As a neurotransmitter, glutamic acid is the most abundant in the vertebrate nervous system. A severed finger contains parts of a vertebrate's nervous system.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Is dyslexia the most common intellectual disability in US?",
+        "input": "",
+        "output": "An intellectual disability is reflected in below-average IQ and a lack of skills needed for daily living. Learning disabilities are weaknesses in certain academic skills. usually, Reading, writing and math. Dyslexia is characterized by difficulties with accurate and/or fluent word recognition and by poor spelling and decoding abilities. Thomas Jefferson, George Washington, and John F. Kennedy were successful presidents while being dyslexic.\nThe final answer is no"
+    },
+    {
+        "instruction": "Could a camel fit in a dog house?",
+        "input": "",
+        "output": "Camels are approximately 5.5 to 6 feet tall. The largest dog ever was 3'8\" tall. Dog houses are built to fit dogs.\nThe final answer is no"
+    },
+    {
+        "instruction": "Could Saint Peter watch television?",
+        "input": "",
+        "output": "Saint Peter died in 64 BC. The television was invented in 1900.\nThe final answer is no"
+    },
+    {
+        "instruction": "Is Eid al-Fitr holiday inappropriate to watch entire US Office?",
+        "input": "",
+        "output": "Eid al-Fitr is an Islamic holiday dedicated to prayer. Eid al_fitr lasts from 1 to 3 days depending on the country. The entire US Office tv show would take 4 days, three hours, and 30 minutes to watch.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Did Christopher Columbus condone multiple deadly sins?",
+        "input": "",
+        "output": "The seven deadly sins are:pride, greed, wrath, envy, lust, gluttony, and sloth. Under Columbus, every native of fourteen years of age or upward was to pay a large hawk's bell of gold dust or cotton and those who could not pay were punished. in just two years under Columbus's governorship, over 125,000 of the 250,000\u2013300,000 natives in Haiti were dead.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Are there multiple Star Wars TV shows produced by Disney?",
+        "input": "",
+        "output": "Star Wars Rebels and Star Wars Resistance were released after Disney bought ownership of Star Wars. Disney also produced the first live-action TV show set in the Star Wars galaxy, The Mandalorian. Disney produced one additional revival season of Star Wars Clone Wars which was originally produced before Disney owned Star Wars.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Are peaches best eaten when firm?",
+        "input": "",
+        "output": "Peaches are sweeter and easier to digest when they are soft to the touch. People tend to let their peaches sit until they soften.\nThe final answer is no"
+    },
+    {
+        "instruction": "Could Javier Sotomayor jump over the head of the average giraffe?",
+        "input": "",
+        "output": "Fully grown giraffes stand 4.3\u20135.7 m (14.1\u201318.7 ft) tall. Javier Sotomayor is the current world record holder in the long jump, with a personal best of 2.45 m (8 ft 1/2 in).\nThe final answer is no"
+    },
+    {
+        "instruction": "Would Firefighters be included in a September 11th memorial?",
+        "input": "",
+        "output": "September 11th is remembered as a day of mourning for the lives lost during a terrorist attack in NYC. Firefighters were among the first responders to the crisis, and many died.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Does Jack Sparrow know any sea shantys?",
+        "input": "",
+        "output": "Jack Sparrow is the main character of the popular 'Pirates of the Caribbean' movie franchise. Jack Sparrow is the captain of a pirate ship. Jack Sparrow sings many songs while on the sea.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Has Cesar Millan ever tamed a short-eared dog?",
+        "input": "",
+        "output": "Cesar Millan is a Mexican-American dog trainer with over 25 years of canine experience. The short-eared dog lives in various parts of the rainforest environment, preferring areas with little human disturbance. The short-eared dog is a solitary animal and prefers moving in trees away from human and other animal interactions. The short-eared dog is a wild animal that is not suitable as a pet.\nThe final answer is no"
+    },
+    {
+        "instruction": "Are vinegar pickled cucumbers rich in lactobacillus?",
+        "input": "",
+        "output": "Pickles made with vinegar are not probiotic and are simply preserved. Pickles made through a soak in a salt brine solution begin to ferment because of lactobacillus.\nThe final answer is no"
+    },
+    {
+        "instruction": "Does the human stomach destroy a bee if ingested?",
+        "input": "",
+        "output": "Bees have an outer protective exoskeleton made of chitin, a polymer of glucose. The human stomach releases harsh acids that break down materials. The human stomach breaks down glucose in about 33 hours.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Could the endowment of Johns Hopkins University pay off the MBTA debt?",
+        "input": "",
+        "output": "Johns Hopkins University had an endowment of $6.28 billion in 2019. The MBTA is in debt for approximately $9 billion.\nThe final answer is no"
+    },
+    {
+        "instruction": "Did the Gunpowder plot eliminate Mary, Queen of Scots bloodline?",
+        "input": "",
+        "output": "Mary, Queen of Scots was the queen of Scotland whose rivalry with Elizabeth I led to her beheading. Mary, Queen of Scots son became King of England as James I. The Gunpowder plot was a 1605 plot to blow up Parliament and King James I. The Gunpowder plot failed and the conspirators were executed. King James I was succeeded by his son, Charles I of England.\nThe final answer is no"
+    },
+    {
+        "instruction": "Is it hard for Rahul Dravid to order food at a restaurant in Aurangabad?",
+        "input": "",
+        "output": "Aurangabad is located in Maharashtra. Marathi is an Indo-Aryan language spoken predominantly by around 100 million Marathi people of Maharashtra, India. Rahul Dravid is fluent in Marathi.\nThe final answer is no"
+    },
+    {
+        "instruction": "Would Ibn Saud tolerate salsa music?",
+        "input": "",
+        "output": "Ibn Saud was the first ruler of Saudi Arabia and adhered to Wahhabism. Wahhabism is an ultra conservative sect of Islam that prohibits dancing. Salsa is a popular Latin American music genre that is heavily connected to dance.\nThe final answer is no"
+    },
+    {
+        "instruction": "Would Robert Wadlow tower over a German Shepherd?",
+        "input": "",
+        "output": "German Shepherds have a height between 22 and 26 inches. Robert Wadlow was the tallest man ever, reaching a height of 8 ft 11.1 inches at his death.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Did Douglas Adams use email as a child?",
+        "input": "",
+        "output": "Douglas Adams was born in 1952. Modern email did not emerge until 1977.\nThe final answer is no"
+    },
+    {
+        "instruction": "Does Metallica use Soulseek?",
+        "input": "",
+        "output": "Soulseek is a computer program used to illegally share music files. Metallica has been outspoken in their opposition of digital piracy.\nThe final answer is no"
+    },
+    {
+        "instruction": "Is it difficult to conduct astrophotography in the summer in Sweden?",
+        "input": "",
+        "output": "Astrophotography is used to photograph the night sky. Swedish summers have short nights.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Is \"A Tale of Two Cities\" a popular science novel?",
+        "input": "",
+        "output": "A Tale of Two Cities is a historical fiction novel. Popular science books focus on scientific facts presented to a mainstream audience. Fiction is not fact.\nThe final answer is no"
+    },
+    {
+        "instruction": "Are some types of pancakes named after coins?",
+        "input": "",
+        "output": "Silver dollar pancakes are a variety that is smaller than traditional pancakes. Silver dollars are a type of American coin.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Would the owners of the company Peter Griffin works for need barley?",
+        "input": "",
+        "output": "Peter Griffin works for Pawtucket Brewery. Pawtucket Brewery produces beer. Barley is the preferred grain for making beer.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Are any of the words that CAPTCHA stands for palindromes?",
+        "input": "",
+        "output": "A palindrome is a word that reads the same backwards and forwards like madam. CAPTCHA stands for: Completely Automated Public Turing test to tell Computers and Humans Apart.\nThe final answer is no"
+    },
+    {
+        "instruction": "Is Bugs Bunny known for carrying a root vegetable around with him?",
+        "input": "",
+        "output": "Bugs Bunny carries a carrot around with him. Carrots are considered root vegetables.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Is zoology unconcerned with strigoi?",
+        "input": "",
+        "output": "Zoology is the study of the behavior and classification of animals. Strigoi are spirits that can transform into animals in Romanian mythology. Zoology is based on science and fossils.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Is Ludacris in same music genre as 2000's Binaural?",
+        "input": "",
+        "output": "Ludacris is a rapper, particularly in the southern rap style. Binaural was a 2000 album released by Pearl Jam. Pearl Jam is a grunge rock band formed in Seattle.\nThe final answer is no"
+    },
+    {
+        "instruction": "Did King James I despise fairy beings?",
+        "input": "",
+        "output": "King James I wrote Daemonologie in which he stated that a fairy was a being that could act as a familiar. A familiar was an animal or spirit that conspired with The Devil. King James I presided over the execution of Agnes Sampson. Agnes Sampson was accused of conspiring with familiars and was burned at the stake.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Should spaghetti be slick when cooked?",
+        "input": "",
+        "output": "Spaghetti is typically served with a sauce on it. When noodles have too smooth a texture, no sauce will stick to them.\nThe final answer is no"
+    },
+    {
+        "instruction": "Would the United States Military Academy reject an applicant with multiple sclerosis?",
+        "input": "",
+        "output": "Multiple Sclerosis is a progressive condition affecting the brain and spinal chord. The US Military Academy does not give waivers for serious progressive conditions.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Do giraffes require special facilities at zoos?",
+        "input": "",
+        "output": "Giraffes are much taller than other land animals. Giraffe shelters at zoos must be built larger than shelters for other animals to accommodate their height.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Would Gomer Pyle salute a lieutenant?",
+        "input": "",
+        "output": "Gomer Pyle was a character on a television sitcom. Pyle was in the US Marine Corp. Lieutenants are junior commissioned officers in the USMC. Marine custom dictates that officers are to be saluted by other Marines.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Does Disney have an ice princess?",
+        "input": "",
+        "output": "In 2013, Disney released Frozen. Frozen features Elsa, a princess with magical ice powers.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Would a Rockette look odd with a moustache? ",
+        "input": "",
+        "output": "The Rockettes are an American dance group made up of all women. In America, it is uncommon to see a woman with a moustache.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Is Central Park Zoo located on an island?",
+        "input": "",
+        "output": "Central Park Zoo is located in Manhattan. Manhattan is an island.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Would 1943-S penny be good for making silverware?",
+        "input": "",
+        "output": "Modern pennies are made of zinc and copper. The 1943-S penny was made of 99% steel and 1% zinc. Modern silverware is made from stainless steel.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Was the Mentalist filmed in black and white?",
+        "input": "",
+        "output": "The Mentalist first aired in 2008. Black and white television shows were no longer being made in 2008.\nThe final answer is no"
+    },
+    {
+        "instruction": "Would Eric Clapton's mother hypothetically be unable to legally purchase cigarettes in the USA at his birth?",
+        "input": "",
+        "output": "Eric Clapton's mother was 16 years old at the time of his birth. As of 2020, federal law required states comply with a minimum age of 21 years for sale/purchase of tobacco products.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Can eating grapefruit kill besides allergies or choking?",
+        "input": "",
+        "output": "Grapefruit is a citrus fruit consumed mostly during the summer months. Chemicals in grapefruit can interact with medications such as statins. Grapefruit can lead to too much absorption of statin medicine. Too much statins can cause severe muscle pain, liver damage, kidney failure and death.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Are any of the destinations of Japan Airlines former Axis Powers?",
+        "input": "",
+        "output": "Japan Airlines flies all over the world to places such as Germany, Ireland, and Australia. The Axis Powers were the countries that fought against the Allies during World War II. Axis Powers included countries such as Germany, Italy, and Japan.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Is grief always obvious when it is being experienced?",
+        "input": "",
+        "output": "Grief has no set external representation. People who are grieving may laugh, cry, or even seem angry.\nThe final answer is no"
+    },
+    {
+        "instruction": "Are kayaks used at the summit of Mount Everest?",
+        "input": "",
+        "output": "Kayaks are used to transport people in water. The summit of Mount Everest has no running water.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Can you buy Casio products at Petco?",
+        "input": "",
+        "output": "Casio is a manufacturer of consumer electronics and watches. Petco is a chain store that sells pet supplies like food, bowls, litter, toys, cages and grooming equipment.\nThe final answer is no"
+    },
+    {
+        "instruction": "Could Intel products be purchased at McDonald's?",
+        "input": "",
+        "output": "Intel is a technology company that produces computer products such as processors, chipsets, and GPUs. McDonald's is a fast food franchise that sells food and beverage products.\nThe final answer is no"
+    },
+    {
+        "instruction": "Will Donald Duck hypothetically purchase bell-bottoms for himself?",
+        "input": "",
+        "output": "Bell-bottoms were a style of pants that were popular in the 60s and 70s. Donald Duck is an animated Disney character that never wears pants.\nThe final answer is no"
+    },
+    {
+        "instruction": "Is eggplant deadly to most atopic individuals? ",
+        "input": "",
+        "output": "Atopic individuals have a genetic tendency to develop allergic reactions. Eggplant allergies are usually not life-threatening.\nThe final answer is no"
+    },
+    {
+        "instruction": "Can too many oranges cause diarrhea?",
+        "input": "",
+        "output": "Oranges are very high in fiber and sugar. Too much fiber can cause diarrhea.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Do German Shepherds worry about the Abitur?",
+        "input": "",
+        "output": "The Abitur is a qualification granted by university-preparatory schools in Germany, Lithuania, and Estonia. The Abitur is conferred on students who pass their final exams at the end of their secondary education. Students that attend university-preparatory schools are humans. German Shepherds are not humans.\nThe final answer is no"
+    },
+    {
+        "instruction": "Were paparazzi directly responsible for the death of Amy Winehouse?",
+        "input": "",
+        "output": "Amy Winehouse died at home and was found in her home by her bodyguard. Amy Winehouse's cause of death was alcohol poisoning.\nThe final answer is no"
+    },
+    {
+        "instruction": "Does Disney own a major comic book publisher?",
+        "input": "",
+        "output": "The three biggest comic book publishers are DC, Marvel, and IDW. Disney has owned Marvel since 2007.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Can the history of art be learned by an amoeba?",
+        "input": "",
+        "output": "The history of art is the academic study of the development of human artistic expression over time. Academic study requires human-level intelligence. An amoeba is a single-celled organism.\nThe final answer is no"
+    },
+    {
+        "instruction": "Does The Doctor keep his ship in his childhood home?",
+        "input": "",
+        "output": "The Doctor grew up on a planet called Gallifrey. The planet Gallifrey was destroyed in a time war. The Doctor's ship doesn't require docking.\nThe final answer is no"
+    },
+    {
+        "instruction": "Can every digit in Pi be memorized?",
+        "input": "",
+        "output": "The digits of Pi are infinite. The human mind cannot hold an infinite amount of information.\nThe final answer is no"
+    },
+    {
+        "instruction": "Is it understandable to compare a blood spatter pattern to a Jackson Pollock piece?",
+        "input": "",
+        "output": "Jackson Pollock is well known for a style of art formed through splashing liquids on canvas. Blood spatter patterns are caused by a splash of blood onto a surface or multiple surfaces.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Was the tenth Amendment to the Constitution written using Pitman shorthand?",
+        "input": "",
+        "output": "Pitman shorthand was invented in 1837. The tenth Amendment to the Constitution was added in 1791.\nThe final answer is no"
+    },
+    {
+        "instruction": "Would Emma Roberts's Nancy Drew be considered a private investigator?",
+        "input": "",
+        "output": "Emma Roberts starred as Nancy Drew in the 2007 film titled Nancy Drew. A private investigator is hired by an individual to solve a crime. Nancy Drew from the 2007 film was described as an amateur sleuth. Nancy Drew in the 2007 film was interested in a case and decided to pursue it on her own, without being paid for it.\nThe final answer is no"
+    },
+    {
+        "instruction": "Are there Americans still enlisted in the Confederate States Army?",
+        "input": "",
+        "output": "The Confederate States Army disbanded in 1865. The last living confederate soldier died in 1951.\nThe final answer is no"
+    },
+    {
+        "instruction": "Is Pearl Harbor the mythical home of a shark goddess?",
+        "input": "",
+        "output": "The native Hawaiian people believed Pearl Harbor was the home of Ka\u02bbahupahau. Ka\u02bbahupahau is a shark goddess in Hawaiian legends.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Did Snoop Dogg refuse to make music with rival gang members?",
+        "input": "",
+        "output": "American rapper Snoop Dogg is a member of the Crips gang. The Crips are enemies of their rival gang, The Bloods. Rapper, The Game is a member of The Bloods gang. Tha Blue Carpet Treatment was a Snoop Dogg mixtape featuring the song California Vacation. Snoop Dogg collaborates with Xzibit and The Game on the song California Vacation.\nThe final answer is no"
+    },
+    {
+        "instruction": "Would Woodrow Wilson support Plessy v. Ferguson decision?",
+        "input": "",
+        "output": "Plessy v Ferguson was a landmark case that stated segregation did not violate the constitution. President Woodrow Wilson escalated the discriminatory hiring policies and segregation of government offices. By the end of 1913, under President Wilson, many departments, including the navy, had segregated work spaces, restrooms, and cafeterias.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Does Alec Baldwin have more children than Clint Eastwood?",
+        "input": "",
+        "output": "Alec Baldwin has 5 children as of 2020. Actor Clint Eastwood has 7 children as of 2020.\nThe final answer is no"
+    },
+    {
+        "instruction": "If you're running focal fossa, are you using linux?",
+        "input": "",
+        "output": "Focal Fossa is the most recent Ubuntu release. Ubuntu is a Linux distribution.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Was  Godfrey of Bouillon an Islamaphobe?",
+        "input": "",
+        "output": "Godfrey of Bouillon lead troops during the Prince's Crusade. The Prince's Crusade was an attempt by Europeans to \"take back\" the city of Jerusalem from Islamic hands.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Is it possible to binge entire EastEnders series without water?",
+        "input": "",
+        "output": "British TV series EastEnders has over 6,000 episodes as of 2020. It would take approximately 125 days to binge watch the entire EastEnders TV series. A human can last only 4 days without water.\nThe final answer is no"
+    },
+    {
+        "instruction": "Did number of Imams Reza Shah believed in exceed number of Jesus's disciples?",
+        "input": "",
+        "output": "Reza Shah, the founder of the Imperial state of Iran, was a Twelver Shia Muslim. Twelver Shia Muslims believe that there are 12 Imams. Jesus is typically represented as having 12 disciples.\nThe final answer is no"
+    },
+    {
+        "instruction": "Is Mark Cuban able to visit Northern Mariana Islands without a passport?",
+        "input": "",
+        "output": "Citizens of the United States can visit Northern Mariana Islands without a passport. Mark Cuban is an American citizen.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Does highest US Court have enough seats for every Prime Minister of the United Kingdom since 1952?",
+        "input": "",
+        "output": "The highest court in the US is the Supreme Court. There are nine seats on the Supreme Court. There have been fifteen Prime Ministers of the United Kingdom since 1952.\nThe final answer is no"
+    },
+    {
+        "instruction": "Was Mozart accused of stealing from Richard Wagner?",
+        "input": "",
+        "output": "Mozart died in 1791. Richard Wagner was born in 1813.\nThe final answer is no"
+    },
+    {
+        "instruction": "Did Bruiser Brody wrestle on WWE Raw?",
+        "input": "",
+        "output": "WWE Raw debuted on TV January 11, 1993. Bruiser Brody was a wrestler that was stabbed to death in 1988.\nThe final answer is no"
+    },
+    {
+        "instruction": "In most Mennonite homes, would children know of The Powerpuff Girls?",
+        "input": "",
+        "output": "Mennonites are a religious with similar beliefs to Amish groups. Mennonites do not prohibit or view the use of technology as a sin. Most Mennonites avoid using television sets at home.\nThe final answer is no"
+    },
+    {
+        "instruction": "In star rating systems, is 5 stars considered good?",
+        "input": "",
+        "output": "Most star rating systems are composed of 5 stars. In star rating, most people want to avoid a 1 star review.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Can citrus grow in Ulaanbaatar?",
+        "input": "",
+        "output": "Citrus can withstand short periods down to as cold as \u221210 \u00b0C (14 \u00b0F), but realistically temperatures not falling below \u22122 \u00b0C (28 \u00b0F) are required for successful cultivation. Ulaanbaatar has an average annual temperature of \u22120.4 \u00b0C or 31.3 \u00b0F.\nThe final answer is no"
+    },
+    {
+        "instruction": "Was the son of Tsar Nicholas a daredevil?",
+        "input": "",
+        "output": "Tsar Nicholas had only one son, Alexei. Alexei had hemophilia and had to be carefully guarded. Hemophilia is the inability for blood to form clots, making any small cut dangerous.\nThe final answer is no"
+    },
+    {
+        "instruction": "Will parma ham be ready for New Year's if the pig is slaughtered in December?",
+        "input": "",
+        "output": "Parma ham requires two months to cure. New Year's is at most one month away from December.\nThe final answer is no"
+    },
+    {
+        "instruction": "Do many fans of J.K Rowling know who Alan Rickman is?",
+        "input": "",
+        "output": "J.K Rowling wrote the Harry Potter series. Alan Rickman performed the role of Severus Snape throughout all 8 Harry Potter films.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Could a Bengal cat hypothetically best Javier Sotomayor's record?",
+        "input": "",
+        "output": "Javier Sotomayor is an athlete that holds the men's high jump world record of slightly over 8 feet. The average cat can jump from 7.5 to 9 feet. Bengal cats have powerful hind legs which make them jump higher than other breeds.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Were any of despised Pope Alexander VI's descendants canonized?",
+        "input": "",
+        "output": "Pope Alexander the VI was a controversial pope born as Rodrigo Borgia. Rodrigo Borgia had several children including the despised Juan Borgia who was murdered in 1497. Juan Borgia's grandson, Francis Borgia, was a Jesuit priest and the third Superior General of the Society of Jesus. Canonization is the process by which the Catholic Church names someone a saint. Francis Borgia was named a Catholic saint in June 1670.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Could you brew beer from start to finish in the month of September?",
+        "input": "",
+        "output": "Brewing a batch of beer takes at least 5 weeks. There are 30 days, or 4 1/2 weeks, in the month of September.\nThe final answer is no"
+    },
+    {
+        "instruction": "Do any Islamic dominated countries have a Starbucks?",
+        "input": "",
+        "output": "Starbucks is a coffee shop found in numerous countries including USA, China, and the United Arab Emirates. The United Arab Emirates has a Starbucks in Dubai. Islam is the largest and the official state religion of the United Arab Emirates. Pew Research estimates state that over 76% of the citizens of the United Arab Emirates are Islamic.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Did producer of Easy Rider ever star in a movie with Dean Cain's Princeton girlfriend?",
+        "input": "",
+        "output": "Easy Rider was produced by Peter Fonda. Dean Cain dated Brooke Shields while at Princeton. Brooke Shields and Peter Fonda star in the movie Wanda Nevada.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Would the host of The Colbert Report be likely to vote for Trump?",
+        "input": "",
+        "output": "The host of the Colbert report is Stephen Colbert. Stephen Colbert has spoken against Donald Trump multiple times on various platforms.\nThe final answer is no"
+    },
+    {
+        "instruction": "Did Richard III know his grandson?",
+        "input": "",
+        "output": "Richard III died in battle at age 32. He had only one son, who died during childhood, and therefore had no grandchildren. Even if he did have grandchildren, he would have been dead long before they were born based on his age at death.\nThe final answer is no"
+    },
+    {
+        "instruction": "Does the swastika have positive uses?",
+        "input": "",
+        "output": "The swastika is used in the Hindu religion to represent the sun. People practicing Hindu believe the swastika represents prosperity and good luck.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Will Oasis cruise boat traverse the Lincoln Tunnel?",
+        "input": "",
+        "output": "The Lincoln Tunnel has a maximum height clearance of 13 feet. The height of the Oasis cruise boat is 236 feet.\nThe final answer is no"
+    },
+    {
+        "instruction": "Can fish get Tonsillitis?",
+        "input": "",
+        "output": "Tonsils are a pair of soft tissue masses located at the rear of the throat. Tonsillitis is the inflammation of tonsils. Fish do not have tonsils. Tonsils are only found in mammals.\nThe final answer is no"
+    },
+    {
+        "instruction": "Was King Kong climbing at a higher altitude than Eiffel Tower visitors?",
+        "input": "",
+        "output": "The Eiffel Tower is 984 ft high, and the visitor platform is 906 ft high. King Kong climbed up to the top of the Empire State Building. The Empire State Building is 1230 ft high.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Did Operation Barbarossa or Barbarossa's last expedition succeed?",
+        "input": "",
+        "output": "Operation Barbarossa was the Nazi advance on Russia during World War II. Operation Barbarossa was a failure that resulted in Nazi Germany being pushed back by a Soviet counter offensive. Operation Barbarossa was named after Holy Roman Emperor Frederick Barbarossa. On his final expedition, Frederick Barbarossa drowned while leading an army to help the Crusaders during the Third Crusade. The Crusaders failed to recapture Jerusalem during the Third Crusade without the support of Barbarossa and his troops.\nThe final answer is no"
+    },
+    {
+        "instruction": "Do people remember Lucille Ball's winemaking as successful?",
+        "input": "",
+        "output": "Lucille Ball was the star of \"I Love Lucy\". On \"I Love Lucy\", Lucille's character fails miserably while stomping grapes for wine.\nThe final answer is no"
+    },
+    {
+        "instruction": "Can a diamond float on water?",
+        "input": "",
+        "output": "Diamonds are formed by extreme heat and pressure being applied to carbon under the earth's crust. The density of a diamond is 3.51 g/cm\u00b3. The density of water is 997 kg/m\u00b3. A diamond is more dense than water. A diamond will sink in water.\nThe final answer is no"
+    },
+    {
+        "instruction": "Can someone sell their time through the Toronto Star?",
+        "input": "",
+        "output": "The Toronto Star has a classifieds section. Readers can advertise their own labor or services and thus their time.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Is the Louvre in billionaire George Soros's price range?",
+        "input": "",
+        "output": "The Louvre including all of its paintings has a value of around 45 billion. George Soros has a net worth around 8 billion as of 2020.\nThe final answer is no"
+    },
+    {
+        "instruction": "Did the Presidency of Bill Clinton conclude with his impeachment?",
+        "input": "",
+        "output": "Bill Clinton was impeached in 1998. Bill Clinton remained in office until 2001.\nThe final answer is no"
+    },
+    {
+        "instruction": "Is purchasing food for a Lolcat unnecessary?",
+        "input": "",
+        "output": "An image macro is a piece of digital media featuring a picture, or artwork, superimposed with some form of text. Food is any substance consumed to provide nutritional support for an organism. An organism is any individual entity that embodies the properties of life. Digital media does not embody the properties of life.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Does Hades have a loose grip on the Underworld?",
+        "input": "",
+        "output": "Hades alone can allow passage out of the Underworld. Hades created a terribly difficult task for Orpheus to complete to bring Eurydice from the Underworld. The subjects of Hades in the Underworld are under his complete control.\nThe final answer is no"
+    },
+    {
+        "instruction": "Is it true that gay male couples cannot naturally reproduce?",
+        "input": "",
+        "output": "Gay men can have any of the various sex organs that humans have. Trans men will sometimes become pregnant with their significant other before transitioning medically.\nThe final answer is no"
+    },
+    {
+        "instruction": "Would Carmine's kitchen staff be panicked if they had no olive oil?",
+        "input": "",
+        "output": "Carmine's is an Italian restaurant. Olive oil is a large component of a lot of Italian cooking.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Would a Dodo hypothetically tower over Ma Petite?",
+        "input": "",
+        "output": "A Dodo was an extinct bird that was over 3 feet tall. Ma Petite was a character on American Horror Story played by Jyoti Amge. Jyoti Amge is around 2 feet tall.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Would a sesame seed be mistaken for a wood frog egg?",
+        "input": "",
+        "output": "A sesame seed is a flat 3 to 4 mm size seed. Wood frog eggs are globe looking masses about 2 to 5 inches in diameter.\nThe final answer is no"
+    },
+    {
+        "instruction": "Did Harvey Milk ever run for governor?",
+        "input": "",
+        "output": "In 1977 Harvey Milk was elected to the San Francisco Board of Supervisors. Less than a year later, he was assassinated before he could run for higher offices.\nThe final answer is no"
+    },
+    {
+        "instruction": "Can you measure a Caracal with a protractor?",
+        "input": "",
+        "output": "A caracal is a small wild cat. Cats and other animals are measured in terms of properties like length, width, and weight. Protractors measure angles.\nThe final answer is no"
+    },
+    {
+        "instruction": "Could an NBA game be completed within the span of the Six-Day War?",
+        "input": "",
+        "output": "The Six-Day War took place between June 5th-June 10th, 1967. There are 24 hours in a day. An NBA game consists of four quarters that are 12 minutes long and a 15 minute long halftime. There are 60 minutes in an hour.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Do mountain goats inhabit the summit of Mount Sharp?",
+        "input": "",
+        "output": "Mountain goats are animals. Animals require oxygen in order to live. Mount Sharp is located on Mars. The atmosphere of Mars contains only trace amounts of oxygen.\nThe final answer is no"
+    },
+    {
+        "instruction": "Can 1980 United States presidential election result be considered a photo finish?",
+        "input": "",
+        "output": "A photo finish refers to a race or finish in which contestants are so close that a photograph of them as they cross the finish line has to be examined. Ronald Reagan had 489 electoral votes while Jimmy Carter had 49 in the 1980 United States presidential election. Ronald Reagan won 44 states while Jimmy Carter won 6 in the 1980 United States presidential election.\nThe final answer is no"
+    },
+    {
+        "instruction": "Was Florence Nightingale's death more painful than Saint Peter's?",
+        "input": "",
+        "output": "Florence Nightingale was a social reformer that is the founder of modern medicine. Florence Nightingale died in her sleep. Saint Peter was a Christian preacher. Saint Peter was crucified by the Romans.\nThe final answer is no"
+    },
+    {
+        "instruction": "After viewing the Mona Lisa, could you get lunch nearby on foot?",
+        "input": "",
+        "output": "The Mona Lisa is housed in The Louvre. There are many restaurants within walking distance of The Louvre.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Does handedness determine how you use American Sign Language?",
+        "input": "",
+        "output": "Your dominant hand typically performs the moving part of a sign in ASL. Your dominant hand determines the hand you use to finger spell in ASL.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Is it impossible to tell if someone is having a stroke?",
+        "input": "",
+        "output": "Strokes have numerous physical symptoms including facial unevenness and trouble walking. Strokes have behavioral symptoms including slurred speech, disorientation, and trouble understanding speech.\nThe final answer is no"
+    },
+    {
+        "instruction": "Would a Superbowl Football Game be crowded on the Gettysburg Battlefield?",
+        "input": "",
+        "output": "Football fields used in the Super Bowl are 100 yards long. The Gettysburg Battlefield is over 5 miles long. There are 1760 yards in a mile.\nThe final answer is no"
+    },
+    {
+        "instruction": "Would Terence Tao outperform Eminem in a math competition?",
+        "input": "",
+        "output": "Eminem disliked math and social studies, and dropped out of high school at age 17. Terence Tao was a child prodigy in mathematics, attending university-level mathematics courses at the age of 9. From 1992 to 1996, Tao was a graduate student at Princeton University under the direction of Elias Stein, receiving his Ph.D. at the age of 21.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Is shrimp prevalent in Ethiopian cuisine?",
+        "input": "",
+        "output": "Ethiopian cuisine specializes in vegetables and spicy meat dishes. Ethiopia is a landlocked country without access to seas or oceans.\nThe final answer is no"
+    },
+    {
+        "instruction": "Is the saltwater crocodile less endangered than the European otter?",
+        "input": "",
+        "output": "The saltwater crocodile is listed as \"least concern\" on the International Union for the Conservation of Nature Red List. The European otter is listed as \"near threatened\" on the International Union for the Conservation of Nature Red List. The International Union for the Conservation of Nature Red List starts with \"least concern\", then \"near threatened\", \"vulnerable\", \"endangered\", \"critically endangered\", \"extinct in the wild\", and \"extinct\".\nThe final answer is yes"
+    },
+    {
+        "instruction": "Did Alan Turing suffer the same fate as Abraham Lincoln?",
+        "input": "",
+        "output": "Alan Turing committed suicide via cyanide poisoning. Abraham Lincoln was killed by a gunshot wound to the head.\nThe final answer is no"
+    },
+    {
+        "instruction": "Will the torso be safe from blows to the largest and smallest bones in body?",
+        "input": "",
+        "output": "The three smallest bone in the body are malleus, incus, and stapes. Malleus, incus, and stapes are located in the ear. The femur is the largest bone in the body. The femur is located in the leg. The torso is located in the center of the body.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Would Adam Sandler get a reference to Cole Spouse and a scuba man doll?",
+        "input": "",
+        "output": "Adam Sandler and Cole Sprouse starred together in \"Big Daddy\". A prop used throughout \"Big Daddy\" was a scuba diving action figure that Cole's character called 'Scuba Steve'.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Would it be impossible to keep an ocean sunfish and a goldfish in the same tank?",
+        "input": "",
+        "output": "Ocean sunfish live in salt water environments. Goldfish live in fresh water environments. Putting a fish into the wrong water type can cause them to die.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Does acupuncture cause pain in many people?",
+        "input": "",
+        "output": "Acupuncture doesn't usually feel painful for most people. The needles used in acupuncture are very thin and do not go very deep into the skin.\nThe final answer is no"
+    },
+    {
+        "instruction": "Could Charlie Bucket be a hotel manager?",
+        "input": "",
+        "output": "Charlie Bucket is a fictional character from \"Charlie and the Chocolate Factory\", portrayed as a child. Children cannot be hotel managers.\nThe final answer is no"
+    },
+    {
+        "instruction": "Has Ivan the Terrible flown to Europe?",
+        "input": "",
+        "output": "Ivan the Terrible was the 1st Tsar of Russia. Ivan the Terrible died in 1584. The first confirmed person to fly was Jean Francois Pilatre de Rozier in 1783.\nThe final answer is no"
+    },
+    {
+        "instruction": "Does Jerry Seinfeld hang out at the Budweiser Party Deck?",
+        "input": "",
+        "output": "The Budweiser Party Deck is a social gathering spot in Yankee Stadium. Yankee Stadium is home to the New York Yankees baseball team. Jerry Seinfeld is a fan of the New York Mets.\nThe final answer is no"
+    },
+    {
+        "instruction": "In a hypothetical race between a Swallow and an American Woodcock, would the Swallow win?",
+        "input": "",
+        "output": "Swallow can fly about 30-40mph. The American woodcock can fly approximately 5mph.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Would a stool be useful for a Lusotitan to reach the top of an almond tree?",
+        "input": "",
+        "output": "Almond trees can grow up to 10 meters high. The Lusotitan adult was over 10 meters high.\nThe final answer is no"
+    },
+    {
+        "instruction": "Were mollusks an ingredient in the color purple?",
+        "input": "",
+        "output": "Mollusks are a group of invertebrate animals including snails and slugs. Purple dye was used in the early 15th century BC to color clothing. The purple dye used in ancient Tyre was made from a liquid extracted from a gland in snails.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Was Los Angeles Memorial Sports Arena hypothetically inadequate for hosting Coachella?",
+        "input": "",
+        "output": "The Los Angeles Memorial Sports Arena had a capacity of 16,740 people. Coachella has had attendance numbers in excess of 99.000 people. Coachella relies on an outdoor set up to accommodate the massive crowds.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Can Herpes simplex virus spread on Venus?",
+        "input": "",
+        "output": "Herpes simplex virus is a disease that has the structure of a tiny protein cage. Venus is the hottest planet and its temperature can reach 900\u00b0F. Proteins lose their structure and break down at temperatures above 105.8\u00b0F.\nThe final answer is no"
+    },
+    {
+        "instruction": "Did Bill Gates help to develop the PlayStation 4?",
+        "input": "",
+        "output": "The PlayStation 4 was developed by Sony Interactive Entertainment. Bill Gates works for Microsoft Corporation, which is a competitor of Sony.\nThe final answer is no"
+    },
+    {
+        "instruction": "Did the Nepalese Civil War take place near India?",
+        "input": "",
+        "output": "The Nepalese Civil War happened in Nepal. Nepal is a country that shares a border with India.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Did the Coen brothers ever collaborate with the Brothers Grimm?",
+        "input": "",
+        "output": "The Coen brothers were born in 1954 and 1957. The Brothers Grimm died in 1859 and 1863.\nThe final answer is no"
+    },
+    {
+        "instruction": "Would Cardi B. benefit from soy milk?",
+        "input": "",
+        "output": "Cardi B became lactose intolerant in her early twenties. People who are lactose intolerant cannot have dairy. Soy milk is an alternative to dairy milk.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Would the Cookie Monster decline an offer of free Keebler products?",
+        "input": "",
+        "output": "The Cookie Monster has an enormous appetite and craving for cookies. The Keebler Company is an American cookie and cracker manufacturer.\nThe final answer is no"
+    },
+    {
+        "instruction": "Can actress Danica McKellar skip astronaut education requirements?",
+        "input": "",
+        "output": "Astronaut's are required to have a bachelor's degree in engineering, biological science, physical science, computer science, or mathematics. Actress Danica McKellar graduated summa cum laude from UCLA with a degree in Mathematics.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Would a customer be happy if their grocery store meat tasted like game?",
+        "input": "",
+        "output": "Gamey is a word used to describe meat with a grassier, more wild taste. Gaminess in supermarket meat is very unusual. Many people find game to be unpleasant in taste.\nThe final answer is no"
+    },
+    {
+        "instruction": "Does penicillin cure a learning disability?",
+        "input": "",
+        "output": "Learning disabilities are neurological impairments. Neurological impairments can result from genetic issues, developmental problems, and accidents like head trauma, malnutrition or exposure to toxins. Penicillin is an antibiotic that treats bacterial infection.\nThe final answer is no"
+    },
+    {
+        "instruction": "is the brain located in the torso?",
+        "input": "",
+        "output": "The brain is located inside the head. The head is located on top of the torso. The torso contains the heart, lungs, and stomach.\nThe final answer is no"
+    },
+    {
+        "instruction": "Are there tearjerkers about United Airlines flights?",
+        "input": "",
+        "output": "Tearjerkers typically refer to a genre of movie. United Airlines flight 93 was involved in a terrorist attack in 2001. Several flights memorialize the passengers of Flight 93,.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Has cannabis been a big influence in rap music genre?",
+        "input": "",
+        "output": "Rapper Dr. Dre named his 1992 album, The Chronic, a reference to marijuana. Cannabis is a flowering plant also known as marijuana. Rapper Canibus took his name from cannabis. Rapper Snoop Dogg's song OG has a line, \"Rolling up my Mary Jane,\" a reference to marijuana. Rap group Bone Thugs N Harmony's Weed Song is a reference to marijuana.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Would an art dealer prize a print of a Van Goh? ",
+        "input": "",
+        "output": "Van Goh painted many valuable pieces of artwork in his lifetime. Prints of Van Goh's artwork are readily available at a low price.\nThe final answer is no"
+    },
+    {
+        "instruction": "Should you be skeptical of a 21 year old claiming to have a doctorate?",
+        "input": "",
+        "output": "The average age that someone gets their doctorate at is 33. A doctorate takes an average of 8.5 years.\nThe final answer is yes"
+    },
+    {
+        "instruction": "If someone is lactose intolerant, do they have to avoid cream?",
+        "input": "",
+        "output": "People with lactose intolerance are unable to fully digest the sugar (lactose) in milk. Cream is a dairy product composed of the higher-fat layer skimmed from the top of milk before homogenization. Cream contains milk.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Would an American feel lost due to language barriers at Disneyland Paris?",
+        "input": "",
+        "output": "All Disneyland Paris cast members are required to know and speak English. Travelers from England go to Disneyland Paris often without issue.\nThe final answer is no"
+    },
+    {
+        "instruction": "Can Africanized bees be considered multicultural?",
+        "input": "",
+        "output": "Multicultural refers to a blend of several cultures within one organism. Africanized bees, also killer bees are a result of crossbreeding. Africanized bees are a mix of East African lowland honey bees and European honey bee subspecies such as the Italian honey bee and the Iberian honey bee.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Is Casio's founding year a composite number?",
+        "input": "",
+        "output": "Electronics company Casio was founded in 1946. A composite number is a number that can be divided by numbers other than 1 and itself. 1946 can be divided by 278 and 7.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Does ancient Olympics crown fail to hide tonsure?",
+        "input": "",
+        "output": "Tonsure refers to the religious hairstyle in which hair from the top of the head is shaved off. Winners of the ancient Olympics were given a laurel crown to wear. A laurel crown involves leaves arranged in a circle that cover only the edges of the head.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Can monkeys use QWERTY keyboards?",
+        "input": "",
+        "output": "QWERTY keyboards are an alphabet key layout that were first used on typrwriters. Monkeys can be trained to push buttons. Typewriter key's are buttons. Monkeys can press keys on keyboards.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Are all Wednesdays in a year enough to read Bible 15 times?",
+        "input": "",
+        "output": "There are 52 Wednesdays in a year. There are 1,248 hours over all the Wednesdays in a year. The Old Testament of the Bible takes an average of 52 hours to read. The New Testament of the Bible takes an average of 18 hours to read.\nThe final answer is yes"
+    },
+    {
+        "instruction": "If you have a serious injury in Bangladesh, would you probably dial a Fibonacci number?",
+        "input": "",
+        "output": "The number for emergency services in Bangladesh is 999. 999 is not a Fibonacci sequence integer.\nThe final answer is no"
+    },
+    {
+        "instruction": "Would stargazers prefer binoculars over a telescope?",
+        "input": "",
+        "output": "Depending on a stargazer's goal, the scope of view necessary can change. Companies produce both telescopes and binoculars for stargazing.\nThe final answer is no"
+    },
+    {
+        "instruction": "Is cycling a high-risk activity for pelvis fractures?",
+        "input": "",
+        "output": "Cycling is a low-impact activity. Stress fractures in a pelvic bone often develop as a result of repetitive, high-impact activity that puts stress on the pelvis, such as long-distance running or ballet.\nThe final answer is no"
+    },
+    {
+        "instruction": "Would a Wolverine and a Lynx be hard to tell apart?",
+        "input": "",
+        "output": "Wolverines have rounded ears and a bear-like appearance. Lynxes have a feline body with pointed ears.\nThe final answer is no"
+    },
+    {
+        "instruction": "Would Hapshetsut be considered a monarch?",
+        "input": "",
+        "output": "A monarch is the head of a monarchy and was appointed for life. Hapshetsut was the second known female pharaoh. Pharaohs ruled for life and their wealth was even buried with them to take into the afterlife.\nThe final answer is yes"
+    },
+    {
+        "instruction": "If you're pregnant, might you be recommended ginger?",
+        "input": "",
+        "output": "Pregnancy often causes nausea and stomach upset. Small doses of ginger have been shown to help with vomiting and nausea. Doctors say that, in small doses, ginger is safe for pregnant women.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Would eliminating competition in the Japanese bulk carrier market be profitable for a steel company?",
+        "input": "",
+        "output": "62% of bulk carriers are built in Japan. Bulk carrier hulls are made of steel.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Is pig meat considered inedible within the cuisine of Hawaii?",
+        "input": "",
+        "output": "SPAM is a pork and ham product that is very popular around the world. In the cuisine of Hawaii, SPAM is a cherished and widely used ingredient.\nThe final answer is no"
+    },
+    {
+        "instruction": "Does Disney's Alice in Wonderland involve the celebration of a holiday?",
+        "input": "",
+        "output": "In the movie, Alice meets the Mad Hatter. The Mad Hatter is having a tea party to celebrate his Unbirthday. The Unbirthday is a holiday which happens every day of the year which is not the subject's actual birthday.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Was there fear leading up to the year 2000?",
+        "input": "",
+        "output": "Many computer programs were not designed with the year 2000 in mind. People were worried that computers would crash all over the world when the year 2000 arrived. Financial and electrical systems require computers to function. Without financial and electrical systems there could be global chaos.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Would Lord Voldemort have been barred from Hogwarts under his own rules?",
+        "input": "",
+        "output": "Lord Voldemort wanted to rid the wizarding world of half blood wizards. Lord Volemort was born a half blood, part muggle part wizard.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Can a banana get a virus?",
+        "input": "",
+        "output": "A virus is a disease that is caused by infectious agents. A banana comes from a banana plant. Blight is a disease that is caused by infections on plants. The Banana bunchy top virus (BBTV) is a plant virus of the genus Babuvirus,that causes diseased streaks.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Can Aerosmith legally drive in the carpool lane?",
+        "input": "",
+        "output": "Aerosmith is a rock band with five members. Carpool lanes require at least two occupants in each vehicle.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Can lettuce result in spontaneous abortion?",
+        "input": "",
+        "output": "Food-borne pathogens that can survive on lettuce include Listeria monocytogenes,. Listeria monocytogenes is the causative agent of listeriosis. The manifestations of listeriosis include intrauterine or cervical infections in pregnant women, which may result in spontaneous abortion.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Would toast for a vegan have margarine instead of butter?",
+        "input": "",
+        "output": "Margarine is typically made without the use of dairy ingredients. Vegans do not eat any animal products, including dairy and eggs.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Are the names of The Powerpuff Girls alliterative? ",
+        "input": "",
+        "output": "To be alliterative, words must have the same initial consonant sound. The names of The Powerpuff Girls are Blossom, Buttercup, and Bubbles.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Is Dungeons and Dragons a game well suited for solo play?",
+        "input": "",
+        "output": "Dungeons and Dragons requires one person to act as the \"Dungeon Master\" to construct the world for the other players to roleplay in. Dungeons and Dragons cannot work without at least one DM and two players.\nThe final answer is no"
+    },
+    {
+        "instruction": "Would Alexander Graham Bell hypothetically support Nazi eugenics?",
+        "input": "",
+        "output": "Eugenics was the idea of selective breeding or sterilization to rid the human populace of certain traits. Nazis used eugenics to justify mass sterilization and mass murder. Alexander Graham Bell Alexander Graham Bell advocated against the use of sign language and hoped to eradicate deafness through selective breeding.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Are seasons of Survivor surpassed by number of Ancient Greek letters?",
+        "input": "",
+        "output": "The reality show Survivor has aired 40 seasons as of 2020. The Ancient Greek alphabet consisted of 24 letters.\nThe final answer is no"
+    },
+    {
+        "instruction": "Is Argon near Neon on the periodic table of elements?",
+        "input": "",
+        "output": "Argon is a noble gas. Neon is a noble gas. The noble gases are all clumped together on the periodic table of elements.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Can dessert be made with vegetables?",
+        "input": "",
+        "output": "A popular desert is carrot cake. Carrot cake is made with carrots. Carrots are a kind of vegetable.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Is the Joker in a healthy romantic relationship?",
+        "input": "",
+        "output": "Healthy relationships are characterized by mutual trust and respect. The Joker is dating Harley Quinn. The Joker frequently abuses and talks down to Harley.\nThe final answer is no"
+    },
+    {
+        "instruction": "Can a cheetah generate enough force to topple Big Show?",
+        "input": "",
+        "output": "Big Show is a professional wrestler that weighs 383 pounds. Force is equal to mass times acceleration. An adult Cheetah weighs around 160 pounds. An adult Cheetah can run up to 58 MPH.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Can a New Yorker get their eyes checked by Rand Paul legally?",
+        "input": "",
+        "output": "Rand Paul is a senator from Kentucky. Rand Paul was an ophthalmologist in Kentucky with ABO certification. The National Board of Ophthalmology does not recognize ABO certification. Kentucky does not require ophthalmologists to be certified. NY ophthalmologists must have approved application for licensure certifications.\nThe final answer is no"
+    },
+    {
+        "instruction": "Is the rise of agriculture attributed to rivers?",
+        "input": "",
+        "output": "Some of the earliest civilizations on record are in river valleys. Early civilizations used water to irrigate crops, leading to the growth of agriculture.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Does the word swastika have meaning in sanskrit?",
+        "input": "",
+        "output": "In Sanskrit, the word swastika is a combination of \u2018su\u2019 (meaning \u2018good\u2019) and \u2018asti\u2019 (meaning \u2018to exist\u2019). This meaning of swastikafrom Sanskrit this gets translated as \u2018all is well.\u2019.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Could Ryan Crouser throw a bengal fox with ease?",
+        "input": "",
+        "output": "Ryan Crouser is a professional shot putter who won the gold medal at the 2016 Olympics. The men's shot weighs 16.01 pounds. The typical weight of a Bengal fox is between 5 to 9 pounds.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Is Romeo and Juliet an unusual title to teach high schoolers?",
+        "input": "",
+        "output": "Romeo and Juliet has topped multiple 'Top Read Books In High School' lists. Romeo and Juliet is available in multiple editions targeted at school age children.\nThe final answer is no"
+    },
+    {
+        "instruction": "Are there enough Jonny Cash records in the world to give one to each French citizen?",
+        "input": "",
+        "output": "Johnny Cash has sold about 90 million albums. The population of France is around 66 million.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Is Hanuman associated with a Norse god?",
+        "input": "",
+        "output": "Hanuman is a companion of the god Rama. Rama is an avatar of the god Vishnu in Hindu mythology.\nThe final answer is no"
+    },
+    {
+        "instruction": "Do people of the Iyer caste eat meat?",
+        "input": "",
+        "output": "Iyer is a caste of Hindu Brahmin. Brahmin is the priest caste of Hinduism. Devout Hindus do not eat meat. Priests of a religion are devout followers of that religion.\nThe final answer is no"
+    },
+    {
+        "instruction": "Did any killer Manson band members were named for exceed Charles Manson's kills?",
+        "input": "",
+        "output": "Many of the members of the band Marilyn Manson combined the names of a model or actress with a serial killer. Marilyn Manson band memberTwiggy Ramirez took his name from model Twiggy and serial killer Richard Ramirez. Richard Ramirez was charged with 13 counts of murder. Charles Manson was charged with 9 counts of murder.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Could JPMorgan Chase give every American $10?",
+        "input": "",
+        "output": "JPMorgan Chase has total assets of US$2.687 trillion. As of November 8, 2018, the United States is estimated to have a population of 328,953,020. One trillion is equal to 1,000 billions. One billion is equal to 1,000 millions.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Can you carry a Chrysler in a laptop bag?",
+        "input": "",
+        "output": "Chrysler manufactures automobiles, which weigh several thousand pounds. Laptop bags are designed to hold laptop computers, which typically weigh under ten pounds.\nThe final answer is no"
+    },
+    {
+        "instruction": "Does Buddy The Elf know anyone who works in publishing?",
+        "input": "",
+        "output": "Buddy The Elf is a character from the movie Elf. Buddy The Elf's father works in a Manhattan publishing firm.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Does Andrew Johnson's presidential number exceed Elagabalus's Emperor number?",
+        "input": "",
+        "output": "Andrew Johnson was the 17th president of the United States. Elagabalus was the 25th Roman Emperor.\nThe final answer is no"
+    },
+    {
+        "instruction": "While viewing \"Scary Movie\" is the viewer likely to experience an increase in adrenaline?",
+        "input": "",
+        "output": "Scary Movie is a film that is a comedy take on horror, intended to make viewers laugh but not afraid. Adrenaline is produced when a human is frightened or excited.\nThe final answer is no"
+    },
+    {
+        "instruction": "Is Y2K relevant to the plot of The Godfather?",
+        "input": "",
+        "output": "The story in the Godfather spans from 1945 to 1955. Y2K refers to events related to the formatting and storage of calendar data for dates beginning in the year 2000.\nThe final answer is no"
+    },
+    {
+        "instruction": "Would Eminem perform well at the International Mathematical Olympiad?",
+        "input": "",
+        "output": "Eminem dropped out of Lincoln High School at age 17 and disliked math and social studies. Mathematics competitions or mathematical olympiads are competitive events where participants sit a mathematics test. The content on the International Mathematical Olympiad ranges from extremely difficult algebra and pre-calculus problems to problems on branches of mathematics not conventionally covered at school and often not at university level either.\nThe final answer is no"
+    },
+    {
+        "instruction": "Was the man who played the male lead in Mrs. Doubtfire known for his humour?",
+        "input": "",
+        "output": "Robin Williams played the male lead in Mrs. Doubtfire. Robin Williams had a prolific standup and film comedy career.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Are there some countries where waiting staff need no tip?",
+        "input": "",
+        "output": "In Japan, leaving a tip for a server is considered rude. In Denmark, servers and wait staff are well paid and tipping is very uncommon.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Do bald eagles nest on Mount Sharp?",
+        "input": "",
+        "output": "Bald eagles are birds found on earth. Mount Sharp is a mountain on Mars. To date, no life forms have been detected on Mars.\nThe final answer is no"
+    },
+    {
+        "instruction": "NATO doesn't recognize double triangle flag countries?",
+        "input": "",
+        "output": "NATO is a members only alliance of several countries. Nepal has a double triangle flag. Nepal has not been recognized as a member of NATO.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Is double duty an incorrect phrase for host of Dancing With The Stars?",
+        "input": "",
+        "output": "Double duty refers to having more than one job at the same time. The host of Dancing WIth The Stars is Tom Bergeron. Tom Bergeron is the host of America's Funniest Home Videos.\nThe final answer is no"
+    },
+    {
+        "instruction": "Would Alexander Hamilton have known about koalas?",
+        "input": "",
+        "output": "Alexander Hamilton died in 1804. The first published depiction of a koala was in 1810.\nThe final answer is no"
+    },
+    {
+        "instruction": "Would Carolina Reaper decrease sales if added to all US salsa?",
+        "input": "",
+        "output": "On average, Americans prefer milder salsa than Europeans. The Carolina Reaper is the hottest pepper in the world. The Carolina Reaper is rated as 2,200,000 Scoville Heat Units.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Does Amtrak run from NYC directly to the Moai location?",
+        "input": "",
+        "output": "Amtrak is a series of railways that transport people to various locations. The Moai are ancient stone statue faces that are a popular tourist destination. The Moai are located on Easter Island, an island in the Pacific ocean, near Chile.\nThe final answer is no"
+    },
+    {
+        "instruction": "Is the Muslim world hostile to Israel?",
+        "input": "",
+        "output": "Israel, a small Middle Eastern nation which is considered the Jewish holy land, contains the ancient city of Jerusalem and other ancient holy sites. Jerusalem is the third most holy site for Muslims, after Mecca and Medina. Prior to English occupation in the 18th-20th centuries, the Muslim-based Ottoman Empire controlled Jerusalem. The Muslims want to reclaim Jerusalem and the surrounding holy lands.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Can Curiosity (rover) kill a cat?",
+        "input": "",
+        "output": "Cats weigh on average between 7 to 10 pounds. Curiosity (rover), a space vehicle that explores Mars, weighs 1,982 pounds. As mass falls, it picks up acceleration and adds to the force of impact.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Is a cory catfish likely to eat another living fish?",
+        "input": "",
+        "output": "The cory catfish is a fish that is described as a bottom feeder. The cory catfish feeds on food located at the bottom of an ocean. Fish cannot live too deep in oceans for very long because of the intense water pressure. The bottom of oceans is populated by algae, coral, and microorganisms.\nThe final answer is no"
+    },
+    {
+        "instruction": "Did Christopher Columbus go to Antarctica? ",
+        "input": "",
+        "output": "Between 1492 and 1503, Columbus completed four round-trip voyages between Spain and the Americas. His expeditions, sponsored by the Catholic Monarchs of Spain, were the first European contact with the Caribbean, Central America, and South America. Antarctica is Earth's southernmost continent.\nThe final answer is no"
+    },
+    {
+        "instruction": "Do people with mood disorders need permanent institutionalization?",
+        "input": "",
+        "output": "Most mood disorders can be treated in the outpatient setting. Many people with mood disorders do not get diagnosed at all.\nThe final answer is no"
+    },
+    {
+        "instruction": "Is the Yellow Pages the fastest way to find a phone number?",
+        "input": "",
+        "output": "The Yellow Pages is a book that contains alphabetized phone listings. Yellow pages involves going through many listings and remembering your alphabet. Google allows a person to type in a name quickly and look for a phone number. Household AI assistants like Echo allow people to merely speak a name and ask for number.\nThe final answer is no"
+    },
+    {
+        "instruction": "Are LinkedIn and LeafedIn related companies?",
+        "input": "",
+        "output": "LinkedIn successfully sued LeafedIn for their choice of name. LeafedIn changed their company name to LeafedOut.\nThe final answer is no"
+    },
+    {
+        "instruction": "Do sand cats avoid eating all of the prey of eels?",
+        "input": "",
+        "output": "Sand cats eat a number of animals including insects, birds, hares, and reptiles. Eels prey on fish, worms, frogs, and lizards. Lizards are a type of reptile.\nThe final answer is no"
+    },
+    {
+        "instruction": "Is Olympia, Washington part of \"Ish river country\"?",
+        "input": "",
+        "output": "Poet Robert Sund called the Puget Sound region \"Ish River country\". Olympia is in the Puget Sound region.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Would a Yeti be likely to have prehensile limbs?",
+        "input": "",
+        "output": "The animals that Yetis are said to look similar to are able to use their hands or toes to grasp items. The ability to grasp with hands or other limbs is to be prehensile.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Could Christopher Nolan's movies finance Cyprus's entire GDP?",
+        "input": "",
+        "output": "The films of Christopher Nolan have grossed around 4.7 billion at the box office. The GDP of Cyprus was 24.96 billion in 2018.\nThe final answer is no"
+    },
+    {
+        "instruction": "Does the letter B's place in alphabet exceed number of 2008 total lunar eclipses?",
+        "input": "",
+        "output": "The letter B is the second letter in the Latin Alphabet. There was one total lunar eclipse in 2008.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Were there greater landslides than 1980 United States presidential election?",
+        "input": "",
+        "output": "A landslide refers to a competitor beating their opponent by a wide margin. Ronald Reagan defeated Jimmy carter in the 1980 United States presidential election by around 8 million votes. Franklin D. Roosevelt won the 1936 United States presidential election over Alf Landon by more than 11 million votes. In 1804 Thomas Jefferson received 162 (92%) of the electoral votes while Charles Cotesworth Pinckney received only 14 (8%).\nThe final answer is yes"
+    },
+    {
+        "instruction": "Would a crocodile survive longer in Great Salt Lake than alligator?",
+        "input": "",
+        "output": "The Great Salt Lake is a Utah lake composed of salt water. Crocodiles natural habitat is salt water and they can breathe underwater for hours. Alligators have a natural habitat of fresh water.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Would The Dark Knight be appropriate for a preschool class?",
+        "input": "",
+        "output": "Preschoolers are between 3 and 5 years old. The Dark Knight is rated PG-13. PG-13 is a rating that means parents are strongly cautioned that the content of a film may not be appropriate for children under 13.\nThe final answer is no"
+    },
+    {
+        "instruction": "Would a baby gray whale fit in a tractor-trailer?",
+        "input": "",
+        "output": "Gray whales measure 4.9 m (16 ft) in length for newborns. A semi-trailer is 48 feet long.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Should you bring your own bags to Aldi?",
+        "input": "",
+        "output": "Unlike most grocery stores, Aldi charges customers for use of paper bags. Aldi does not supply shopping carts without a deposit, so shopping bags are a good alternative.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Did Switzerland support the United States in the Spanish\u2013American War?",
+        "input": "",
+        "output": "The Spanish\u2013American War was an armed conflict between Spain and the United States in 1898. Switzerland avoids alliances that might entail military, political, or direct economic action and has been neutral since the end of its expansion in 1515. Its policy of neutrality was internationally recognised at the Congress of Vienna in 1815.\nThe final answer is no"
+    },
+    {
+        "instruction": "Did Sugar Ray Robinson win a fight against Canelo Alvarez?",
+        "input": "",
+        "output": "Sugar Ray Robinson died in 1989. Canelo Alvarez was born in 1990.\nThe final answer is no"
+    },
+    {
+        "instruction": "Could James Brown's ex-wives hold a doubles game of tennis?",
+        "input": "",
+        "output": "James Brown had four ex-wives. Doubles tennis requires two players per team, with two teams playing against each other.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Would WWF be angrier if you killed koala instead of black swan?",
+        "input": "",
+        "output": "The WWF is an international organization that works for the preservation of animals. Black swans are designated as least concern species meaning they are not close to being endangered. Koalas are designated asvulnerable to extinction\u2014just a step above endangered.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Did the phone Alexander Graham Bell use have call waiting?",
+        "input": "",
+        "output": "Call waiting was invented in the 1970's to allow phone users to suspend one call to accept another. Alexander Graham Bell's phone was used in 1876.\nThe final answer is no"
+    },
+    {
+        "instruction": "Is a Halloween cruise in the Gulf of Mexico likely to be safe from storms?",
+        "input": "",
+        "output": "Hurricanes often strike the Gulf of Mexico. Hurricane season in the gulf lasts until the end of November. Halloween is October 31.\nThe final answer is no"
+    },
+    {
+        "instruction": "Was Woodrow Wilson sandwiched between two presidents from the opposing party?",
+        "input": "",
+        "output": "Woodrow Wilson was a Democratic president and was between Taft and Harding. President William Howard Taft was a Repubican. President Warren G. Harding was a Republican.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Can I find my home with latitude and longitude?",
+        "input": "",
+        "output": "My home is a location on earth where I live. Latitude and Longitude are geographic coordinate systems that identify east/west and north/south locations. Specific Latitude and Longitude coordinates can be used to pinpoint specific locations. Every point on the earth has a corresponding latitude and longitude coordinate.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Do hornets provide meaningful data for oceanographers?",
+        "input": "",
+        "output": "Hornets live on land. Oceanographers study oceans.\nThe final answer is no"
+    },
+    {
+        "instruction": "Could Maroon 5 have hypothetically held a concert at Roman Colosseum?",
+        "input": "",
+        "output": "The Roman Colosseum had a capacity of 87,000 people. Maroon 5 has held concerts at Brazil's Allianz Parque, which has a capacity of close to 44,000. Almost 30,000 people attended Maroon 5's 2015 Madison Square Garden concert over two days.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Would the average Hawaiian male experience more days on Earth compared to a wild cane toad?",
+        "input": "",
+        "output": "Cane toads have a life expectancy of 10 to 15 years in the wild. The average life expectancy of a male born in Hawaii is 79.3 years as of 2018.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Did Pablo Escobar's nickname collection outshine Robert Moses Grove's?",
+        "input": "",
+        "output": "Robert Moses Grove was a baseball player nicknamed Lefty Grove. Pablo Escobar had several nicknames including: Don Pablo, El Padrino, and El Patr\u00f3n.\nThe final answer is yes"
+    },
+    {
+        "instruction": "If you add water to rice pudding is it horchata?",
+        "input": "",
+        "output": "Horchata is a drink made from soaking dry rice in water for hours, then pulverizing and straining the mixture and adding spices and sweetener. Rice pudding includes ingredients like eggs, and whole grains of cooked rice.\nThe final answer is no"
+    },
+    {
+        "instruction": "Does the Prime Minister of the United Kingdom have poor job security?",
+        "input": "",
+        "output": "The Prime Minister of the United Kingdom is an elected official. Elected officials can be recalled with a vote of no confidence in UK parliament.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Did Millard Fillmore help to establish the University of Pittsburgh?",
+        "input": "",
+        "output": "The University of Pittsburgh was established in 1787. Millard Fillmore was born in 1800.\nThe final answer is no"
+    },
+    {
+        "instruction": "Is MF Doom a Fantastic Four villain?",
+        "input": "",
+        "output": "MF Doom is a British rapper raised on Long Island. Doctor Victor Von Doom is a fictional supervillain that made his debut in the Fantastic Four. The MF in MF Doom stands for Metal Face.\nThe final answer is no"
+    },
+    {
+        "instruction": "Will Ronda Rousey hypothetically defeat X-Men's Colossus in a fight?",
+        "input": "",
+        "output": "Ronda Rousey is a mixed martial artist and wrestler. Ronda Rousey relies on striking moves and submission tactics to dominate her opponents. X-Men's Colossus has the ability to change his appearance. Colossus's mutation allows him to create an organic steel layer, that acts as an impenetrable external shell.\nThe final answer is no"
+    },
+    {
+        "instruction": "Can Josh Blue participate in Paralympics Games? ",
+        "input": "",
+        "output": "Josh Blue has cerebral palsy. People with cerebral palsy can compete in the Paralympic Games.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Does Pantheon in Paris have a unique name?",
+        "input": "",
+        "output": "The Pantheon in Paris is a historical monument. The Pantheon was a former Roman temple in antiquity. The Pantheon is a mythical or imaginary creature used in heraldry, particularly in Britain often depicted as white deer with the tail of a fox with purple stars along their back.\nThe final answer is no"
+    },
+    {
+        "instruction": "Does Siri know geometry?",
+        "input": "",
+        "output": "Geometry is the study of size, shape and distance of objects. Determining location requires geometry. Siri can determine your location.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Does Sam Harris worship Shiva?",
+        "input": "",
+        "output": "Sam Harris is an atheist. Atheism is, in the broadest sense, an absence of belief in the existence of deities.\nThe final answer is no"
+    },
+    {
+        "instruction": "Is CAS number 8009-03-8 harmful for a rash?",
+        "input": "",
+        "output": "Some common substances that help rashes are creams, oils, and petroleum based products. CAS number 8009-03-8 is the identifier number for petroleum jelly.\nThe final answer is no"
+    },
+    {
+        "instruction": "If Martin Luther did one theses a day would he run out in half a year?",
+        "input": "",
+        "output": "Martin Luther published a list of 95 theses as his critique of the church. There are approximately 182 days in 6 months.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Would a cauliflower farmer prosper at a latitude of 75\u00b0 N?",
+        "input": "",
+        "output": "Cauliflower grows best between temperatures of 70 to 85 degrees. The latitude of 75\u00b0 N is in the Arctic.\nThe final answer is no"
+    },
+    {
+        "instruction": "Has the Subway restaurant franchise had any connections with child abusers?",
+        "input": "",
+        "output": "Subway hired Jared Fogle as a spokesman for their sandwich shops. Jared Fogle was convicted for having sex with minors and for possessing child pornography.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Does Coast to Coast AM have more longevity than the Rush Limbaugh show?",
+        "input": "",
+        "output": "As of 2020, The Rush Limbaugh Show has been on the airwaves since 1988. As of 2020, Coast to Coast AM has been on the airwaves since 1984.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Would Kelly Clarkson's voice shake glass?",
+        "input": "",
+        "output": "Glass vibrates at its resonant frequency which is around a middle C note. Kelly Clarkson has an impressive three octave vocal range. Kelly Clarkson's Never Enough is in the key of A-flat. A-flat is above middle C in terms of notes.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Can Kane challenge Joe Biden in this year's primaries?",
+        "input": "",
+        "output": "Kane is a member of the Republican Party. Joe Biden is a member of the Democratic Party. Primaries are conducted between members of the same political party.\nThe final answer is no"
+    },
+    {
+        "instruction": "Was the sable depicted in Marvel comics anthropomorphic?",
+        "input": "",
+        "output": "Anthropomorphism is the process of giving human characteristics to an animal or non human object. A sable is a carnivorous mammal of the weasel family. Silver Sable was a female character that first appeared in Marvel Comics in 1985. Silver Sable was a human mercenary that wore a silver suit and used hand to hand combat and weaponry to battle war criminals.\nThe final answer is no"
+    },
+    {
+        "instruction": "Could Arnold Schwarzenegger hypothetically defeat Haf\u00fe\u00f3r Bj\u00f6rnsson in a powerlifting competition if both are at their peak strength?",
+        "input": "",
+        "output": "A powerlifting competition is won by the person who lifts the most combined weight across the squat, deadlift, and bench press. Arnold Schwarzenegger's powerlifting personal records are a 545 lb squat, 520 lb bench press, and a 710 lb deadlift. Haf\u00fe\u00f3r Bj\u00f6rnsson's powerlifting personal records in competition are a 970 lb squat, 551 lb bench press, and a 904 lb deadlift.\nThe final answer is no"
+    },
+    {
+        "instruction": "Would a slingshot be improperly classified as artillery?",
+        "input": "",
+        "output": "Artillery refers to ranged weaponry that is predominantly used in breaching fortifications. Examples of artillery include: howitzers, mortars, and rockets. Mortars can have a range up to 4,680m. A slingshot is a string weapon that propels a rock or other small projectile. Some slingshots can fire projectiles up to 9m.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Would human race go extinct without chlorophyll?",
+        "input": "",
+        "output": "Chlorophyll is a pigment in plants responsible for photosynthesis. Photosynthesis is the process by which plants release oxygen into the atmosphere. Humans need oxygen to live.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Would Christopher Hitchens be very unlikely to engage in tonsure?",
+        "input": "",
+        "output": "Tonsure is the practice of cutting or shaving some or all of the hair on the scalp as a sign of religious devotion or humility. Christopher Hitchens was an anti-theist, and he regarded all religions as false, harmful, and authoritarian.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Would a kaffir lime be a good ingredient for making a candle?",
+        "input": "",
+        "output": "Kaffir limes are citrus fruits originating in tropical climates. The Kaffir lime leaves and rind emit an intense citrus fragrance when crushed up. Yankee Candle, one of the largest candle companies, sells several popular varieties of citrus candles. Sage and Citrus is one of the highest rated scents that Yankee Candle sells.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Is Snow White an example of good consent?",
+        "input": "",
+        "output": "Snow White is unknowingly poisoned by a witch. Snow White is unconscious when a man kisses her without her knowledge. Consent involves knowingly allowing something to happen to oneself.\nThe final answer is no"
+    },
+    {
+        "instruction": "At midnight in Times Square on New Years Eve, are you likely to meet people in diapers?",
+        "input": "",
+        "output": "Times Square holds an enormous gathering on New Year's Eve. There are no portable restrooms in Times Square. People begin waiting for the midnight event in Times Square before 10 a.m.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Was Surfing popular when pogs came out?",
+        "input": "",
+        "output": "Pogs came out in the 1990's. The 90's saw a rise in 'Big Wave Culture', a practice involving finding the largest possible waves to surf on.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Does the cuisine of Hawaii embrace foods considered gross in the continental US?",
+        "input": "",
+        "output": "SPAM has a reputation for being an unpleasant dish in the continental US. SPAM is so popular in Hawaii that it has made it onto McDonalds menus.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Do people celebrate Earth Day with a ceremonial tire fire?",
+        "input": "",
+        "output": "Earth Day is a global holiday to show support for environmental protection. Tire fire is a large quantity of tires burning at once. Smoke from burning tires contain heavy metals and other harmful pollutants. Smoke is harmful to the environment.\nThe final answer is no"
+    },
+    {
+        "instruction": "Could Tom Cruise explain mental auditing?",
+        "input": "",
+        "output": "Mental auditing is a practice within the church of Scientology. Tom Cruise is a long standing member of the church of Scientology and is high in the ranks.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Was Florence a Theocracy during Italian Renaissance?",
+        "input": "",
+        "output": "The Italian Renaissance was a period of history from the 13th century to 1600. A theocracy is a type of rule in which religious leaders have power. Friar Girolamo Savonarola was the ruler of Florence, after driving out the Medici family, from November 1494 \u2013 23 May 1498.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Have jokes killed more people than rats in history?",
+        "input": "",
+        "output": "Greek philosopher Chrysippus was said to have died from laughter after seeing a donkey eating figs. There are only a handful of deaths attributed to jokes throughout history including King Martin of Aragon. There are an average of 30 deaths by rat attacks every century. The plague which is sometimes associated with diseased rats killed millions of people.\nThe final answer is no"
+    },
+    {
+        "instruction": "Do you need a farmer to make a circuit board?",
+        "input": "",
+        "output": "Farmers cultivate and produce crops and/or livestock for sale or consumption. Circuit boards contain various man made materials as well as metals. Metals are produced from the earth by miners.\nThe final answer is no"
+    },
+    {
+        "instruction": "Was Alexander the Great baptized?",
+        "input": "",
+        "output": "Baptism is a symbolic Christian rite using water. Christianity started in the first century AD. Alexander the Great lived from 356 BC- 323 BC.\nThe final answer is no"
+    },
+    {
+        "instruction": "Can a lemon aggravate dyspepsia?",
+        "input": "",
+        "output": "Dyspepsia is a condition where the stomach is irritated. Lemons are highly acidic fruits. Common stomach irritants include alcohol, coffee, and acidic foods.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Is the largest city in New Mexico also known as Yoot\u00f3?",
+        "input": "",
+        "output": "Yoot\u00f3 stands for Bead Water Place. The area Santa Fe occupied was known by the Navajo people as Yoot\u00f3. The largest city in New Mexico is Albuquerque.\nThe final answer is no"
+    },
+    {
+        "instruction": "Could a single bitcoin ever cover cost of a Volkswagen Jetta?",
+        "input": "",
+        "output": "The all time high price of bitcoin was $19,783 in 2017. The suggested retail price of a 2020 Volkswagen Jetta is $18,895.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Are there any official American knights?",
+        "input": "",
+        "output": "The English monarchy bestows the title of knighthood upon deserving English citizens. They only knight English people. The American government does not do knightings of its own.\nThe final answer is no"
+    },
+    {
+        "instruction": "Could all People's Volunteer Army hypothetically be transported on Symphony of the Seas?",
+        "input": "",
+        "output": "The People's Volunteer Army had 780,000 troops. The cruise ship, Symphony of the Seas, has a capacity of 5,518 people.\nThe final answer is no"
+    },
+    {
+        "instruction": "Does Olympia Washington share name with Hephaestus's workshop location?",
+        "input": "",
+        "output": "Olympia Washington, is named after Mount Olympus. Mount Olympus is a mountain range in Washington named after the ancient Greek Mount Olympus. Hephaestus was the ancient Greek god of the forge and had a workshop on Mount Olympus.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Could an ocelot outrun a kindergartner? ",
+        "input": "",
+        "output": "An ocelot can run up to 61 kilometers per hour. Kindergartners are human children usually aged five to six years old. Human children under 10 are not likely to exceed 20 kilometers per hour.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Does the actress who played Elizabeth II speak fluent Arabic?",
+        "input": "",
+        "output": "Elizabeth II was portrayed by Helen Mirren. Helen Mirren doesn't speak fluent Arabic.\nThe final answer is no"
+    },
+    {
+        "instruction": "Did Rosalind Franklin contribute to work that led to Whole Genome Sequencing?",
+        "input": "",
+        "output": "Rosalind Franklin used specialized photography to capture the first photos of the double helix. The double helix is the form that DNA takes. Without understanding the structure of DNA, genome sequencing would be impossible.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Can Vice President of the United States kill with impunity?",
+        "input": "",
+        "output": "Vice President Aaron Burr fatally wounded Alexander Hamilton in a duel on July 11, 1804. Aaron Burr continued his term as Vice President of the United States after killing Alexander Hamilton. US stand-your-ground laws allow a person to defend themselves even to the point of applying lethal force.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Does Abdulqawi Yusuf go to the Hague on a typical work day?",
+        "input": "",
+        "output": "Abdulqawi Yusuf is the current president of the International Court of Justice. The International Court of Justice is headquartered in The Hague.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Can you find Bob Marley's face in most smoke shops?",
+        "input": "",
+        "output": "Bob Marley's face is on the packaging of a popular brand of rolling papers. Bob Marley is a popular graphic to print on t-shirts for sale to smokers.\nThe final answer is Bob Marley's face is on the packaging of a popular brand of rolling papers. Bob Marley is a popular graphic to print on t-shirts for sale to smokers.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Did Northwest Airlines' longevity surpass Betty White?",
+        "input": "",
+        "output": "Northwest Airlines lasted 84 years from 1926-2010. Betty White is 98 years old as of 2020.\nThe final answer is no"
+    },
+    {
+        "instruction": "Does James Webb Space Telescope fail astronomer in locating planet Krypton?",
+        "input": "",
+        "output": "The James Webb Space Telescope is the most powerful telescope created. Krypton is a planet in the fictional Superman comic book series.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Can chemicals in onion help create a thermonuclear bomb?",
+        "input": "",
+        "output": "A thermonuclear bomb, also called a hydrogen bomb, uses hydrogen under high temperatures to create an explosive reaction. While chopping onions, cells inside the onion are broken and the gas that comes out forms sulfenic acid. Sulfenic acid is composed of several elements including hydrogen.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Did Robert Downey Jr. possess same caliber gun as Resident Evil's Barry Burton?",
+        "input": "",
+        "output": "Robert Downey Jr. was arrested in 1996 n drug and weapons charges and possessed a .357 Magnum. Barry Burton, a character in the Resident Evil series, used a Colt Python. The Colt Python is a type of .357 Magnum revolver.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Will a Euro sink in water?",
+        "input": "",
+        "output": "The smallest Euro paper bill is Five Euro. One Euro is only available as a coin. Coins sink in water. A metal coin is more dense than water.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Was being a mail carrier considered one of the most dangerous jobs?",
+        "input": "",
+        "output": "The Pony Express was one of the first mail carrier services. The Pony Express operated form 1860 to 1861. Pony Express riders would have to travel hundreds of miles on horse back through extreme weather and terrain. The Pony Express sought to hire young expert horse riders willing to risk death.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Are banana trees used by judges for maintaining order?",
+        "input": "",
+        "output": "A banana tree has seeds that only have one embryonic leaf and is called a monocot. Judges use gavels to maintain order in court. Gavels are made of hardwood. Hardwood comes from dicot trees. Oak, maple, and sycamore are dicot trees.\nThe final answer is no"
+    },
+    {
+        "instruction": "Would Kurt Cobain have benefited from Project Semicolon?",
+        "input": "",
+        "output": "Project Semicolon is an American nonprofit organization known for its advocacy of mental health wellness and its focus as an anti-suicide initiative. During the last years of his life, Cobain struggled with heroin addiction and chronic health problems such as depression. Cobain died at the age of 27 from apparent suicide by gunshot.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Is hanging a viable execution method on a ship at sea?",
+        "input": "",
+        "output": "Hanging is typically set up using rope. Ships have plenty of rope on board because their operation relies heavily on rope.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Does United Airlines have a perfect operation record?",
+        "input": "",
+        "output": "An airline with a perfect operation record has no crashes or other damaging incidents. United Airlines has had over 30 crash incidents over several decades.\nThe final answer is no"
+    },
+    {
+        "instruction": "Can first letter row of QWERTY keyboard spell a palindrome?",
+        "input": "",
+        "output": "The first letter row of the QWERTY keyboard contains: QWERTYUIOP. A palindrome is a word that can be spelled the same backwords and forwards such as racecar and rotor.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Did a Mediterranean Sea creature kill Steve Irwin?",
+        "input": "",
+        "output": "Steve Irwin was killed by a Stingray animal. Batoids are sea ray animals that live in the Mediterranean Sea. Batoids and stingrays are related by sharing a scientific class of Chondrichthyes.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Was the original James Bond actor born near the Washington Monument?",
+        "input": "",
+        "output": "The original James Bond actor was Sean Connery. Sean Connery was born in Scotland. The Washington Monument is located in Washington, D.C. Washington, D.C. and Scotland are nearly 3,500 miles apart.\nThe final answer is no"
+    },
+    {
+        "instruction": "Could Edward Snowden have visited the headquarters of United Nations Conference on Trade and Development?",
+        "input": "",
+        "output": "The headquarters of the United Nations Conference on Trade and Development is in Geneva, Switzerland. Edward Snowden was stationed in Geneva in 2007 with the task of representing the US at the UN.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Did Eric Clapton have similar taste in women to one of the Beatles?",
+        "input": "",
+        "output": "The Beatles consisted of John Lennon, Paul McCartney, George Harrison, and Ringo Starr. George Harrison was married to Pattie Boyd from 1966-1977. Eric Clapton married Pattie Boyd in 1979.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Does Steven Spielberg's 1998 film take place in a period after War Horse setting?",
+        "input": "",
+        "output": "Steven Spielberg's 1998 film, Saving Private Ryan, takes place during World War II. World War II took place from 1939-1945. The 2011 movie War Horse takes place during World War I. World War I took place from 1914-1918.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Is Olivia Newton-John hyphenated celebrity name with most letters?",
+        "input": "",
+        "output": "Olivia Newton-John has sixteen letters in her name. Actress Catherine Zeta-Jones has 18 letters in her name. Actor Joseph Gordon-Levitt has 18 letters in his name.\nThe final answer is no"
+    },
+    {
+        "instruction": "Can the Moscow Kremlin fit inside Disney Land?",
+        "input": "",
+        "output": "The Moscow Kremlin is a fortified complex in the middle of Moscow Russia. The Kremlin takes up sixty eight acres. Disney Land is an amusement park in California. Disney Land occupies eighty five acres.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Is Samsung accountable to shareholders?",
+        "input": "",
+        "output": "Samsung is a publicly traded company. Publicly traded companies are ultimately accountable to shareholders.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Would Mickey Mouse blend in with the American flag?",
+        "input": "",
+        "output": "The American Flag is colored red, white, and blue. Mickey Mouse typically wears red shorts, large yellow shoes, and white gloves. The color yellow stands out distinctly from red, white, and blue. Things that are colored similarly or identically will blend in with each other.\nThe final answer is no"
+    },
+    {
+        "instruction": "Are gorillas closely related to humans?",
+        "input": "",
+        "output": "Gorillas are part of the animal family Hominidae. Hominidae also includes the genus Homo, which only contains the human species.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Could an ocelot subsist on a single bee hummingbird per day?",
+        "input": "",
+        "output": "An ocelot requires 600\u2013800 grams (21\u201328 oz) of food every day to satisfy its energy requirements. Bee hummingbirds are the smallest living birds, with an average weight of around 2-3 grams.\nThe final answer is no"
+    },
+    {
+        "instruction": "Are the events of Star Trek: The Next Generation in the history of the world?",
+        "input": "",
+        "output": "The history of the world includes factual events. Star Trek: TNG is a fictional television show.\nThe final answer is no"
+    },
+    {
+        "instruction": "Would New Year's Eve hypothetically be Bacchus's favorite holiday?",
+        "input": "",
+        "output": "Bacchus was the Roman god of wine and revelry. One of the main New Year's Eve traditions is drinking a toast to the new year. New Year\u2019s Eve is the biggest day of the year for liquor stores in terms of sales.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Were French people involved in the American Civil War?",
+        "input": "",
+        "output": "The French General Lafayette allied with the American Revolutionaries. Lafayette's army scored several key victories for the rebels.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Is The Joy of Painting TV show still producing new episodes?",
+        "input": "",
+        "output": "The Joy of Painting is hosted by painter Bob Ross. Bob Ross died in 1995. The episodes currently airing are reruns.\nThe final answer is no"
+    },
+    {
+        "instruction": "Are Sable's a good choice of Mustelidae to weigh down a scale?",
+        "input": "",
+        "output": "Mustelidae is the scientific designation for animals that share similarities including polecats, sables, and ferrets. Polecats weigh between 2.2 and 3.3 pounds. Sable's weigh around 2.4 pounds. Ferrets can weigh up to 44 pounds. Sable's have sharp teeth and a painful bite and are outlawed in many states.\nThe final answer is no"
+    },
+    {
+        "instruction": "Would \u015eerafeddin Sabuncuo\u011flu have eaten B\u00f6rek?",
+        "input": "",
+        "output": "B\u00f6rek originated in Ottoman cuisine. \u015eerafeddin Sabuncuo\u011flu was an Ottoman scientist.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Would Bruce Gandy be an odd choice for Messiah (Handel)?",
+        "input": "",
+        "output": "Messiah (Handel) is a 1741 Oratorio by George Frideric Handel. Messiah (Handel) requires the following instruments: 2 trumpets; timpani; 2 oboes; 2 violins; and a viola. Bruce Gandy is a world renowned bagpipe player.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Does giant panda have colors that differ from yin yang?",
+        "input": "",
+        "output": "The giant panda is a mammal that is black and white in color. Yin yang is an ancient Chinese concept represented by the colors black and white.\nThe final answer is no"
+    },
+    {
+        "instruction": "Can a cell fit inside of a shoebox?",
+        "input": "",
+        "output": "The average shoebox is around 14 inches by 10 inches by 5 inches. The average eukaryotic cell is between 1 and 100 micrometers in diameter.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Is Kim Kardashian a guru?",
+        "input": "",
+        "output": "A guru is a teacher or guide, particularly a spiritual one. Kim Kardashian is a socialite and a model.\nThe final answer is no"
+    },
+    {
+        "instruction": "Could Elizabeth I of England have seen the play Dido, Queen of Carthage ?",
+        "input": "",
+        "output": "Elizabeth I of England lived from 1533 - 1603. Dido, Queen of Carthage is a short play written by the English playwright Christopher Marlowe. It was probably written between 1587 and 1593.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Can an asteroid be linked with virginity?",
+        "input": "",
+        "output": "An asteroid discovered in 1807 was named Vesta. Vesta is the Roman virgin goddess of hearth, home and family.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Is the Easter Bunny popular in September?",
+        "input": "",
+        "output": "The Easter Bunny is a symbol of the Christian holiday of Easter. Easter occurs in March or April each year.\nThe final answer is no"
+    },
+    {
+        "instruction": "Do most high school head coaches make as much as the Head Coach at NCSU?",
+        "input": "",
+        "output": "The average high school makes about $41,000. The head coach for NCSU makes about $1.8 million dollars.\nThe final answer is no"
+    },
+    {
+        "instruction": "Did Jesus go to school to study railroad engineering?",
+        "input": "",
+        "output": "The steam locomotive to drive a train was invented in the 19th century. Jesus lived around 0 AD.\nThe final answer is no"
+    },
+    {
+        "instruction": "Could the Jackson 5 play a full game of rugby with each other?",
+        "input": "",
+        "output": "The Jackson 5 consisted of five members. A full game of rugby is played between 2 teams of 15 players each.\nThe final answer is no"
+    },
+    {
+        "instruction": "Would Lord Voldemort hypothetically be an effective fighter after Final Fantasy silence is cast?",
+        "input": "",
+        "output": "Lord Voldemort is a powerful wizard from the Harry Potter Series. Lord Voldemort casts magical curses and charms on his enemies. Silence spell in Final Fantasy mutes the enemies spells. Mute makes it impossible for characters to cast any spells.\nThe final answer is no"
+    },
+    {
+        "instruction": "During the Cuban revolution, did the US experience a population boom?",
+        "input": "",
+        "output": "After WWII, the US experienced a baby boom. WWII ended in 1945.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Is Mixed martial arts totally original from Roman Colosseum games?",
+        "input": "",
+        "output": "Mixed Martial arts in the UFC takes place in an enclosed structure called The Octagon. The Roman Colosseum games were fought in enclosed arenas where combatants would fight until the last man was standing. Mixed martial arts contests are stopped when one of the combatants is incapacitated. The Roman Colosseum was performed in front of crowds that numbered in the tens of thousands. Over 56,000 people attended UFC 193.\nThe final answer is no"
+    },
+    {
+        "instruction": "Do Chinese Americans face discrimination at a Federal level in the US?",
+        "input": "",
+        "output": "The President of the United States frequently referred to the COVID-19 pandemic as a 'Chinese Virus' and 'Kung Flu', encouraging the use of derogatory language towards Chinese Americans. The President of the United States has not called for the violence and hate towards Chinese Americans in response to COVID-19 to end.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Do Christians anticipate an existence in Sheol after death?",
+        "input": "",
+        "output": "Sheol appears in the Christian Bible, in the Old Testament. Christians do not recognize Sheol as part of their afterlife.\nThe final answer is no"
+    },
+    {
+        "instruction": "Is August a winter month for part of the world?",
+        "input": "",
+        "output": "August is a summer month in the northern hemisphere. However, the seasons are opposite south of the Equator. August is in the middle of winter for Australia, Antarctica, and parts of Africa and South America.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Does Neville Longbottom have more courage as a child than as an adult?",
+        "input": "",
+        "output": "Neville Longbottom is a character from the Harry Potter series. In the first few books of the Harry Potter series, Neville is a child. In the final few books of the Harry Potter series Neville is becoming an adult. Neville's first appearances in the series show him to be very cowardly. Neville is considered a hero by the end of the series.\nThe final answer is no"
+    },
+    {
+        "instruction": "Could pickled cucumbers from 1,000 years ago be good still?",
+        "input": "",
+        "output": "Pickled foods disintegrate over time. Pickling and preserving technology from 1,000 years ago was not airtight or made for longevity.\nThe final answer is no"
+    },
+    {
+        "instruction": "Does Mercury help detect coronavirus?",
+        "input": "",
+        "output": "Mercury is used in thermometers. Thermometers are used in taking body temperature. High temperature or fever is one symptom of coronavirus.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Can a strawberry get worms similar to dogs?",
+        "input": "",
+        "output": "Strawberry can suffer from black root rot and nematodes. Dogs can suffer from a variety of worms including roundworms that lay eggs on them. Nematodes are parasites that are also called roundworms and ascarids. Nematodes are parasites that feed off of strawberry plants.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Would a vegan prefer a natural bongo drum over a synthetic one?",
+        "input": "",
+        "output": "Natural bongo drums are made with leather. Synthetic bongo drums are made with plastic or leather substitutes. Vegans do not use or consume any animal products.\nThe final answer is no"
+    },
+    {
+        "instruction": "Did Karl Marx influence the communist party of China?",
+        "input": "",
+        "output": "Communist ideology is the foundation of communist party of China. Marx produced a political pamphlet that has since come to be commonly known as the communist manifesto.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Could a giant squid fit aboard the deck of the titanic?",
+        "input": "",
+        "output": "Decks on the Titanic were as long as 500ft. Giant Squid grow to be around 59ft in length.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Could a cat ride Panzer VIII Maus tank missile from Barcelona to Madrid?",
+        "input": "",
+        "output": "The Panzer VIII Maus tank missile had a range of around 2.2 miles. The distance from Barcelona to Madrid is 385 miles. Motion sickness is a common problem in cats.\nThe final answer is no"
+    },
+    {
+        "instruction": "Is Christianity better for global warming than Satanism?",
+        "input": "",
+        "output": "Global warming happens because CO2 is released into the atmosphere and warms it up. Humans release two tons of carbon dioxide a year. Reducing the population will lead to a reduction of CO2 in the atmosphere. The Christian Crusades caused the deaths of nearly three million people. In 1980s and 1990s there were allegations of Satanic ritual deaths, though only a few cases were substantiated.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Did Melania Trump have same profession as Olga Kurylenko?",
+        "input": "",
+        "output": "Melania Trump is the first lady of the United States and was previously a model. Olga Kurylenko is a professional actress that also works as a model.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Is Shakespeare famous because of the infinitive form?",
+        "input": "",
+        "output": "Shakespeare wrote the play Hamlet. Hamlet contains one of Shakespeare's most famous passages, Hamlet's soliloquy. Hamlet's soliloquy begins with the line 'To be or not to be', which uses the infinitive form.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Were deaths from Apollo 13 mission eclipsed by other space missions?",
+        "input": "",
+        "output": "Apollo 13 was a failed Moon landing in which the crew had faulty oxygen resources. All of the Apollo 13 crew returned safely to earth. The Challenger was a space shuttle that malfunctioned, killing all seven passengers. The Space Shuttle Columbia disaster had seven casualties.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Would Gordon Ramsey use uranium as a seasoning?",
+        "input": "",
+        "output": "Gordon Ramsey is a chef known for producing high quality food. Uranium is a toxic and weakly radioactive metal.\nThe final answer is no"
+    },
+    {
+        "instruction": "Do people with DID have a good memory?",
+        "input": "",
+        "output": "DID is an abbreviation for 'Dissociative Identity Disorder.'. DID is characterized by gaps in memory, as well as altered states or 'personalities' during these dissociative moments.\nThe final answer is no"
+    },
+    {
+        "instruction": "Is Menthol associated with Thanksgiving?",
+        "input": "",
+        "output": "Menthol is the main component of peppermint oil and is responsible for the noticeable cooling sensation. During Thanksgiving, turkey, potatoes, gravy, and pie are common dishes. None of which have menthol in it.\nThe final answer is no"
+    },
+    {
+        "instruction": "Can the majority of vowels be typed on the first line of a QWERTY keyboard?",
+        "input": "",
+        "output": "In English the vowels consist of A, E, I, O, U, and sometimes Y. The first line of the QWERTY keyboard contains the vowels E, I, O, U, and Y. A majority means more than half of the total.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Was Elizabeth II the Queen during the Persian Gulf War?",
+        "input": "",
+        "output": "Elizabeth II became Queen in 1952. The Persian Gulf War occurred 1990-1991.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Will NY Stock Exchange closing bell be heard in Universal Music Group's headquarters?",
+        "input": "",
+        "output": "The New York Stock Exchange is located in New York, USA. Universal Music Group's headquarters is located in Santa Monica, California. Santa Monica is about 2800 miles from New York. A shout can be heard up to 100 meters away.\nThe final answer is no"
+    },
+    {
+        "instruction": "While on a liquid diet, are there some types of soup you cannot eat?",
+        "input": "",
+        "output": "Italian wedding soup has large chunks including meatballs and pasta which require chewing. Chicken Noodle soup has chunks of chicken and large noodles in it that require chewing.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Was a USB flash drive used in The Godfather?",
+        "input": "",
+        "output": "USB flash drives first appeared on the market in late 2000. The Godfather was released in 1972.\nThe final answer is no"
+    },
+    {
+        "instruction": "Can a snow leopard eat twice its own body weight?",
+        "input": "",
+        "output": "The average snow leopard weighs 72 pounds. The favorite food of snow leopards is an ibex. The average weight of an ibex is 150 pounds.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Did Brad Peyton need to know about seismology?",
+        "input": "",
+        "output": "Brad Peyton directed the movie San Andreas. San Andreas is an earthquake disaster film. Seismology is the science of earthquakes and related phenomena.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Is Newspeak considered very straightforward?",
+        "input": "",
+        "output": "The vocabulary in Newspeak is extremely restricted. In Newspeak, the Ministry of Truth manufactures lies for the public to consume. In Newspeak, the Ministry of Plenty artificially creates scarcity. To be straightforward is to be uncomplicated and easy to understand.\nThe final answer is no"
+    },
+    {
+        "instruction": "Would Stephen King fans be likely to own an image of a clown?",
+        "input": "",
+        "output": "Stephen King wrote a popular book called \"It\" about an evil clown. \"It\" has been made into two major films and has been merchandised.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Was Saudi Aramco started due to an assassination?",
+        "input": "",
+        "output": "Saudi Aramco was formed in response to oil shortages during World War I. The origins of World War I can be traced to the assassination of Archduke Franz Ferdinand in Sarajevo.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Was Richard III ruler of Adelaide?",
+        "input": "",
+        "output": "Richard III was King of England and Lord of Ireland from 1483-1485. Adelaide is a city in South Australia.\nThe final answer is no"
+    },
+    {
+        "instruction": "At Christmastime, do some films remind us that groundhog day is approaching?",
+        "input": "",
+        "output": "Jack Frost is a 1979 stop motion Christmas film. In Jack Frost, the groundhog is a character and gets his own song reminding people of his own holiday.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Did the crew of Apollo 15 take pictures of Mount Sharp?",
+        "input": "",
+        "output": "Mount Sharp is a mountain on Mars. The crew of Apollo 15 landed on the Moon, not Mars. No humans have ever landed on Mars.\nThe final answer is no"
+    },
+    {
+        "instruction": "Is All Purpose Flour safe for someone who has celiac disease?",
+        "input": "",
+        "output": "All purpose flour has about 9% gluten in it. When someone with Celiac disease eats gluten, their body has an immune response that attacks their small intestine.\nThe final answer is no"
+    },
+    {
+        "instruction": "Have Douglas fir been used to fight wars?",
+        "input": "",
+        "output": "Douglas fir are a type of tree. Douglas fir are used to make ships. The Minesweeper is a small warship made from Douglas fir. The Minesweeper was made of wood to reduce it's risk magnetic signature and likely hood of detonating mines.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Did Clark Gable marry more women once than Richard Burton?",
+        "input": "",
+        "output": "Richard Burton was married to Elizabeth Taylor twice. Richard Burton married Sally Burton, Suzy Hunt, and Sybil Williams once. Clark Gable was married to five different women, one time each.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Would Columbus have discovered Durian trees during his 1492 expedition?",
+        "input": "",
+        "output": "Columbus ended up in the Americas. Durian only exists in Southeast Asia.\nThe final answer is no"
+    },
+    {
+        "instruction": "Would Edward II of England have been born without Vikings?",
+        "input": "",
+        "output": "Edward II was King of England from 1307-1327. Rollo was a Viking who became the first ruler of Normandy. William the Conqueror was the first Norman King of England and the great-great-great-grandson of Rollo. Edward II is related to William the Conqueror through Rollo's granddaughter's line (Empress Matilda).\nThe final answer is no"
+    },
+    {
+        "instruction": "Is there any absolute way to prevent abortion?",
+        "input": "",
+        "output": "In areas where professional medical abortions are illegal, women get unsafe illegal abortions from unlicensed practitioners. Women have successfully aborted their own children through physical or chemical means for centuries.\nThe final answer is no"
+    },
+    {
+        "instruction": "Does store bought milk have cream at the top?",
+        "input": "",
+        "output": "When milk is non-homogenized, the cream will separate and rise to the top. Most store bought milk is homogenized.\nThe final answer is no"
+    },
+    {
+        "instruction": "Did U2 play a concert at the Polo Grounds?",
+        "input": "",
+        "output": "U2 is an Irish rock band that formed in 1976. The Polo Grounds was a sports stadium that was demolished in 1964.\nThe final answer is no"
+    },
+    {
+        "instruction": "Would a jumping spider need over half a dozen contact lenses?",
+        "input": "",
+        "output": "Jumping spiders have eight eyes. Half a dozen objects is equal to six objects. One contact lens is worn per eye.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Did Elle Fanning play an essential part in ending apartheid?",
+        "input": "",
+        "output": "Apartheid lasted from 1948 until the early 1990s. Actress Elle Fanning was born on April 9, 1998.\nThe final answer is no"
+    },
+    {
+        "instruction": "Does Magnus Carlsen enjoy KFC?",
+        "input": "",
+        "output": "Magnus Carlsen is a chess grandmaster from Norway. There are no KFC locations in Norway.\nThe final answer is no"
+    },
+    {
+        "instruction": "Is Anakin Skywalker from Star Wars associated with the color black?",
+        "input": "",
+        "output": "As a Jedi during the Clone Wars, Anakin Skywalker often wore black robes. After he was burned and transformed into the cyborg Darth Vader, he received a distinctive and famous all-black outfit including a black mask.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Could a cow produce Harvey Milk?",
+        "input": "",
+        "output": "Harvey Milk was a human being. Cows are not human beings. Only human beings can produce offspring which are also human beings.\nThe final answer is no"
+    },
+    {
+        "instruction": "Did Richard III's father have greater longevity than him?",
+        "input": "",
+        "output": "Richard III lived until the age of 32. Richard, Duke of York, Richard III's father, lived until the age of 49.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Would a Gray Whale fit easily in an above ground pool?",
+        "input": "",
+        "output": "Gray whales are, on average, 39ft long. The average above ground pool is 10-33ft in diameter.\nThe final answer is no"
+    },
+    {
+        "instruction": "Will Conan the Barbarian hypothetically last a short time inside of Call of Duty?",
+        "input": "",
+        "output": "Conan the Barbarian is a comic book character. Conan the Barbarian is equipped with a sword and does not typically wear armor. Call of Duty is a modern warfare video game. Soldiers in Call of Duty are equipped with weapons like sniper rifles, shotguns, and machine guns.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Would three commas be sufficient for displaying US 2018 GDP?",
+        "input": "",
+        "output": "The 2018 GDP of US was 20.54 trillion dollars. There are three commas in a billion. There are four commas in a trillion.\nThe final answer is no"
+    },
+    {
+        "instruction": "Are fossil fuels reducing jobs in the Gulf of Mexico?",
+        "input": "",
+        "output": "An oil spill is still polluting the Gulf of Mexico. Workers such as fishermen are out of work due to pollution.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Can members of the Green Party of England and Wales vote in the USA?",
+        "input": "",
+        "output": "Green Party of England Wales isn't registered in the USA. People who live in England can't vote in the USA.\nThe final answer is no"
+    },
+    {
+        "instruction": "Was Kane (wrestler) banned from WCW  headquarters city?",
+        "input": "",
+        "output": "Kane (wrestler is a professional wrestler most known for his WWE tenure. Kane wrestled one match in WCW as Bruiser Mastino. WWE main rival WCW was headquartered in Atlanta, Georgia. Kane competed in an eight-man tag match at Wrestlemania XXVII in the Georgia Dome. The Georgia Dome was a stadium in Atlanta Georgia.\nThe final answer is no"
+    },
+    {
+        "instruction": "Is it normal to find parsley in multiple sections of the grocery store?",
+        "input": "",
+        "output": "Parsley is available in both fresh and dry forms. Fresh parsley must be kept cool. Dry parsley is a shelf stable product.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Was song of Roland protagonist friendly with group that had sagas?",
+        "input": "",
+        "output": "The sagas were Nordic mythological stories that were celebrated by the Vikings. The Song of Roland was an epic poem about the nephew of Charlemagne. Charlemagne was King of the Franks. The Franks fought many battles against Vikings including the Siege of Paris in 845 AD.\nThe final answer is no"
+    },
+    {
+        "instruction": "Are Naruhito's ancestors the focus of Romance of the Three Kingdoms?",
+        "input": "",
+        "output": "Naruhito is the Emperor of Japan. Romance of the Three Kingdoms was a 14th century historical novel about the Three Kingdoms Period. The Three Kingdoms Period was the division of China among the states of Wei, Shu, and Wu.\nThe final answer is no"
+    },
+    {
+        "instruction": "Can spiders help eggplant farmers control parasites?",
+        "input": "",
+        "output": "The potato tuber moth is a parasite that targets the plant family Solanaceae, including eggplant. Selenops radiatus is a spider genus in South Africa that effectively controls the potato tuber moth.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Would baker's dozen of side by side Mac Trucks jam up Golden Gate Bridge?",
+        "input": "",
+        "output": "The width of the Golden Gate Bridge is 90 feet. A baker's dozen includes 13 items. The width of a Mac truck is around 8 feet.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Was Ariana Grande inspired by Imogen Heap?",
+        "input": "",
+        "output": "Ariana Grande's song 'Goodnight And Go' uses a sample from a track of the same name. \"Goodnight and Go\" is originally an Imogen Heap song.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Did Linnaeus edit Darwin's draft of Origin of Species?",
+        "input": "",
+        "output": "Linnaeus died in 1778. Origin of Species was published in 1859.\nThe final answer is no"
+    },
+    {
+        "instruction": "Can someone with celiac disease have potato vodka?",
+        "input": "",
+        "output": "Celiac disease makes it unsafe for someone to eat gluten. Potato vodka is a gluten free product.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Has Drew Carey outshined Doug Davidson's tenure?",
+        "input": "",
+        "output": "Drew Carey has been the host of the Price is Right for over 13 years. Doug Davidson hosted the Price is Right from 1994-1995.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Did Malcolm X avoid eating ham?",
+        "input": "",
+        "output": "Malcolm X was a practicing Muslim. Muslims are prohibited from eating foods derived from pigs.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Can you house a giant squid at Soldier Field?",
+        "input": "",
+        "output": "Soldier Field is a football stadium. Football fields are 120 yards long, or 360 feet. The maximum length of a giant squid is 43 feet.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Was the Second Amendment to the United States Constitution written without consideration for black Americans?",
+        "input": "",
+        "output": "The writers of the Constitutional Amendments did not view black people as legitimate human beings. The writers of the Constitutional Amendments believed that slavery benefited black slaves. The Constitutional Amendments were written for people that the writers considered human.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Can you find Bob Marley's face in most smoke shops?",
+        "input": "",
+        "output": "Bob Marley's face is on the packaging of a popular brand of rolling papers. Bob Marley is a popular graphic to print on t-shirts for sale to smokers.\nThe final answer is Bob Marley's face is on the packaging of a popular brand of rolling papers. Bob Marley is a popular graphic to print on t-shirts for sale to smokers.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Is an ocelot a good present for a kindergartener?",
+        "input": "",
+        "output": "An ocelot is a small wild cat native to South America, Mexico, and the southern US. Ocelots are carnivores that hunt other animals and are aggressive, and strong for their size. Kindergarteners are usually 5 years old and weigh around 39 pounds.\nThe final answer is no"
+    },
+    {
+        "instruction": "Does Santa Claus work during summer?",
+        "input": "",
+        "output": "Christmas is in winter. Santa works on Christmas.\nThe final answer is no"
+    },
+    {
+        "instruction": "Could a Porsche 992 Turbo S defeat Usain Bolt in a 100 meter sprint?",
+        "input": "",
+        "output": "The Porsche 992 Turbo S can accelerate to 62 mph in 2.7 seconds. Usain Bolt's top speed ever measured is 27.79 mph.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Do black swan cygnets typically know both of their genetic parents?",
+        "input": "",
+        "output": "Up to one-quarter of monogamous black swan pairs are same-sex, with males taking over a female's nest to raise her young without her. One-third of monogamous black swan pairs show extra-pair paternity, with the male aiding the female in raising another male's offspring. A cygnet is a juvenile swan.\nThe final answer is no"
+    },
+    {
+        "instruction": "Will Elijah Cummings cast a vote in the 2020 presidential election?",
+        "input": "",
+        "output": "Elijah Cummings died on October 17th, 2019. It is not possible, or legal, for a dead person to cast a vote in a presidential election.\nThe final answer is no"
+    },
+    {
+        "instruction": "Does a Generation Y member satisfy NYPD police officer age requirement?",
+        "input": "",
+        "output": "The NYPD has a minimum age requirement of 21. Members of Generation Y were born between 1980 and 1994.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Can an anchovy born in 2020 survive 25th US census?",
+        "input": "",
+        "output": "The US Census takes place every ten years. The 24th US Census took place in 2020. The 25th US Census will take place in 2030. The average lifespan of an anchovy is five years.\nThe final answer is no"
+    },
+    {
+        "instruction": "Is watermelon safe for people with a tricarboxylic acid allergy?",
+        "input": "",
+        "output": "Tricarboxylic acid as an acid that manifests itself in fruits as citric acid. Citric acid can be found in citrus fruits such as oranges and lemon. Watermelon is not a citrus fruit.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Does Marco Rubio have a close relationship with Allah?",
+        "input": "",
+        "output": "Marco Rubio adheres to the religious sect of Christianity known as Catholicism. Catholics and other Christians worship God. Allah is worshiped by believers of Islam.\nThe final answer is no"
+    },
+    {
+        "instruction": "Did Confederate States Army influence West Point fashion?",
+        "input": "",
+        "output": "The Confederate States Army was clad in cadet gray uniforms. West Point uniforms are cadet gray and white. Confederate States Army uniforms contained Generally, the uniform jacket of the Confederate soldier was single breasted, made of gray or brown fabric, with a six to nine button front and hat. West Point uniforms contain a standing collar, white trousers, and black shakos (known as a \"tarbucket hat\" in U.S. Army nomenclature).\nThe final answer is yes"
+    },
+    {
+        "instruction": "Can you drown in a Swan Lake performance?",
+        "input": "",
+        "output": "Drowning is defined as respiratory impairment as a result of being in or under a liquid. Swan Lake is not a body of water, but rather an example of performance dance.\nThe final answer is no"
+    },
+    {
+        "instruction": "Is accountant a difficult profession for a person suffering from Dyscalculia?",
+        "input": "",
+        "output": "Accounting is a math intensive profession in which a person keeps or inspects financial accounts. Dyscalculia is a math learning disability that impairs an individual's ability to represent and process numerical magnitude in a typical way. Common symptoms of Dyscalculia include: difficulty with number sense. difficulty with fact and calculation. Dyscalculia is sometimes called \u201cnumber dyslexia\u201d or \u201cmath dyslexia.\u201d.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Would someone with back pain enjoy picking strawberries?",
+        "input": "",
+        "output": "Back pain may be worsened by repeated bending at the waist. Strawberries grow very close to the ground.\nThe final answer is no"
+    },
+    {
+        "instruction": "Can Reiki be stored in a bottle?",
+        "input": "",
+        "output": "Reiki practitioners use a technique called palm healing or hands-on healing through which a \"universal energy\" is said to be transferred through the palms of the practitioner to the patient in order to encourage emotional or physical healing. Medications are typically stored in pill bottles.\nThe final answer is no"
+    },
+    {
+        "instruction": "Is 1936 Summer Olympics venue too small for a Superbowl crowd?",
+        "input": "",
+        "output": "The 1936 Summer Olympics was held at the Olympiastadion Berlin. The Olympiastadion Berlin has a capacity of over 74,000 people. The 2020 Superbowl was attended by 62,417 fans.\nThe final answer is no"
+    },
+    {
+        "instruction": "Can musicians become knights?",
+        "input": "",
+        "output": "Elton John was knighted by the Queen of England. Tom Jones was knighted by the Queen of England. Elton John is a famous pop singer. Tom Jones is a famous musician.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Is it unusual to play Happy hardcore music at a funeral?",
+        "input": "",
+        "output": "Happy hardcore is a music genre of hard dance. Happy hardcore emerged both from the UK breakbeat hardcore rave scene, and Belgian, German and Dutch hardcore techno scenes. A funeral is traditionally a somber event. Funerals typically do not involve dancing. Raves are typically energetic and upbeat places and are not somber like a funeral.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Is Michael Vick on People for the Ethical Treatment of Animals's hypothetical blacklist?",
+        "input": "",
+        "output": "People for the Ethical Treatment of Animals (PETA) is an animal rights organization that fights for the welfare of animals. A blacklist is a list of people that are unacceptable and should be avoided or excluded. Michael Vick is an ex-football player that spent 21 months in prison for his vicious dog fighting enterprise.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Did Charlemagne have a bar mitzvah?",
+        "input": "",
+        "output": "Charlemagne was a Roman Catholic. Bar mitzvah is a coming of age ceremony in Judaism.\nThe final answer is no"
+    },
+    {
+        "instruction": "Did Kim Il-sung network on LinkedIn?",
+        "input": "",
+        "output": "LinkedIn was launched in 2003. Kim Il-sung died in 1994.\nThe final answer is no"
+    },
+    {
+        "instruction": "Did Solomon make up bigger percentage of Islamic prophets than Kings of Judah?",
+        "input": "",
+        "output": "According to The Quran, Solomon was one of 25 prophets. According to some Islamic hadiths, there have been as many as 124,000 prophets. Solomon was one of 20 Kings of Judah.\nThe final answer is no"
+    },
+    {
+        "instruction": "Has a baby ever had a moustache?",
+        "input": "",
+        "output": "When babies are in the womb, many have hair known as lanugo. Lanugo is unpigmented, downy hair that is sometimes found on the body of fetuses and babies. Lanugo can grow anywhere on a baby's body but is usually shed before the baby is born and is reabsorbed by the mother.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Would a duck ever need a Caesarean section?",
+        "input": "",
+        "output": "A Caesarean section is a medical procedure in which surgery is performed to remove the baby from inside the mother. Ducks do not give live birth, they lay eggs.\nThe final answer is no"
+    },
+    {
+        "instruction": "Is Isaac Newton buried at the same church as the author of Great Expectations?",
+        "input": "",
+        "output": "Isaac Newton is buried at Westminster Abbey. Charles Dickens's book Great Expectations was publishedin 1861. Charles Dickens is buried at the Poets' Corner of Westminster Abbey. Westminster Abbey is a large church in the City of Westminster, London, England.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Did a Polish poet write sonnets about Islamic religion?",
+        "input": "",
+        "output": "Adam Mickiewicz was a Polish poet. Adam Mickiewicz 's sonnet sequence focuses heavily on the culture and Islamic religion of the Crimean Tatars.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Did Jackson 5 members exceed number in The Osmonds?",
+        "input": "",
+        "output": "The Jackson 5 was composed of: Jackie, Tito, Jermaine, Marlon and Michael. The Osmonds consisted of:Alan, Wayne, Merrill, Jay and Donny.\nThe final answer is no"
+    },
+    {
+        "instruction": "Is Final Fantasy VI closer to beginning than end of its franchise?",
+        "input": "",
+        "output": "Final Fantasy VI is the sixth entry into the Final Fantasy series of video games. There are 15 total games in the main Final Fantasy series of video games as of 2020.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Can Burundi's communicate with citizens of New Brunswick?",
+        "input": "",
+        "output": "French and English are the official languages of New Brunswick. French is one of the official languages of Burundi.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Can children be soldiers in the US Army?",
+        "input": "",
+        "output": "A soldier is a member of the armed forces. The US Army is the land warfare branch of the United States. The minimum age for enlistment in the US Army is 18 years old. A child is considered is considered to be anyone under the age of 18 years old.\nThe final answer is no"
+    },
+    {
+        "instruction": "Did villain that killed Superman murder Robin?",
+        "input": "",
+        "output": "Superman was killed by the villain Doomsday in Superman #75. Robin is killed by The Joker in the Batman comics.\nThe final answer is no"
+    },
+    {
+        "instruction": "Could Godzilla have been killed by the Tohoku earthquake?",
+        "input": "",
+        "output": "The Tohoku earthquake led to the Fukushima Daiichi nuclear power plant meltdown. Nuclear meltdowns lead to a release of deadly levels of radiation. Godzilla draws power from radiation and is not hurt by it.\nThe final answer is no"
+    },
+    {
+        "instruction": "Is Pig Latin related to real Latin?",
+        "input": "",
+        "output": "Pig Latin is based on English. It is formed by moving consonants and syllables. Real Latin is a separate language distinct from English.\nThe final answer is no"
+    },
+    {
+        "instruction": "Is Europa linked to Viennese waltzes?",
+        "input": "",
+        "output": "Europa is a moon of Jupiter. Europa played an important role in Stanley Kubrick's film 2001: A Space Odyssey. The soundtrack to 2001: A Space Odyssey prominently featured The Blue Danube. The Blue Danube is a famous Viennese waltz composed by Johan Strauss II.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Is Home Depot a one stop shop for crucifixion supplies?",
+        "input": "",
+        "output": "A one stop shop is a store where multiple items are supplied. Crucifixion is a form of punishment in which a person is nailed to a wooden cross. Home Depot sells numerous supplies including: hammers, nails, and wood.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Would Kylee Jenner ask for no cream in her coffee?",
+        "input": "",
+        "output": "Kylee Jenner is lactose intolerant. Lactose intolerance makes it uncomfortable for people to digest foods containing lactose. Cream is a dairy product and is rich in lactose.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Has Don King killed more people than Charles Manson did with his own hands in 1971?",
+        "input": "",
+        "output": "Charles Manson is famous for a series of murders in 1971. Charles Manson's cult was responsible for seven deaths in 1971 but he was not present during the murders. Boxing promoter Don King has been charged with killing two people in incidents 13 years apart and settled out of court..\nThe final answer is yes"
+    },
+    {
+        "instruction": "Would Garfield like canid food?",
+        "input": "",
+        "output": "Garfield is a fictional comic strip character that is a cat. Garfield loves to eat spaghetti. Canid refers to the species that dogs belong to. Dogs like to eat meat and dog food.\nThe final answer is no"
+    },
+    {
+        "instruction": "Can a false pope become a saint?",
+        "input": "",
+        "output": "A false pope, or antipope, is someone that tries to claim they are the true pope but the church rejects them. Hippolytus (c. 170\u2013235 AD) headed a schismatic group as a rival to the Bishop of Rome, thus becoming an antipope. Hippolytus (c. 170\u2013235 AD) was named a saint in the Roman Catholic Church.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Could an infant solve a sudoku puzzle?",
+        "input": "",
+        "output": "Solving a sudoku puzzle requires the use of logic and a basic understanding of numbers. Infants are too young to understand the numerical system involved in sudoku.\nThe final answer is no"
+    },
+    {
+        "instruction": "Can I build a house on an asteroid?",
+        "input": "",
+        "output": "Building a house requires gravity to hold the house to the surface. The largest asteroid in our Solar System is Ceres, 583 miles across. Asteroids are not large enough to create noticeable gravity.\nThe final answer is no"
+    },
+    {
+        "instruction": "Is sunscreen unhelpful for the condition that killed Bob Marley?",
+        "input": "",
+        "output": "Bob Marley died of acral lentiginous melanoma. Acral lentiginous melanoma occurs on skin that may not have any sun exposure.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Was hippie culture encouraged by the government in the Soviet Union?",
+        "input": "",
+        "output": "Long hair was associated with the subcultures and youth movements that arose in the Western world during the mid-1960s, such as Hippies. M\u00e1ni\u010dky) is a Czech term used for young people with long hair, typically men, in Czechoslovakia through the 1960s and 1970s. From the mid-1960s, \"m\u00e1ni\u010dky\" became a target of continuous interest of the state security apparatus.\nThe final answer is no"
+    },
+    {
+        "instruction": "Can soup be eaten with the hands?",
+        "input": "",
+        "output": "Soup is mostly liquid. Hands cannot hold liquid.\nThe final answer is no"
+    },
+    {
+        "instruction": "Did the iPhone usher in the scientific revolution?",
+        "input": "",
+        "output": "The scientific revolution took place in the 16th and 17th centuries. The iPhone came out in the 21st century.\nThe final answer is no"
+    },
+    {
+        "instruction": "Are there any chives hypothetically good for battling vampires?",
+        "input": "",
+        "output": "Vampires in folklore have a weakness to garlic. Chives, an edible plant species, come in a number of varieties. Garlic chives are a variant of chives first found in China thousands of years ago.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Would the fastest tortoise win a race against a Chicago \"L\"?",
+        "input": "",
+        "output": "Top speed ofChicago \"L\" is 55 mph (89 km/h). The Guinness Book of World Records maintains the record for fastest tortoise: the tortoise ran at an average speed of 0.63 miles per hour.\nThe final answer is no"
+    },
+    {
+        "instruction": "Do you need to schedule separate preventive healthcare and sickness visits? ",
+        "input": "",
+        "output": "Preventive healthcare options are typically covered at no charge by health insurance. Sick visits to the doctor are billed separately from preventive healthcare visits. Sick visits and preventive healthcare visits are generally given different time allotments.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Can a Liebherr LTM 11200-9.1 hypothetically lift Mount Emei?",
+        "input": "",
+        "output": "Mount Emei is a 70 ton mountain located in China. The Liebherr LTM 11200-9.1 is the world's strongest crane that can lift 1200 tons.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Would Downton Abbey finale viewership defeat every Kazakhstan citizen in tug of war?",
+        "input": "",
+        "output": "Downton Abbey's finale had a total of 9.6 million viewers. Kazakhstan has 18.7 million citizens as of 2020.\nThe final answer is no"
+    },
+    {
+        "instruction": "Do you have to put on glasses to read a QR code?",
+        "input": "",
+        "output": "Glasses are used to improve one's vision capabilities. QR codes are not readable by humans and have to be read by machines or programs.\nThe final answer is no"
+    },
+    {
+        "instruction": "Is British Airways the air force of the United Kingdom?",
+        "input": "",
+        "output": "British Airways is a commercial transportation company. The military air force of the United Kingdom is named the Royal Air Force. British Airways is headquartered in London. Royal Air Force is part of the British Armed Forces.\nThe final answer is no"
+    },
+    {
+        "instruction": "Is immersion in virtual reality testable on cnidarians before humans?",
+        "input": "",
+        "output": "Perceptions are interpreted in the brain via the nervous system. Hypothetical ways of interfacing with the central nervous system are being explored for immersive virtual reality. Cnidarians have a nervous system, but not a central nervous system.\nThe final answer is no"
+    },
+    {
+        "instruction": "Could a Hwasong-15 missile hypothetically reach Voyager 2?",
+        "input": "",
+        "output": "Voyager 2 was a probe that traveled to the interstellar medium of space. The interstellar medium is over 12,161,300,000 miles away from earth. The Hwasong-15 missile is a North Korean missile with a range of 8,000 miles.\nThe final answer is no"
+    },
+    {
+        "instruction": "Would Robert Stack have been interested in Tower of London during 1400s for his 14 season show?",
+        "input": "",
+        "output": "Robert Stack was an actor best known for Unsolved Mysteries which lasted for 14 seasons before being rebooted by Netflix. The Tower of London is a historic building in London. Unsolved Mysteries explored unexplained phenomenon and mysterious events. The heirs of Edward IV mysteriously vanished from the Tower of London in the 1400s and were presumed muredered.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Does the United States Secretary of State answer the phones for the White House?",
+        "input": "",
+        "output": "The role of United States Secretary of State carries out the President's foreign policy. The White House has multiple phone lines managed by multiple people.\nThe final answer is no"
+    },
+    {
+        "instruction": "Would Marvel's Gateway be envious of the Doctor (Doctor Who)'s TARDIS machine?",
+        "input": "",
+        "output": "The Doctor (Doctor Who) used the TARDIS, a largely unreliable time traveling machine, to travel through time and space. Gateway is a Marvel comic character linked to the X-Men comics. Gateway has the power to create wormholes that allow him to travel through time and space.\nThe final answer is no"
+    },
+    {
+        "instruction": "Did Pink Floyd have a song about the French Riviera?",
+        "input": "",
+        "output": "Pink Floyd included the song San Tropez on the album Meddle. San Tropez, also known as Saint Tropez, is a town located on the French Riviera.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Are goldfish more difficult to care for than isopods?",
+        "input": "",
+        "output": "Isopod care is compared to that of a houseplant. Goldfish are notorious for making their tanks dirty quite often.\nThe final answer is yes"
+    },
+    {
+        "instruction": "Could a newborn look over the top of a fully grown horseradish plant?",
+        "input": "",
+        "output": "A fully grown horseradish plant can reach a height of 4.9 feet. Newborn children are typically between 14-20 inches tall in first world countries.\nThe final answer is no"
+    },
+    {
+        "instruction": "Are sesame seeds glued onto hamburger buns?",
+        "input": "",
+        "output": "Glue is toxic and not used in food production. Sesame seeds add texture and visual appeal to hamburger buns. Beaten eggwhites are often used to adhere foods to other foods.\nThe final answer is no"
+    },
+    {
+        "instruction": "Can a greyhound walk on two legs?",
+        "input": "",
+        "output": "Greyhounds are dogs. Dogs walk on four legs.\nThe final answer is no"
+    },
+    {
+        "instruction": "Can sunlight travel to the deepest part of the Black Sea?",
+        "input": "",
+        "output": "The Black Sea has a maximum depth of 2,212 meters. Sunlight does not penetrate water below 1000 meters.\nThe final answer is no"
+    }
+]
