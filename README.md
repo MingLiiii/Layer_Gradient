@@ -4,6 +4,10 @@
 
 This is the repo for the Layer_Gradient project, in which we try to understand the layer-wise gradient behaviors when LLMs are finetuned on Fast vs. Slow Thinking. 
 
+<p align="center" width="40%">
+<a ><img src="images/alpaca.png" alt="overview" style="width: 40%; min-width: 300px; display: block; margin: auto;"></a>
+</p>
+
 The repo contains:
 
 - The code for Calculating Gradient Statistics.
