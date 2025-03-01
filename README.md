@@ -18,7 +18,7 @@ The repo contains:
 (Feel free to email Ming ([Email](minglii@umd.edu)) for any questions or feedback.)
 
 ## News
-- [2025/02] All the **Gradient Statistics** within our experimental scope have been released in (Layer_Gradient_hf)[https://huggingface.co/datasets/MingLiiii/Layer_Gradient], hoping to contribute to the community. 
+- [2025/02] All the **Gradient Statistics** within our experimental scope have been released in [Layer_Gradient_hf](https://huggingface.co/datasets/MingLiiii/Layer_Gradient), hoping to contribute to the community. 
 - [2024/10] We released the Layer_Gradient paper!
 
 ## Contents
