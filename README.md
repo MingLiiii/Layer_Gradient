@@ -1,6 +1,7 @@
 # What Happened in LLMs Layers when Trained for Fast vs. Slow Thinking: A Gradient Perspective
 
-[What Happened in LLMs Layers when Trained for Fast vs. Slow Thinking: A Gradient Perspective](https://arxiv.org/abs/2410.23743) 
+[What Happened in LLMs Layers when Trained for Fast vs. Slow Thinking: A Gradient Perspective](https://arxiv.org/abs/2410.23743) <br>
+Chinese Version: [[知乎]](https://zhuanlan.zhihu.com/p/5721256577)
 
 This is the repo for the Layer_Gradient project, in which we try to understand the layer-wise gradient behaviors when LLMs are finetuned on Fast vs. Slow Thinking. 
 
@@ -17,6 +18,7 @@ The repo contains:
 (Feel free to email Ming ([Email](minglii@umd.edu)) for any questions or feedback.)
 
 ## News
+- [2025/02] All the **Gradient Statistics** within our experimental scope have been released in (Layer_Gradient_hf)[https://huggingface.co/datasets/MingLiiii/Layer_Gradient], hoping to contribute to the community. 
 - [2024/10] We released the Layer_Gradient paper!
 
 ## Contents
@@ -117,7 +119,7 @@ The datasets we use include three categories: **Math**, **Commonsense Reasoning*
 
 ## ToDo
 - [x] Release paper and codes. 
-- [ ] Release the gradient statistics.
+- [x] Release the gradient statistics.
 
 ## Citation
 
