@@ -18,6 +18,9 @@ The repo contains:
 (Feel free to email Ming ([Email](minglii@umd.edu)) for any questions or feedback.)
 
 ## News
+- [2025/05] Our paper has been accepted to the ACL 2025 main conference!
+- [2025/04] A follow-up work ([paper](https://arxiv.org/abs/2504.10766), [code](https://github.com/MingLiiii/Gradient_Unified)) was released, in which we **expanded the analytical tool in this paper** to further Effective Rank and Gradient Similarities, and we **unified the effects of different data quality metrics and compared the instruction vs. reasoning data**. 
+data through the lens of layer-wise gradients. 
 - [2025/02] All the **Gradient Statistics** within our experimental scope have been released in [Layer_Gradient_hf](https://huggingface.co/datasets/MingLiiii/Layer_Gradient), hoping to contribute to the community. 
 - [2024/10] We released the Layer_Gradient paper!
 
@@ -125,15 +128,20 @@ The datasets we use include three categories: **Math**, **Commonsense Reasoning*
 
 Please consider citing our papers if you think our code or data are useful. Thank you! <br>
 ```
-@misc{li2024happenedllmslayerstrained,
-      title={What Happened in LLMs Layers when Trained for Fast vs. Slow Thinking: A Gradient Perspective}, 
-      author={Ming Li and Yanhong Li and Tianyi Zhou},
-      year={2024},
-      eprint={2410.23743},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2410.23743}, 
+@article{li2024happened,
+  title={What Happened in LLMs Layers when Trained for Fast vs. Slow Thinking: A Gradient Perspective},
+  author={Li, Ming and Li, Yanhong and Zhou, Tianyi},
+  journal={arXiv preprint arXiv:2410.23743},
+  year={2024}
 }
+
+@article{li2024happened,
+  title={What Happened in LLMs Layers when Trained for Fast vs. Slow Thinking: A Gradient Perspective},
+  author={Li, Ming and Li, Yanhong and Zhou, Tianyi},
+  journal={arXiv preprint arXiv:2410.23743},
+  year={2024}
+}
+
 ```
 
 ## Our Related Works
