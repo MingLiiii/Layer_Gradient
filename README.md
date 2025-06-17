@@ -19,7 +19,7 @@ The repo contains:
 
 ## News
 - [2025/05] Our paper has been accepted to the ACL 2025 main conference!
-- [2025/04] A follow-up work ([paper](https://arxiv.org/abs/2504.10766), [code](https://github.com/MingLiiii/Gradient_Unified)) was released, in which we **expanded the analytical tool in this paper** to further Effective Rank and Gradient Similarities, and we **unified the effects of different data quality metrics and compared the instruction vs. reasoning data**. 
+- [2025/04] A follow-up work, [Gradient_Unified](https://arxiv.org/abs/2504.10766), was released, in which we **expanded the analytical tool in this paper** to further Effective Rank and Gradient Similarities, and we **unified the effects of different data quality metrics and compared the instruction vs. reasoning data**. 
 data through the lens of layer-wise gradients. 
 - [2025/02] All the **Gradient Statistics** within our experimental scope have been released in [Layer_Gradient_hf](https://huggingface.co/datasets/MingLiiii/Layer_Gradient), hoping to contribute to the community. 
 - [2024/10] We released the Layer_Gradient paper!
