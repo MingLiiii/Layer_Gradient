@@ -135,11 +135,11 @@ Please consider citing our papers if you think our code or data are useful. Than
   year={2024}
 }
 
-@article{li2024happened,
-  title={What Happened in LLMs Layers when Trained for Fast vs. Slow Thinking: A Gradient Perspective},
-  author={Li, Ming and Li, Yanhong and Zhou, Tianyi},
-  journal={arXiv preprint arXiv:2410.23743},
-  year={2024}
+@article{li2025instruction,
+  title={How Instruction and Reasoning Data shape Post-Training: Data Quality through the Lens of Layer-wise Gradients},
+  author={Li, Ming and Li, Yanhong and Li, Ziyue and Zhou, Tianyi},
+  journal={arXiv preprint arXiv:2504.10766},
+  year={2025}
 }
 
 ```
