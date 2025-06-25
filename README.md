@@ -1,6 +1,6 @@
-# What Happened in LLMs Layers when Trained for Fast vs. Slow Thinking: A Gradient Perspective
+# What Happened in LLMs Layers when Trained for Fast vs. Slow Thinking: A Gradient Perspective (ACL'25 Oral)
 
-[What Happened in LLMs Layers when Trained for Fast vs. Slow Thinking: A Gradient Perspective](https://arxiv.org/abs/2410.23743) <br>
+[What Happened in LLMs Layers when Trained for Fast vs. Slow Thinking: A Gradient Perspective](https://arxiv.org/abs/2410.23743) (ACL'25 Oral) <br>
 Chinese Version: [[知乎]](https://zhuanlan.zhihu.com/p/5721256577)
 
 This is the repo for the Layer_Gradient project, in which we try to understand the layer-wise gradient behaviors when LLMs are finetuned on Fast vs. Slow Thinking. 
